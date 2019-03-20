@@ -1,0 +1,17 @@
+<li (click)="open()">
+    <a href="javascript:void(0)">
+        <h4>{{ score.title }}</h4>
+        <p class="text-muted">{{ score.pathology }}</p>
+    </a>
+    <div *ngIf="!score.owner">
+        <i class="fal fa-link"></i>
+    </div>
+</li>
+<li *ngIf="lastEntry" [ngClass]="{'last-entry': lastEntry, 'contact': true}" (click)="contactUs()">
+    <p class="copyright">
+        Rhumato Scores&copy;2019<br>
+        Par le Syndicat National des Médecins Rhumatologues
+        <br>
+        <a href="#">Demander d'autres scores</a>
+    </p>
+</li>

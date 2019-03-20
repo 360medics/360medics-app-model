@@ -1,0 +1,49 @@
+#search {
+    position: fixed;
+    top: 80px;
+    width: 100%;
+    height: 32px;
+
+    color: #a0a0a0;
+
+    .zone {
+        background-color: #f2f2f2;
+        width: 100%;
+        align-items: center;
+
+        button {
+            border: none;
+            background-color: transparent;
+
+            img {
+                width: 16px;
+                height: 16px;
+            }
+        }
+
+        .fa-search {
+            padding: 8px;
+        }
+
+        input {
+            width: 97%;
+            height: 30px;
+            line-height: normal;
+            background-color: transparent;
+            border: none;
+            color: #444;
+            outline: none;
+            font-size: small;
+        }
+
+        // hack to disable iphone zoom on input 
+        input,
+        input:active,
+        input:focus,
+        input:focus-within,
+        input:hover,
+        input:visited {
+            font-size: 16px !important;
+        }
+    }
+}

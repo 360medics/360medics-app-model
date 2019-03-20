@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import "flex";
+@import "mixin";
+body {
+    margin:0;
+    padding:0;
+    color: white;
+    font-family: -apple-system, "Helvetica Neue", Roboto, "Segoe UI", sans-serif;
+    max-width: 100vw;
+    background-color: white;
+
+    -webkit-font-smoothing : antialiased;
+    -moz-font-smoothing : antialiased;
+    -o-font-smoothing : antialiased;
+}

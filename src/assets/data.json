@@ -1,0 +1,151 @@
+[{
+        "pathology": "Polyarthrite Rhumatoïde",
+        "scores": [{
+                "title": "ACR EULAR 2010",
+                "link": "https://www.rheumakit.com/fr/calculators/acr_eular2010"
+            },
+            {
+                "title": "DAS 28",
+                "link": "https://360medics.com/assets/media/snmr-tools/das28.html",
+                "owner": true,
+                "category": "activity"
+            },
+            {
+                "title": "SDAI",
+                "link": "https://www.rheumakit.com/fr/calculators/sdai",
+                "category": "activity"
+            },
+            {
+                "title": "CDAI",
+                "link": "https://www.rheumakit.com/fr/calculators/cdai",
+                "category": "activity"
+            },
+            {
+                "title": "HAQ",
+                "link": "https://www.rheumakit.com/fr/calculators/haq_di",
+                "category": "activity"
+            },
+            {
+                "title": "RAPID3",
+                "link": "https://www.rheumakit.com/fr/calculators/rapid3",
+                "category": "activity"
+            }
+        ]
+    },
+    {
+        "pathology": "Spondylarthrite Ankylosante",
+        "scores": [{
+                "title": "ASAS Axiale",
+                "link": "https://360medics.com/assets/media/snmr-tools/asas_axiale.html",
+                "owner": true,
+                "category": "diagnostic"
+            },
+            {
+                "title": "ASAS Périphérique",
+                "link": "https://360medics.com/assets/media/snmr-tools/asas_peripherique.html",
+                "owner": true,
+                "category": "diagnostic"
+            },
+            {
+                "title": "AMOR",
+                "link": "https://360medics.com/assets/media/snmr-tools/amor.html",
+                "owner": true,
+                "category": "diagnostic"
+            },
+            {
+                "title": "BASDAI",
+                "link": "http://medicalcul.free.fr/basdai.html",
+                "category": "activity"
+            },
+            {
+                "title": "ASDAS",
+                "link": "http://medicalcul.free.fr/asdas.html",
+                "category": "activity"
+            }
+        ]
+    },
+    {
+        "pathology": "Rhumatisme psoriasique",
+        "scores": [{
+            "title": "Caspar",
+            "link": "https://360medics.com/assets/media/snmr-tools/caspar.html",
+            "owner": true,
+            "category": "diagnostic"
+        }]
+    },
+    {
+        "pathology": "Fibromyalgie",
+        "scores": [{
+                "title": "FIRST",
+                "link": "http://medicalcul.free.fr/firstquest.html",
+                "category": "diagnostic"
+            },
+            {
+                "title": "ACR2010",
+                "link": "https://360medics.com/assets/media/snmr-tools/ACR_2010.html",
+                "owner": true,
+                "category": "diagnostic"
+            },
+            {
+                "title": "QIF",
+                "link": "https://360medics.com/assets/media/snmr-tools/QIF.html",
+                "owner": true,
+                "category": "activity"
+            }
+        ]
+    },
+    {
+        "pathology": "Lupus érythémateux disséminé",
+        "scores": [{
+                "title": "ACR 1997",
+                "link": "https://360medics.com/assets/media/snmr-tools/acr_1997.html",
+                "owner": true,
+                "category": "diagnostic"
+            },
+            {
+                "title": "SLEDAI",
+                "link": "https://360medics.com/assets/media/snmr-tools/SLEDAI.html",
+                "owner": true,
+                "category": "activity"
+            }
+        ]
+    },
+    {
+        "pathology": "Syndrome de Gougerot-Sjogren",
+        "scores": [{
+                "title": "Critères diagnostiques américano-européens de 2002",
+                "link": "https://360medics.com/assets/media/snmr-tools/diagnostic.html",
+                "owner": true
+            },
+            {
+                "title": "ESSDAI",
+                "link": "https://scores.sanoia.com/sjogren/essdai/fr/"
+            }
+        ]
+    },
+    {
+        "pathology": "Lombalgie",
+        "scores": [{
+            "title": "EIFEL",
+            "link": "https://360medics.com/assets/media/snmr-tools/EIFEL.html",
+            "owner": true,
+            "category": "activity"
+        }]
+    },
+    {
+        "pathology": "Ostéoporose",
+        "scores": [{
+            "title": "FRAX",
+            "link": "https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12",
+            "category": "activity"
+        }]
+    },
+    {
+        "pathology": "Dépression",
+        "scores": [{
+            "title": "Echelle de dépression de Hamilton",
+            "link": "http://medicalcul.free.fr/depressionhamilton.html",
+            "category": "activity"
+        }]
+    }
+]

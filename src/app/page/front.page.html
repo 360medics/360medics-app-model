@@ -1,0 +1,7 @@
+<div class="content" [ngClass]="{'viewer-opened': openViewer}" flex flex-column>
+    <div class="list" *ngIf="!openViewer">
+        <app-search (searchValueChange)="filterScoresListe($event)"></app-search>
+        <app-score-list [scores]="scoresList"></app-score-list>
+    </div>
+    <div class="viewer" *ngIf="openViewer"></div>
+</div>

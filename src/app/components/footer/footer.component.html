@@ -1,0 +1,16 @@
+<div class="footer" *ngIf="!hide">
+    <div class="nav">
+        <div class="nav-item" (click)="filter()" [ngClass]="{active: activated==='all'}">
+            <i class=" fal fa-list"></i>
+            <div class="nav-item-title"> Tous</div>
+        </div>
+        <div class="nav-item" (click)="filter(1)" [ngClass]="{active: activated==='activity'}">
+            <i class="fal fa-monitor-heart-rate"></i>
+            <div class="nav-item-title"> Activité</div>
+        </div>
+        <div class="nav-item" (click)="filter(2)" [ngClass]="{active: activated==='diagnostic'}">
+            <i class="fal fa-stethoscope"></i>
+            <div class="nav-item-title"> Diagnostic</div>
+        </div>
+    </div>
+</div>

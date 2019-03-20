@@ -1,0 +1,47 @@
+@import '../../../scss/color.scss';
+
+.footer {
+    background-color: white;
+    border-top: solid 1px #eee;
+    color: black;
+
+    height: 60px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .nav {
+        margin: 0;
+        padding: 0;
+
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+
+        .nav-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            opacity: .6;
+
+            i {
+                color: $blue;
+            }
+
+            .nav-item-title {
+                margin-top: 4px;
+                color: $blue;
+            }
+
+            &:hover {
+                opacity: 1;
+            }
+
+            &.active {
+                opacity: 1;
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+<div id="search">
+    <div class="zone" flex flex-row flex-space-between>
+        <div class="filter-icon">
+            <i class="fal fa-search"></i>
+        </div>
+        <input placeholder="Filtrer par score ou maladie" (keyup)="filterScoresList(searchInput.value)" #searchInput>
+        <button (click)="searchInput.value = ''" type="reset" *ngIf="(searchInput.value)">
+            <i class="fal fa-times-circle"></i>
+        </button>
+    </div>
+</div>
