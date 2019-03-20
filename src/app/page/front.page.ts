@@ -81,7 +81,7 @@ export class FrontPageComponent implements OnInit {
         } else {
 
             this.scoresList = this.data.filter((score: ScoreInterface) => {
-                if (score.category !== undefined) {
+                if (score.category !== undefined && null !== score.category) {
                     return score.category.toLocaleLowerCase().includes(category.toLocaleLowerCase())
                 }
 

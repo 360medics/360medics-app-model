@@ -4,7 +4,7 @@
         "subtitle": "Polyarthrite Rhumatoïde",
         "link": "https://www.rheumakit.com/fr/calculators/acr_eular2010",
         "openIn": false,
-        "category": ""
+        "category":  null
     },
     {
         "title": "DAS 28",
@@ -130,7 +130,7 @@
         "subtitle": "Syndrome de Gougerot-Sjogren",
         "link": "https://scores.sanoia.com/sjogren/essdai/fr/",
         "openIn": false,
-        "category": ""
+        "category":  null
     },
     {
         "title": "EIFEL",

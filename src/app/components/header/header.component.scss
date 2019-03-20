@@ -1,1 +1,40 @@
 @import '../../../scss/theme.scss';
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+  background-color: $headerBackgroundColor;
+  align-items: center;
+
+  h2 {
+    text-align: center;
+  }
+
+  #logo {
+    height: 80px;
+    // if logo is an image, set : height: 50px; margin-left: 15px;
+  }
+
+  .close {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+  }
+
+  &.small {
+    height: 40px;
+    padding-right: 12px;
+
+    strong {
+      align-self: center;
+    }
+
+    i {
+      font-size: 32px;
+      padding: 0 12px;
+    }
+  }
+}
+

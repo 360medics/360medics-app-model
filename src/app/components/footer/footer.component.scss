@@ -1,1 +1,47 @@
 @import '../../../scss/theme.scss';
+
+.footer {
+  background-color: $footerBackgroundColor;
+  border-top: solid 1px #eee;
+  color: $footerFontColor;
+
+  height: 60px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .nav {
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    .nav-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      opacity: .6;
+
+      i {
+        color: $linkColor;
+      }
+
+      .nav-item-title {
+        margin-top: 4px;
+        color: $linkColor;
+      }
+
+      &:hover {
+        opacity: 1;
+      }
+
+      &.active {
+        opacity: 1;
+      }
+    }
+  }
+}
