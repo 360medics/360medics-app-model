@@ -2,7 +2,7 @@ import { ScoreInterface } from './score.interface';
 
 export class Score  {
 
-    pathology: string;
+    subtitle: string;
     scores: Array<ScoreInterface>;
 
     constructor() {

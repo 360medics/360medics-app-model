@@ -1,6 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { HttpModule } from '@angular/http';
 import { FormsModule } from '@angular/forms';
 import { ReactiveFormsModule } from '@angular/forms';
 import { DeviceDetectorModule } from 'ngx-device-detector';
@@ -15,6 +14,7 @@ import { ScoreEntryComponent } from './components/score/entry/score.entry.compon
 import { ScoreListComponent } from './components/score/list/score.list.component';
 import { Broadcaster } from './services/broadcaster.service';
 import { IframeGeneratorService } from './services/iframe.generator.service';
+import {HttpClientModule} from '@angular/common/http';
 
 
 @NgModule({
@@ -29,7 +29,7 @@ import { IframeGeneratorService } from './services/iframe.generator.service';
   ],
   imports: [
     BrowserModule,
-    HttpModule,
+    HttpClientModule,
     FormsModule,
     ReactiveFormsModule,
     DeviceDetectorModule.forRoot()

@@ -27,7 +27,7 @@ export class ScoreEntryComponent implements OnInit {
             target = '_self';
         }
 
-        this.score.owner ? this.openAppInIframe() : window.open(finalLink, target);
+        this.score.openIn ? this.openAppInIframe() : window.open(finalLink, target);
     }
 
     openAppInIframe() {

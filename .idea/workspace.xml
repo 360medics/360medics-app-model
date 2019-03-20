@@ -2,7 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f1d6b68-1848-4a06-b233-134c02bbc9c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/empty test folder/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/css/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-light-300.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-light-300.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-light-300.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-light-300.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-light-300.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fontawesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/reset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/snmr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/polyfills.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/footer/footer.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/footer/footer.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/header/header.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/header/header.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/score/list/score.list.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/score/list/score.list.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/search/search.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/search/search.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/interface/score.class.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/interface/score.class.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/interface/score.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/interface/score.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page/front.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page/front.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page/front.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page/front.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/readjsonfile.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/readjsonfile.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/snmr.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo/snmr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/styles.scss" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,14 +70,99 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/config/config.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/scss/theme.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4439">
+              <caret line="193" column="4" selection-start-line="193" selection-start-column="4" selection-end-line="193" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/page/front.page.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#98#0" expanded="true" />
+                <element signature="e#278#328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>color.sc</find>
+      <find>flex</find>
+      <find>$gray</find>
+      <find>flex@</find>
+      <find>styles.s</find>
+      <find>$blue</find>
+      <find>fa-lis</find>
+      <find>data.json</find>
+      <find>assets/icons</find>
+      <find>owner</find>
+      <find>openIn</find>
+      <find>pathology</find>
+      <find>openViewer</find>
+      <find>subtitl</find>
+      <find>ScoreInterface</find>
+      <find>score.entry.component.ts</find>
+      <find>map</find>
+      <find>getScoresList</find>
+      <find>res.json</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/scss/color.scss" />
+        <option value="$PROJECT_DIR$/src/scss/flex.scss" />
+        <option value="$PROJECT_DIR$/src/scss/styles.scss" />
+        <option value="$PROJECT_DIR$/angular.json" />
+        <option value="$PROJECT_DIR$/src/assets/data.json.old" />
+        <option value="$PROJECT_DIR$/src/assets/data.json" />
+        <option value="$PROJECT_DIR$/src/app/config/config.ts" />
+        <option value="$PROJECT_DIR$/src/app/components/header/header.component.html" />
+        <option value="$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.html" />
+        <option value="$PROJECT_DIR$/src/app/interface/score.class.ts" />
+        <option value="$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/interface/score.interface.ts" />
+        <option value="$PROJECT_DIR$/src/app/page/front.page.html" />
+        <option value="$PROJECT_DIR$/tslint.json" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/services/readjsonfile.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/page/front.page.ts" />
+        <option value="$PROJECT_DIR$/src/app/components/header/header.component.scss" />
+        <option value="$PROJECT_DIR$/src/app/components/footer/footer.component.scss" />
+        <option value="$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.scss" />
+        <option value="$PROJECT_DIR$/src/app/components/score/list/score.list.component.scss" />
+        <option value="$PROJECT_DIR$/src/app/components/search/search.component.scss" />
+        <option value="$PROJECT_DIR$/src/scss/theme.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="94" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
+    <option name="width" value="1826" />
     <option name="height" value="1003" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -36,6 +180,37 @@
               <item name="360medics-app-model" type="b2602c69:ProjectViewProjectNode" />
               <item name="360medics-app-model" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="360medics-app-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="360medics-app-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="360medics-app-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="360medics-app-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="360medics-app-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="360medics-app-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="360medics-app-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="360medics-app-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="360medics-app-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="360medics-app-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -49,6 +224,17 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/logo" />
+      <recent name="$PROJECT_DIR$/src/app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,43 +258,314 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553075634736</updated>
-      <workItem from="1553075635891" duration="944000" />
+      <workItem from="1553075635891" duration="8351000" />
+      <workItem from="1553088723418" duration="139000" />
+      <workItem from="1553088872023" duration="31000" />
+      <workItem from="1553088911593" duration="416000" />
+      <workItem from="1553089358926" duration="1127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="944000" />
+    <option name="totallyTimeSpent" value="10064000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1003" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1003" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32930845" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" weight="0.32930845" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19595315" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.19664805" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32930845" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/empty test folder/test.html">
+    <entry file="file://$PROJECT_DIR$/empty test folder/test.html" />
+    <entry file="file://$PROJECT_DIR$/e2e/app.e2e-spec.ts">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2e/tsconfig.e2e.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2e/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/footer/footer.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/footer/footer.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/color.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/mixin.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/flex.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/styles.scss" />
+    <entry file="file://$PROJECT_DIR$/src/tsconfig.spec.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typings.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/logo/snmr.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/data.json.old" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/score/list/score.list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="1" selection-start-line="15" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/score/list/score.list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/interface/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/model/category.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/page/front.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/page/front.page.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.prod.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="71" column="35" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polyfills.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="39" column="104" lean-forward="true" selection-start-line="39" selection-start-column="104" selection-end-line="39" selection-end-column="104" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/services/readjsonfile.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#1#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/interface/score.class.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/interface/score.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/header/header.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/footer/footer.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/score/entry/score.entry.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/score/list/score.list.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/search/search.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/page/front.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+            <element signature="e#278#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/config/config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4439">
+          <caret line="193" column="4" selection-start-line="193" selection-start-column="4" selection-end-line="193" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

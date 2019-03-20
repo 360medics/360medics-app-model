@@ -22,18 +22,18 @@ export class FrontPageComponent implements OnInit {
     searchResults: Array<ScoreInterface> = [];
     scoresList: Array<ScoreInterface> = [];
 
-    openViewer: boolean;
+    openIn: boolean;
     iframeUrl: string;
 
     constructor(private title: Title,
-        private reader: ReadJsonFileService,
-        private _broadcaster: Broadcaster,
-        private _r2: Renderer2,
-        private _elem: ElementRef,
-        private _iframeGenerator: IframeGeneratorService
+                private reader: ReadJsonFileService,
+                private _broadcaster: Broadcaster,
+                private _r2: Renderer2,
+                private _elem: ElementRef,
+                private _iframeGenerator: IframeGeneratorService
     ) {
         this.title.setTitle('Rhumato Scores');
-        this.openViewer = false;
+        this.openIn = false;
 
         this.getScoresList();
     }
@@ -44,33 +44,28 @@ export class FrontPageComponent implements OnInit {
         });
 
         this._broadcaster.on('open.score.in.iframe', (data) => {
-            this.openViewer = true;
+            this.openIn = true;
             this._iframeGenerator.setUrl(data.url).setRenderer2(this._r2).createWithRenderer2();
         });
 
         this._broadcaster.on('close.score.iframe', (data) => {
-            this.openViewer = false;
+            this.openIn = false;
             this.scoresList = this.data;
             document.querySelector('iframe').remove();
         });
     }
 
     /**
-     * flat score list 
-     * affect correct pathology to each score entry
+     * flat score list : affects correct pathology to each score entry
      */
     getScoresList() {
         this.reader.getJsonData('assets/data.json')
-            .then((res) => {
-                res.map((s: Score) => {
-                    s.scores.map((si: ScoreInterface) => {
-                        si.pathology = s.pathology;
-                        this.data.push(si);
-                    });
-                });
+            .then((res: Array<ScoreInterface>) => {
+                this.data = res;
+                this.scoresList = this.data;
                 this.sortScores();
             });
-        this.scoresList = this.data;
+
     }
 
     filterScoresListe(e: any) {
@@ -96,11 +91,11 @@ export class FrontPageComponent implements OnInit {
     }
 
     private match(score: ScoreInterface, term: string) {
-        const pathology = score.pathology.toLocaleLowerCase();
+        const subtitle = score.subtitle.toLocaleLowerCase();
         const title = score.title.toLocaleLowerCase();
         term = term.toLocaleLowerCase();
 
-        if (pathology.includes(term) || title.includes(term)) {
+        if (subtitle.includes(term) || title.includes(term)) {
             return true;
         }
 

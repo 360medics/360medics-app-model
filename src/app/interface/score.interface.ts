@@ -1,7 +1,7 @@
 export interface ScoreInterface {
     title: string;
+    subtitle: string;
     link: string;
-    owner: boolean;
+    openIn: boolean;
     category: string;
-    pathology?: string;
 }
