@@ -10,12 +10,13 @@ import { ReadJsonFileService } from './services';
 import { FooterComponent } from './components/footer/footer.component';
 import { HeaderComponent } from './components/header/header.component';
 import { SearchComponent } from './components/search/search.component';
-import { ScoreEntryComponent } from './components/score/entry/score.entry.component';
-import { ScoreListComponent } from './components/score/list/score.list.component';
+import { AppEntryComponent } from './components/app/entry/app.entry.component';
+import { AppListComponent } from './components/app/list/app.list.component';
 import { Broadcaster } from './services/broadcaster.service';
 import { IframeGeneratorService } from './services/iframe.generator.service';
 import {HttpClientModule} from '@angular/common/http';
-
+import {DataService} from './services/data.service';
+import { Title }     from '@angular/platform-browser';
 
 @NgModule({
   declarations: [
@@ -24,8 +25,8 @@ import {HttpClientModule} from '@angular/common/http';
     SearchComponent,
     FrontPageComponent,
     FooterComponent,
-    ScoreEntryComponent,
-    ScoreListComponent
+    AppEntryComponent,
+    AppListComponent
   ],
   imports: [
     BrowserModule,
@@ -34,7 +35,7 @@ import {HttpClientModule} from '@angular/common/http';
     ReactiveFormsModule,
     DeviceDetectorModule.forRoot()
   ],
-  providers: [ReadJsonFileService, Broadcaster, IframeGeneratorService],
+  providers: [ReadJsonFileService, Broadcaster, IframeGeneratorService, DataService, Title],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

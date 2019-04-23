@@ -18,10 +18,6 @@ export class IframeGeneratorService {
 
         this.r2.appendChild(document.body, iframe);
 
-        // this.r2.listen(overlay, 'click', (e) => {
-        //     this.r2.removeChild(document.body, iframe);
-        //     this.r2.removeChild(document.body, overlay);
-        // })
     }
 
     destroy() {

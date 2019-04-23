@@ -1,10 +1,10 @@
-<div id="search">
+<div id="search" [ngStyle]="{'background-color': jsonData.appData.searchBarData.searchBarBgColor}">
     <div class="zone" flex flex-row flex-space-between>
         <div class="filter-icon">
             <i class="fal fa-search"></i>
         </div>
-        <input placeholder="Filtrer par score ou maladie" (keyup)="filterScoresList(searchInput.value)" #searchInput>
-        <button (click)="searchInput.value = ''" type="reset" *ngIf="(searchInput.value)">
+        <input [placeholder]="jsonData.appData.searchBarData.searchBarPlaceholder" (keyup)="filterAppsList($event)" [value]="searchInput">
+        <button *ngIf="(searchInput.length > 0)" (click)="resetFilterAppsList()">
             <i class="fal fa-times-circle"></i>
         </button>
     </div>

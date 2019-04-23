@@ -1,8 +1,7 @@
-import { Component, OnInit } from '@angular/core';
-import { CategorySingleton } from '../../model/category';
+import { Component, Input, OnInit } from '@angular/core';
 import { Broadcaster } from '../../services/broadcaster.service';
-
-import { config } from '../../config/config';
+import { ReadJsonFileService } from '../../services';
+import { Data } from '../../interface/model.interface';
 
 @Component({
     selector: 'app-footer',
@@ -11,30 +10,30 @@ import { config } from '../../config/config';
 })
 
 export class FooterComponent implements OnInit {
+    @Input() data: Data;
     hide: boolean;
     activated: string;
-    menuItems: Array<any> = [];
+    footerItems: Array<any> = [];
 
-    constructor(private _broadcaster: Broadcaster) {
+    constructor(private _broadcaster: Broadcaster, private _jsonDataReader: ReadJsonFileService) {
         this.hide = false;
         this.activated = 'all';
     }
 
     ngOnInit() {
-        this._broadcaster.on('open.score.in.iframe', (data) => {
+        this._broadcaster.on('open.app.in.iframe', (data) => {
             this.hide = true;
         });
 
-        this._broadcaster.on('close.score.iframe', (data) => {
+        this._broadcaster.on('close.app.iframe', (data) => {
             this.hide = false;
         });
 
-        this.menuItems = config.menu;
-        console.log(this.menuItems);
+        this.footerItems = this.data.appData.footerData;
     }
 
-    filter(menuItem: any) {
-        this.activated = menuItem.title;
-        this._broadcaster.emit('filter.on.scores.category', { category: menuItem.target })
+    filter(category: string) {
+        this._broadcaster.emit('click.category', category);
+        this.activated = category;
     }
 }

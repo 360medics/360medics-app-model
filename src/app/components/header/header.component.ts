@@ -1,6 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { DeviceDetectorService } from 'ngx-device-detector';
 import { Broadcaster } from '../../services/broadcaster.service';
+import { ReadJsonFileService } from '../../services';
+import { Data } from '../../interface';
 
 @Component({
     selector: 'app-header',
@@ -9,27 +11,25 @@ import { Broadcaster } from '../../services/broadcaster.service';
 })
 
 export class HeaderComponent implements OnInit {
-    
-    showBigOn: boolean;
-    title: string;
+    @Input() data: Data;
+    inApp: boolean;
 
-    constructor(private _broadcaster: Broadcaster, private _deviceDetectorService: DeviceDetectorService) { 
-        this.showBigOn = true;
+    constructor(private _broadcaster: Broadcaster, private _deviceDetectorService: DeviceDetectorService, private _jsonDataReader: ReadJsonFileService ) {
+        this.inApp = true;
     }
 
-    ngOnInit() { 
-        this._broadcaster.on('open.score.in.iframe', (data) => {
-            this.showBigOn = false;
-            this.title = data.title;
+    ngOnInit() {
+        this._broadcaster.on('open.app.in.iframe', (data) => {
+            this.inApp = false;
         });
 
-        this._broadcaster.on('close.score.iframe', (data) => {
-            this.showBigOn = true;
+        this._broadcaster.on('close.app.iframe', (data) => {
+            this.inApp = true;
         });
     }
 
     closeViewer() {
-        this._broadcaster.emit('close.score.iframe', {});
+        this._broadcaster.emit('close.app.iframe', {});
     }
 
     isDesktopDevice() {

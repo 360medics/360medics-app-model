@@ -1,0 +1,23 @@
+<li (click)="open()" *ngIf="currentCategory === null || app.appCategories.indexOf(currentCategory) > -1 ">
+    <div>
+        <a>
+            <h4>{{ app.appTitle }}</h4>
+            <p class="text-muted">{{ app.appSubtitle }}</p>
+        </a>
+    </div>
+    <div>
+        <div *ngIf="!app.appOpenIn">
+            <!-- if openInLogo is an image, use this : <img src="assets/image.png" alt="" class="openInLogoResized"> -->
+            <i class="fal fa-link"></i>
+        </div>
+    </div>
+</li>
+
+<li *ngIf="lastEntry" [ngClass]="{'last-entry': lastEntry, 'contact': true}" (click)="contactUs()">
+    <p class="copyright">
+        Rhumato Scores&copy;2019<br>
+        Par le Syndicat National des Médecins Rhumatologues
+        <br>
+        <a href="#">Demander d'autres scores</a>
+    </p>
+</li>

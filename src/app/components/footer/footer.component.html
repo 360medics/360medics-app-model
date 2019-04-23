@@ -1,10 +1,11 @@
 <div class="footer" *ngIf="!hide">
     <div class="nav">
-        <div class="nav-item" (click)="filter(menuItem)" [ngClass]="{active: activated === menuItem.title}" *ngFor="let menuItem of menuItems">
-            <div class="menu-item-icon" *ngIf="menuItem.icon.type === 'fontawesome'" [innerHTML]="menuItem.icon.path"></div>
-            <div class="menu-item-icon" *ngIf="menuItem.icon.type === 'image'"><img src="assets/image.png" class="menuImageResized"></div>
-
-            <div class="nav-item-title"> {{ menuItem.title }}</div>
-        </div>
+        <div *ngFor="let footerItem of footerItems">
+                <div class="nav-item" (click)="filter(footerItem.footerCategory);" [ngClass]="{active: activated===footerItem.footerCategory}">
+                    <div class="menu-item-icon" *ngIf="footerItem.footerIcon.footerIconType === 'fontawesome'" [innerHTML]="footerItem.footerIcon.footerIconPath"></div>
+                    <div class="menu-item-icon" *ngIf="footerItem.footerIcon.footerIconType === 'image'"><img src="assets/image.png" class="menuImageResized"></div>
+                    <div class="nav-item-title">{{ footerItem.footerTitle }}</div>
+                </div>
+            </div>
     </div>
 </div>

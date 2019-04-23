@@ -1,7 +1,9 @@
 <div class="content" [ngClass]="{'viewer-opened': openIn}" flex flex-column>
     <div class="list" *ngIf="!openIn">
-        <app-search (searchValueChange)="filterScoresListe($event)"></app-search>
-        <app-score-list [scores]="scoresList"></app-score-list>
+        <div *ngIf="searchResults !== null">
+            <app-search [jsonData]="jsonData" (searchValueChange)="filterAppsList($event)" [searchBar]="searchResults"></app-search>
+        </div>
+        <app-list [apps]="appsList"></app-list>
     </div>
     <div class="viewer" *ngIf="openIn"></div>
 </div>

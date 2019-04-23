@@ -1,19 +1,19 @@
-<div class="header" flex flex-row flex-space-between *ngIf="showBigOn">
-    <img id="logo" src="assets/logo/snmr.png" alt="snmr">
-    <h2>Rhumato Scores</h2>
+<div class="header" [ngStyle]="{'background-color': data.appData.headerData.headerBgColor}" flex flex-row flex-space-between *ngIf="inApp">
+    <img id="logo" src="{{ data.appData.headerData.headerLogo }}" alt="snmr">
+    <h2>{{ data.appData.headerData.headerTitle }}</h2>
     <a href="cmd://webview-close" *ngIf="!isDesktopDevice()">
-        <img src="assets/icons/close.png" alt="" class="close">
+        <!--<img src="assets/icons/close.png" alt="" class="close">-->
     </a>
     <div *ngIf="isDesktopDevice()"></div>
 </div>
 
-<div class="header small" flex flex-row flex-space-between *ngIf="!showBigOn">
+<div class="header small" [ngStyle]="{'background-color': '#25408f'}" flex flex-row flex-space-between *ngIf="!inApp">
     <div (click)="closeViewer()">
         <i class="fal fa-angle-left"></i>
     </div>
-    <strong>{{ title }}</strong>
+    <strong>{{ data.appData.headerData.headerTitle }}</strong>
     <a href="cmd://webview-close" *ngIf="!isDesktopDevice()">
-        <img src="assets/icons/close.png" alt="" class="close">
+        <!--<img src="assets/icons/close.png" alt="" class="close">-->
     </a>
     <div *ngIf="isDesktopDevice()"></div>
 </div>

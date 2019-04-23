@@ -7,7 +7,7 @@ export class Broadcaster {
     private eventBus$: Subject<any> = new Subject();
 
     on(key: string, next, error = () => { }, complete = () => { }): Subscription {
-        return this.eventBus$.pipe(filter(e => e.key === key)).pipe(map(e => e.data)).subscribe(next, error, complete)
+        return this.eventBus$.pipe(filter(e => e.key === key)).pipe(map(e => e.data)).subscribe(next, error, complete);
     }
 
     emit(key: any, data?: any) {
@@ -15,7 +15,7 @@ export class Broadcaster {
     }
 
     broadcast(key: any, data?: any) {
-        console.warn(`broadcaster.ts Method ::broadcast() is deprecated, use ::emit() instead`)
+        console.warn(`broadcaster.ts Method ::broadcast() is deprecated, use ::emit() instead`);
         this.eventBus$.next({ key, data });
     }
 }

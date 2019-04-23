@@ -1,11 +1,8 @@
-import { Component, Renderer2, ElementRef, AfterContentInit, AfterViewInit } from '@angular/core';
+import {Component, Renderer2, ElementRef, Input} from '@angular/core';
 import { OnInit } from '@angular/core';
 import { Title } from '@angular/platform-browser';
 
-
-import { Score, ScoreInterface } from '../interface';
-
-// Declare custom service here
+import {AppEntry, SearchBarData, Data} from '../interface';
 import { ReadJsonFileService } from '../services';
 import { Broadcaster } from '../services/broadcaster.service';
 import { IframeGeneratorService } from '../services/iframe.generator.service';
@@ -18,81 +15,68 @@ import { IframeGeneratorService } from '../services/iframe.generator.service';
 
 export class FrontPageComponent implements OnInit {
 
-    data: Array<ScoreInterface> = [];
-    searchResults: Array<ScoreInterface> = [];
-    scoresList: Array<ScoreInterface> = [];
+    data: AppEntry[] = [];
+    appsList: AppEntry[] = [];
+    @Input() jsonData: Data;
+    @Input() searchResults: SearchBarData;
 
     openIn: boolean;
     iframeUrl: string;
 
-    constructor(private title: Title,
-                private reader: ReadJsonFileService,
-                private _broadcaster: Broadcaster,
-                private _r2: Renderer2,
-                private _elem: ElementRef,
-                private _iframeGenerator: IframeGeneratorService
-    ) {
-        this.title.setTitle('Rhumato Scores');
-        this.openIn = false;
+    constructor (private title: Title, private reader: ReadJsonFileService, private _broadcaster: Broadcaster, private _r2: Renderer2, private _elem: ElementRef, private _iframeGenerator: IframeGeneratorService) {
 
-        this.getScoresList();
     }
 
     ngOnInit() {
-        this._broadcaster.on('filter.on.scores.category', (data) => {
+        this._broadcaster.on('filter.on.apps.category', (data) => {
             this.filterScoreListOnCategory(data.category);
         });
 
-        this._broadcaster.on('open.score.in.iframe', (data) => {
+        this._broadcaster.on('open.app.in.iframe', (data) => {
             this.openIn = true;
             this._iframeGenerator.setUrl(data.url).setRenderer2(this._r2).createWithRenderer2();
         });
 
-        this._broadcaster.on('close.score.iframe', (data) => {
+        this._broadcaster.on('close.app.iframe', (data) => {
             this.openIn = false;
-            this.scoresList = this.data;
+            this.appsList = this.data;
             document.querySelector('iframe').remove();
         });
+
+        this.getAppsList();
     }
 
-    /**
-     * flat score list : affects correct pathology to each score entry
-     */
-    getScoresList() {
-        this.reader.getJsonData('assets/data.json')
-            .then((res: Array<ScoreInterface>) => {
-                this.data = res;
-                this.scoresList = this.data;
-                this.sortScores();
-            });
-
+    getAppsList() {
+        this.data = this.jsonData.appEntries;
+        this.appsList = this.data;
+        this.sortApps();
     }
 
-    filterScoresListe(e: any) {
+    filterAppsList(e: any) {
         if (e.needle !== null && e.needle.length > 0) {
-            this.scoresList = this.data
-                .filter((score: ScoreInterface) => this.match(score, e.needle))
+            this.appsList = this.data
+                .filter((app: AppEntry) => this.match(app, e.needle))
+        } else {
+            this.appsList = this.data;
         }
     }
 
     filterScoreListOnCategory(category: string) {
         if (null === category) {
-            this.scoresList = this.data;
+            this.appsList = this.data;
         } else {
-
-            this.scoresList = this.data.filter((score: ScoreInterface) => {
-                if (score.category !== undefined && null !== score.category) {
-                    return score.category.toLocaleLowerCase().includes(category.toLocaleLowerCase())
+            this.appsList = this.data.filter((app: AppEntry) => {
+                if (app.appCategories !== undefined && null !== app.appCategories) {
+                    return app.appCategories.indexOf(category.toLowerCase()) > -1;
                 }
-
                 return false;
             });
         }
     }
 
-    private match(score: ScoreInterface, term: string) {
-        const subtitle = score.subtitle.toLocaleLowerCase();
-        const title = score.title.toLocaleLowerCase();
+    private match(app: AppEntry, term: string) {
+        const subtitle = app.appSubtitle.toLocaleLowerCase();
+        const title = app.appTitle.toLocaleLowerCase();
         term = term.toLocaleLowerCase();
 
         if (subtitle.includes(term) || title.includes(term)) {
@@ -102,7 +86,7 @@ export class FrontPageComponent implements OnInit {
         return false;
     }
 
-    private sortScores() {
-        this.scoresList.sort((a, b) => a.title.toLocaleLowerCase().localeCompare(b.title.toLocaleLowerCase()));
+    private sortApps() {
+        this.appsList = this.appsList.sort((a, b) => a.appTitle.toLocaleLowerCase().localeCompare(b.appTitle.toLocaleLowerCase()));
     }
 }

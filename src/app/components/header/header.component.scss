@@ -5,7 +5,7 @@
   top: 0;
   width: 100%;
 
-  background-color: $headerBackgroundColor;
+  //background-color: blue;
   align-items: center;
 
   h2 {
@@ -13,8 +13,8 @@
   }
 
   #logo {
-    height: 80px;
     // if logo is an image, set : height: 50px; margin-left: 15px;
+    height: 80px;
   }
 
   .close {

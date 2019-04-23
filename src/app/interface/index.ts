@@ -1,3 +1,1 @@
-export * from './score.interface';
-export * from './score.class';
-
+export * from './model.interface';
