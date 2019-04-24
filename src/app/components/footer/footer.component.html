@@ -1,4 +1,4 @@
-<div class="footer" *ngIf="!hide">
+<div class="footer" *ngIf="!hide" [ngStyle]="{'color': this.data.appData.footerData[0].footerColor}">
     <div class="nav">
         <div *ngFor="let footerItem of footerItems">
                 <div class="nav-item" (click)="filter(footerItem.footerCategory);" [ngClass]="{active: activated===footerItem.footerCategory}">

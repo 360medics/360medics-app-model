@@ -35,7 +35,7 @@ export class AppEntryComponent implements OnInit {
             target = '_self';
         }
 
-        this.app.appOpenIn ? this.openAppInIframe() : window.open(finalLink, target);
+        this.app.isAnInApp ? this.openAppInIframe() : window.open(finalLink, target);
     }
 
     openAppInIframe() {

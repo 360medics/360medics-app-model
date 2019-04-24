@@ -1,7 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { Broadcaster } from '../../services/broadcaster.service';
 import { ReadJsonFileService } from '../../services';
-import { Data } from '../../interface/model.interface';
+import { Data } from '../../interface';
 
 @Component({
     selector: 'app-footer',
@@ -13,7 +13,8 @@ export class FooterComponent implements OnInit {
     @Input() data: Data;
     hide: boolean;
     activated: string;
-    footerItems: Array<any> = [];
+    footerItems: any;
+    footerColor: string;
 
     constructor(private _broadcaster: Broadcaster, private _jsonDataReader: ReadJsonFileService) {
         this.hide = false;
@@ -30,6 +31,7 @@ export class FooterComponent implements OnInit {
         });
 
         this.footerItems = this.data.appData.footerData;
+        this.footerColor = this.data.appData.footerData.footerColor;
     }
 
     filter(category: string) {

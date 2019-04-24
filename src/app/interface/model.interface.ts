@@ -1,7 +1,7 @@
 export interface AppData {
     headerData: HeaderData;
     searchBarData: SearchBarData;
-    footerData: FooterData[];
+    footerData: FooterData;
 }
 
 export interface HeaderData {
@@ -19,6 +19,7 @@ export interface FooterData {
     footerTitle: string;
     footerIcon: FooterIcon;
     footerCategory: string;
+    footerColor: string;
 }
 
 export interface FooterIcon {
@@ -30,7 +31,7 @@ export interface AppEntry {
     appTitle: string;
     appSubtitle: string;
     appLink: string;
-    appOpenIn: boolean;
+    isAnInApp: boolean;
     appCategories: string[];
 }
 

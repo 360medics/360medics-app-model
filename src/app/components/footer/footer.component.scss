@@ -3,7 +3,6 @@
 .footer {
   background-color: $footerBackgroundColor;
   border-top: solid 1px #eee;
-  color: $footerFontColor;
 
   height: 60px;
 
@@ -26,13 +25,8 @@
       justify-content: center;
       opacity: .6;
 
-      i {
-        color: $linkColor;
-      }
-
       .nav-item-title {
         margin-top: 4px;
-        color: $linkColor;
       }
 
       &:hover {
