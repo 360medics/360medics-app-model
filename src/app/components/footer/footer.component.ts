@@ -15,6 +15,7 @@ export class FooterComponent implements OnInit {
     activated: string;
     footerItems: any;
     footerColor: string;
+    footerIcon: string;
 
     constructor(private _broadcaster: Broadcaster, private _jsonDataReader: ReadJsonFileService) {
         this.hide = false;

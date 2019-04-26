@@ -11,30 +11,27 @@
         },
         "footerData": [
             {
-                "footerTitle": "Tous",
+                "footerCategory": "Tout",
                 "footerIcon": {
                     "footerIconType": "fontawesome",
                     "footerIconPath": "<i class=\"fal fa-list\"></i>"
                 },
-                "footerCategory": "all",
                 "footerColor": "rgb(37, 64, 143)"
             },
             {
-                "footerTitle": "Activité",
+                "footerCategory": "Activité",
                 "footerIcon": {
                     "footerIconType": "fontawesome",
                     "footerIconPath": "<i class=\"fal fa-monitor-heart-rate\"></i>"
                 },
-                "footerCategory": "activity",
                 "footerColor": "rgb(37, 64, 143)"
             },
             {
-                "footerTitle": "Diagnostic",
+                "footerCategory": "Diagnostic",
                 "footerIcon": {
                     "footerIconType": "fontawesome",
                     "footerIconPath": "<i class=\"fal fa-stethoscope\"></i>"
                 },
-                "footerCategory": "diagnostic",
                 "footerColor": "rgb(37, 64, 143)"
             }
         ]
@@ -43,156 +40,156 @@
         {
             "appTitle": "ACR EULAR 2010",
             "appSubtitle": "Polyarthrite Rhumatoïde",
+            "isExternalLink": false,
             "appLink": "https://www.rheumakit.com/fr/calculators/acr_eular2010",
-            "isAnInApp": false,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "DAS 28",
             "appSubtitle": "Polyarthrite Rhumatoïde",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/das28.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "SDAI",
             "appSubtitle": "Polyarthrite Rhumatoïde",
+            "isExternalLink": false,
             "appLink": "https://www.rheumakit.com/fr/calculators/sdai",
-            "isAnInApp": false,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "CDAI",
             "appSubtitle": "Polyarthrite Rhumatoïde",
+            "isExternalLink": false,
             "appLink": "https://www.rheumakit.com/fr/calculators/cdai",
-            "isAnInApp": false,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "HAQ",
             "appSubtitle": "Polyarthrite Rhumatoïde",
+            "isExternalLink": false,
             "appLink": "https://www.rheumakit.com/fr/calculators/haq_di",
-            "isAnInApp": false,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "RAPID3",
             "appSubtitle": "Polyarthrite Rhumatoïde",
+            "isExternalLink": false,
             "appLink": "https://www.rheumakit.com/fr/calculators/rapid3",
-            "isAnInApp": false,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "ASAS Axiale",
             "appSubtitle": "Spondylarthrite Ankylosante",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/asas_axiale.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "diagnostic"]
+            "appCategories": ["Tout", "Diagnostic"]
         },
         {
             "appTitle": "ASAS Périphérique",
             "appSubtitle": "Spondylarthrite Ankylosante",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/asas_peripherique.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "diagnostic"]
+            "appCategories": ["Tout", "Diagnostic"]
         },
         {
             "appTitle": "AMOR",
             "appSubtitle": "Spondylarthrite Ankylosante",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/amor.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "diagnostic"]
+            "appCategories": ["Tout", "Diagnostic"]
         },
         {
             "appTitle": "BASDAI",
             "appSubtitle": "Spondylarthrite Ankylosante",
+            "isExternalLink": false,
             "appLink": "http://medicalcul.free.fr/basdai.html",
-            "isAnInApp": false,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "ASDAS",
             "appSubtitle": "Spondylarthrite Ankylosante",
+            "isExternalLink": false,
             "appLink": "http://medicalcul.free.fr/asdas.html",
-            "isAnInApp": false,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "Caspar",
             "appSubtitle": "Rhumatisme psoriasique",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/caspar.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "diagnostic"]
+            "appCategories": ["Tout", "Diagnostic"]
         },
         {
             "appTitle": "FIRST",
             "appSubtitle": "Fibromyalgie",
+            "isExternalLink": false,
             "appLink": "http://medicalcul.free.fr/firstquest.html",
-            "isAnInApp": false,
-            "appCategories": ["all", "diagnostic"]
+            "appCategories": ["Tout", "Diagnostic"]
         },
         {
             "appTitle": "ACR2010",
             "appSubtitle": "Fibromyalgie",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/ACR_2010.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "diagnostic"]
+            "appCategories": ["Tout", "Diagnostic"]
         },
         {
             "appTitle": "QIF",
             "appSubtitle": "Fibromyalgie",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/QIF.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "ACR 1997",
             "appSubtitle": "Lupus érythémateux disséminé",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/acr_1997.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "diagnostic"]
+            "appCategories": ["Tout", "Diagnostic"]
         },
         {
             "appTitle": "SLEDAI",
             "appSubtitle": "Lupus érythémateux disséminé",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/SLEDAI.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "Critères diagnostiques américano-européens de 2002",
             "appSubtitle": "Syndrome de Gougerot-Sjogren",
-            "appLink": "https://360medics.com/assets/media/snmr-tools/diagnostic.html",
-            "isAnInApp": true,
-            "appCategories": ["all"]
+            "isExternalLink": true,
+            "appLink": "https://360medics.com/assets/media/snmr-tools/Diagnostic.html",
+            "appCategories": ["Tout"]
         },
         {
             "appTitle": "ESSDAI",
             "appSubtitle": "Syndrome de Gougerot-Sjogren",
+            "isExternalLink": false,
             "appLink": "https://scores.sanoia.com/sjogren/essdai/fr/",
-            "isAnInApp": false,
-            "appCategories": ["all"]
+            "appCategories": ["Tout"]
         },
         {
             "appTitle": "EIFEL",
             "appSubtitle": "Lombalgie",
+            "isExternalLink": true,
             "appLink": "https://360medics.com/assets/media/snmr-tools/EIFEL.html",
-            "isAnInApp": true,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "FRAX",
             "appSubtitle": "Ostéoporose",
+            "isExternalLink": false,
             "appLink": "https://www.sheffield.ac.uk/FRAX/tool.aspx?country=12",
-            "isAnInApp": false,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         },
         {
             "appTitle": "Échelle de dépression de Hamilton",
             "appSubtitle": "Dépression",
+            "isExternalLink": false,
             "appLink": "http://medicalcul.free.fr/depressionhamilton.html",
-            "isAnInApp": false,
-            "appCategories": ["all", "activity"]
+            "appCategories": ["Tout", "Activité"]
         }
     ]
 }

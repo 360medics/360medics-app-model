@@ -16,9 +16,8 @@ export interface SearchBarData {
 }
 
 export interface FooterData {
-    footerTitle: string;
-    footerIcon: FooterIcon;
     footerCategory: string;
+    footerIcon: FooterIcon;
     footerColor: string;
 }
 
@@ -30,8 +29,8 @@ export interface FooterIcon {
 export interface AppEntry {
     appTitle: string;
     appSubtitle: string;
+    isExternalLink: boolean;
     appLink: string;
-    isAnInApp: boolean;
     appCategories: string[];
 }
 
