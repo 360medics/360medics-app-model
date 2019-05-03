@@ -14,8 +14,7 @@ export class FooterComponent implements OnInit {
     hide: boolean;
     activated: string;
     footerItems: any;
-    footerColor: string;
-    footerIcon: string;
+    appColor: string;
 
     constructor(private _broadcaster: Broadcaster, private _jsonDataReader: ReadJsonFileService) {
         this.hide = false;
@@ -32,7 +31,7 @@ export class FooterComponent implements OnInit {
         });
 
         this.footerItems = this.data.appData.footerData;
-        this.footerColor = this.data.appData.footerData.footerColor;
+        this.appColor = this.data.appData.headerData.appColor;
     }
 
     filter(category: string) {

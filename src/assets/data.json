@@ -1,7 +1,7 @@
 {
     "appData": {
         "headerData": {
-            "headerBgColor": "#25408F",
+            "appColor": "#25408F",
             "headerLogo": "assets/logo/snmr.png",
             "headerTitle": "Rhumato Scores"
         },
@@ -12,27 +12,18 @@
         "footerData": [
             {
                 "footerCategory": "Tout",
-                "footerIcon": {
-                    "footerIconType": "fontawesome",
-                    "footerIconPath": "<i class=\"fal fa-list\"></i>"
-                },
-                "footerColor": "rgb(37, 64, 143)"
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"fal fa-list\"></i>"
             },
             {
                 "footerCategory": "Activité",
-                "footerIcon": {
-                    "footerIconType": "fontawesome",
-                    "footerIconPath": "<i class=\"fal fa-monitor-heart-rate\"></i>"
-                },
-                "footerColor": "rgb(37, 64, 143)"
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"fal fa-monitor-heart-rate\"></i>"
             },
             {
                 "footerCategory": "Diagnostic",
-                "footerIcon": {
-                    "footerIconType": "fontawesome",
-                    "footerIconPath": "<i class=\"fal fa-stethoscope\"></i>"
-                },
-                "footerColor": "rgb(37, 64, 143)"
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"fal fa-stethoscope\"></i>"
             }
         ]
     },

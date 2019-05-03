@@ -5,7 +5,7 @@ export interface AppData {
 }
 
 export interface HeaderData {
-    headerBgColor: string;
+    appColor: string;
     headerLogo: string;
     headerTitle: string;
 }
@@ -17,13 +17,6 @@ export interface SearchBarData {
 
 export interface FooterData {
     footerCategory: string;
-    footerIcon: FooterIcon;
-    footerColor: string;
-}
-
-export interface FooterIcon {
-    footerIconType: string;
-    footerIconPath: string;
 }
 
 export interface AppEntry {
