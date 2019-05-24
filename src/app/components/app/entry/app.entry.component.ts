@@ -17,7 +17,7 @@ export class AppEntryComponent implements OnInit {
     currentCategory: string;
 
     constructor(private _broadcaster: Broadcaster, private _deviceDetectorService: DeviceDetectorService, private _jsonDataReader: ReadJsonFileService) {
-        this.currentCategory = null;
+        this.currentCategory = "Tout";
     }
 
     ngOnInit() {
@@ -35,7 +35,7 @@ export class AppEntryComponent implements OnInit {
             target = '_self';
         }
 
-        this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
+        !this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
     }
 
     openAppInIframe() {

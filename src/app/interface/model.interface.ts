@@ -22,7 +22,7 @@ export interface FooterData {
 export interface AppEntry {
     appTitle: string;
     appSubtitle: string;
-    isExternalLink: boolean;
+    isExternalLink: string;
     appLink: string;
     appCategories: string[];
 }
