@@ -1,6 +1,6 @@
 <div class="footer" *ngIf="!hide" [ngStyle]="{'color': this.data.appData.headerData.appColor}">
     <div class="nav">
-        <div *ngFor="let footerItem of footerItems">
+        <div class="width" *ngFor="let footerItem of footerItems">
                 <div class="nav-item" (click)="filter(footerItem.footerCategory);" [ngClass]="{active: activated===footerItem.footerCategory}">
                     <div class="menu-item-icon" *ngIf="footerItem.footerIconType === 'fontawesome'" [innerHTML]="footerItem.footerIconPath"></div>
                     <div class="menu-item-icon" *ngIf="footerItem.footerIconType === 'image'"><img src="{{ footerItem.footerIconPath }}" class="menuImageResized"></div>
