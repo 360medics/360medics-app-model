@@ -66,8 +66,8 @@ export class FrontPageComponent implements OnInit {
             this.appsList = this.data;
         } else {
             this.appsList = this.data.filter((app: AppEntry) => {
-                if (app.appCategories !== undefined && null !== app.appCategories) {
-                    return app.appCategories.indexOf(category.toLowerCase()) > -1;
+                if (app.appCategory !== undefined && null !== app.appCategory) {
+                    return app.appCategory.indexOf(category.toLowerCase()) > -1;
                 }
                 return false;
             });

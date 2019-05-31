@@ -24,7 +24,7 @@ export interface AppEntry {
     appSubtitle: string;
     isExternalLink: string;
     appLink: string;
-    appCategories: string[];
+    appCategory: string;
 }
 
 export interface Data {
