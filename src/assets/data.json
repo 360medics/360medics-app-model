@@ -152,14 +152,14 @@
             "appSubtitle": "Syndrome de Gougerot-Sjogren",
             "isExternalLink": false,
             "appLink": "https://360medics.com/assets/media/snmr-tools/Diagnostic.html",
-            "appCategory": ["Tout"]
+            "appCategory": ""
         },
         {
             "appTitle": "ESSDAI",
             "appSubtitle": "Syndrome de Gougerot-Sjogren",
             "isExternalLink": true,
             "appLink": "https://scores.sanoia.com/sjogren/essdai/fr/",
-            "appCategory": ["Tout"]
+            "appCategory": ""
         },
         {
             "appTitle": "EIFEL",
