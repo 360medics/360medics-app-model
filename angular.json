@@ -48,7 +48,8 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "app-one:build"
+            "browserTarget": "app-one:build",
+            "port" : 2200
           },
           "configurations": {
             "production": {
