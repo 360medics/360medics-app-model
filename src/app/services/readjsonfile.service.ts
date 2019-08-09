@@ -6,7 +6,7 @@ import {Data} from '../interface/model.interface';
 @Injectable()
 export class ReadJsonFileService {
 
-    filename = '/assets/data.json';
+    filename = 'assets/data.json';
 
     constructor(
         private http: HttpClient

@@ -4,7 +4,7 @@ import {AppEntry, Data, AppData} from '../interface';
 
 @Injectable()
 export class DataService {
-    filename = '/assets/data.json';
+    filename = 'assets/data.json';
     data: Data;
 
     constructor (private jsonFileReader: ReadJsonFileService) {
