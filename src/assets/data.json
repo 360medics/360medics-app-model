@@ -1,123 +1,557 @@
 {
-    "appData": {
-        "headerData": {
-            "appColor": "#c41723",
-            "headerLogo": "assets/logo/snmr.png",
-            "headerTitle": "Vidéo - Formation"
-        },
-        "searchBarData": {
-            "searchBarBgColor": "#f2f2f2",
-            "searchBarPlaceholder": "Filtrer par flux ou par spécialité"
-        },
-        "footerData": [
-            {
-                "footerCategory": "",
-                "footerIconType": "",
-                "footerIconPath": ""
-            },
-            {
-                "footerCategory": "",
-                "footerIconType": "",
-                "footerIconPath": ""
-            },
-            {
-                "footerCategory": "",
-                "footerIconType": "",
-                "footerIconPath": ""
-            }
-        ]
+  "appData": {
+    "headerData": {
+      "appColor": "#c41723",
+      "headerLogo": "",
+      "headerTitle": "Vidéo - Formation"
     },
-    "appEntries": [
-        {
-            "appTitle": "CardioOnline",
-            "appSubtitle": "Cardiologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UCQuxdVIpoF86G4Jzz-tmmDQ",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "NetCancer",
-            "appSubtitle": "Oncologie",
-            "isExternalLink": true,
-            "appLink": "https://netcancer.net/actualites/",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "Société Française de Cardiologie",
-            "appSubtitle": "Cardiologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/user/sfcardio",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "Cardiologie Facile",
-            "appSubtitle": "Cardiologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UCtZFFO9pgcM-k44lxf5kzOg/videos",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "FormatCoeur",
-            "appSubtitle": "Cardiologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UCoi-sl3_R4rjBTT5ikUGoLQ/videos",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "Centre Cardio-Thoracique de Monaco",
-            "appSubtitle": "Cardiologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UCh-CSk2E0VY5-6uUO6elhzA/featured",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "CCS Cardiologie",
-            "appSubtitle": "Cardiologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/user/ClubCardioSport/videos",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "Aerio",
-            "appSubtitle": "Oncologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UCcQkplw55Hyfex-aT6ImYeQ/videos",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "HARTMANN ONCOLOGIE RADIOTHERAPIE GROUPE",
-            "appSubtitle": "Oncologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UCbIMuZ0excgmDRwAbS_Ha1g",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "Oncologie Saint-Paul",
-            "appSubtitle": "Oncologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UCNGZ-Wxc0-WmX75HYvlv1AA",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "Congrès SFRO",
-            "appSubtitle": "Oncologie-radiothérapie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UCHevpABPzlsRA3tW03eWrGw/videos",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "Centre de Réflexion de l'Oncologie Libérale",
-            "appSubtitle": "Oncologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UClvM6orKAxpRTbNKP-nRShA/videos",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "AFSOS Soins Oncologiques de Support",
-            "appSubtitle": "Oncologie",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/channel/UC3P_d2MTBKp2SA2fsEwpXrQ/videos",
-            "appCategory": ""
-        }
+    "searchBarData": {
+      "searchBarBgColor": "#f2f2f2",
+      "searchBarPlaceholder": "Filtrer par flux ou par spécialité"
+    },
+    "footerData": [
+      {
+        "footerCategory": "TOUT",
+        "footerIconType": "",
+        "footerIconPath": ""
+      },
+      {
+        "footerCategory": "Société savante",
+        "footerIconType": "",
+        "footerIconPath": ""
+      },
+      {
+        "footerCategory": "Formation",
+        "footerIconType": "",
+        "footerIconPath": ""
+      }
     ]
+  },
+  "appEntries": [
+    {
+      "appTitle": "Chaine  Société  Française d'Anesthésie et de Réanimation ",
+      "appSubtitle": "Anesthésie - réanimation",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCt6WBsooKoqrHK5oZ0TpRIg",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Société de réanimation de langue française (SRLF) ",
+      "appSubtitle": "Anesthésie - réanimation",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCiIFHXGAoXKXgm4Vn6QDk6Q/playlists",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Chaine AJAR France",
+      "appSubtitle": "Anesthésie - réanimation",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UC89xfHK41C4nZrUdIvbRmeg/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Société française d'anestésie et de réanimation (SFAR)",
+      "appSubtitle": "Anesthésie - réanimation",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCt6WBsooKoqrHK5oZ0TpRIg/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Chaine youtube : CCM Monaco",
+      "appSubtitle": "Pathologie cardio-vasculaire",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCh-CSk2E0VY5-6uUO6elhzA/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Société Française de Cardiologie",
+      "appSubtitle": "Cardiologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/sfcardio/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Paris Breast Rendez-Vous",
+      "appSubtitle": "Chirurgie mammaire",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCYM2ULYvskoodiy0vM-WsJw/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Pierre Taboulet-Lecture ECG",
+      "appSubtitle": "Cardiologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/1995feunek/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Académie nationale de Chirurgie FRANCE ",
+      "appSubtitle": "CHIRURGIE",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCNUKHr2J9Mim4rlsiRQuSbw/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Conseil National Professionnel Chiurgie Viscérale et Digestive  ",
+      "appSubtitle": "Chiurgie Viscérale et Digestive  ",
+      "isExternalLink": true,
+      "appLink": "http://mediatheque.chirurgie-viscerale.org/mediatheque/results.aspx?tag_type=4&channel=24451&search=%7B%22Tags%22%3A%5B14242%5D%7D&search_expr=Complication1",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Centre de Chirurgie generale et digestive sétois  ",
+      "appSubtitle": "Chirurgie générale / Chirurgie digestive ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCF6bMJosEEDykS7qB4kU6pQ/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Département de Chirurgie Université de Montréal ",
+      "appSubtitle": "CHIRURGIE ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCQa4A25Wu05YLBwHy-zuyXA/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Académie nationale de Chirurgie FRANCE ",
+      "appSubtitle": "CHIRURGIE ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCNUKHr2J9Mim4rlsiRQuSbw/playlists",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Dr Niforos",
+      "appSubtitle": "Chirurgie plastique reconstructrice &  ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCItJwavkYcAI5yK12AsJEfw/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Realchirplastique",
+      "appSubtitle": "Chirurgie esthetique / plastique  ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/realchirplastique/videos ",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Docteur Philippe LORIAUT- Chirurgien Orthopédiste Paris Lilas",
+      "appSubtitle": "Chirurgie orthopédique et traumatologique",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCfg-HhwN3JTQQE0Tm0jm6Iw/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Lyon ortho clinic ",
+      "appSubtitle": "Chirurgie orthopédique et traumatologique",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCj7foIoOunkYnyRe6hsk6fg/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Tristan Pollon ",
+      "appSubtitle": "Chirurgie orthopédique et traumatologique",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UC5nGF7JX9lWOe0hIKdENY6A",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Société Français de Chirurgie Endoscopie",
+      "appSubtitle": "Endoscopie",
+      "isExternalLink": true,
+      "appLink": "http://www.lasfce.com/en/videochirurgie/videotheque",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "M3C-Carpedem ",
+      "appSubtitle": "Maladies Rares Malformations Cardiaques Congénitales Complexes",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCeP7vE7WfA_zY_pz7kohUlA/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Cardiogen ",
+      "appSubtitle": "Maladies cardiaques héréditaire rares (focus prise en charge)",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UC_btwISwwCp8AJv8tE43rqQ/playlists",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Institut Universitaire gériatrie Montréal  ",
+      "appSubtitle": "Gériatrie ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/IUGMmultimedias/playlists",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Société Nationale de Gastro-Entérologie",
+      "appSubtitle": "Gastrologie-Entérologie ",
+      "isExternalLink": true,
+      "appLink": "https://www.snfge.org/videotheque",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Société Française d'Hépatologie AFEF Medical Education - AME",
+      "appSubtitle": "Hépatologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCgWEPppp0YbWbvpcWoXd9fg/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Filière Oscar ",
+      "appSubtitle": "Maladies rares ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCz1PsLVv7-YJd_HjxNq4xZQ/playlists",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Réseau Maladies Rares - Languedoc Roussillon",
+      "appSubtitle": "Maladies rares ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UC0G_nQxW3F_aH7STqTrEGrA/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Association des médecins d'urgence du Québec",
+      "appSubtitle": "Médecine d'urgence",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UChrWwFiJ-KJTdJWm2bhMrGg",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Entretien de Medecine Physique et de Réadaptation : EMPR",
+      "appSubtitle": "Medecine physique et de réadaptation ",
+      "isExternalLink": true,
+      "appLink": "http://www.empr.fr/mediatheque/les-sessions-en-ligne",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Congrès de Médecine Générale France",
+      "appSubtitle": "Médecine Générale",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCGsgJWpaUhKano2tCJ5TL8Q/videos ",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Sémiologie & Pathologie cardiaque",
+      "appSubtitle": "Sémiologie & Pathologie cardiaque",
+      "isExternalLink": true,
+      "appLink": "http://www-sante.ujf-grenoble.fr/SANTE/CardioCD/cardio/video.htm",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Société Française de Neurochirurgie ",
+      "appSubtitle": "Neurochirurgie",
+      "isExternalLink": true,
+      "appLink": "http://web5.unilim.fr/colneuro-test/videos/nancy2017/",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Collège des enseignements de Neurologie",
+      "appSubtitle": "Neurochirurgie",
+      "isExternalLink": true,
+      "appLink": "https://www.cen-neurologie.fr/videotheque?field_tags_tid=5",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "DOCTEUR DOMINIQUE PIETRINI / OPHTALMOLOGISTE",
+      "appSubtitle": "Ophtalmologie ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCUJ5PiXeAMoTuIi4gNqVRig/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "International Federation of ORL Societes ",
+      "appSubtitle": "Oto-Rhino-Laryngologie ",
+      "isExternalLink": true,
+      "appLink": "https://html5.slideonline.eu/event/17IFOS",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Société Française d’ORL TV",
+      "appSubtitle": "Oto-Rhino-Laryngologie",
+      "isExternalLink": true,
+      "appLink": "https://vimeo.com/user24870411 ",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Société Française de Phoniatrie et de Laryngologie ",
+      "appSubtitle": "Oto-Rhino-Laryngologie",
+      "isExternalLink": true,
+      "appLink": "https://www.phoniatrie-laryngologie.fr/category/documents/",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Fondation FondaMental",
+      "appSubtitle": "Psychiatrie",
+      "isExternalLink": true,
+      "appLink": "https://www.fondation-fondamental.org/nous-connaitre/nos-publications/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Société Française de Phlébologie",
+      "appSubtitle": "Phlébologie  ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCGPvxkjzVYieQ5rijGJq2jQ/videos ",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Societe de Pneumologie de la Langue Française",
+      "appSubtitle": "Pneumologie  ",
+      "isExternalLink": true,
+      "appLink": "http://splf.fr/videos-zephir/ ",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Société française de la radiologie ",
+      "appSubtitle": "Radio diagnostic et imagerie médicale   ",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UC_8cg3dKOvoPEnpdv8ZYrKQ",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Santé publique France  ",
+      "appSubtitle": "Sante publique et médecine sociale",
+      "isExternalLink": true,
+      "appLink": " https://www.youtube.com/user/InpesWeb/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Ecole de santé publique de l'université de Montréal (ESPUM)",
+      "appSubtitle": "Sante publique et médecine sociale",
+      "isExternalLink": true,
+      "appLink": " https://www.youtube.com/watch?v=caDZn-O1lW8&list=PLMsfVgEQhSI0E_sVrWomyEwxPbwJLYQnz",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Association française d'urologie - CCAFU Online ",
+      "appSubtitle": "Urologie",
+      "isExternalLink": true,
+      "appLink": "https://www.urofrance.org/congres-et-formations/formation-en-ligne/ccafu-online/n1-cancer-de-la-prostate.html",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Association française d'urologie - CCAFU Online ",
+      "appSubtitle": "Urologie",
+      "isExternalLink": true,
+      "appLink": "https://www.urofrance.org/congres-et-formations/formation-en-ligne/ccafu-debats/n1-cancer-vessie",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Association française d'urologie - CCAFU Online ",
+      "appSubtitle": "Urologie",
+      "isExternalLink": true,
+      "appLink": "https://www.urofrance.org/congres-et-formations/formation-en-ligne/ccafu-ateliers-pratiques/n1-bcg-therapie-intra-vesicale",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Urologie fonctionelle – Anatomie ",
+      "appSubtitle": "Urologie",
+      "isExternalLink": true,
+      "appLink": "Chaine YT: https://www.youtube.com/channel/UCLEsaiVq4ryKLWJTSYvQ2eg/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "AMIGO: Association Marseilllaise des internes en Gynécologie obstetrique ",
+      "appSubtitle": "Gynécologie-obstétrique",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UC9keAokJh_YFOQF3y_ob5wA/videos?view=0&sort=dd&flow=grid",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Chaine YOU MED : ",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/watch?v=zoukagn0TIM&list=PLPTPCuYxuZmsDwWIjBi5s6235SSrjgjJH",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Chaine Anatomie 3D Lyon : ",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/Anatomie3DLyon",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "bibliomedtv - Cours de Médecine :",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCBcV5WTXTwuOpE0MqUtW1iA/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Chaine Cours de médecine  : ",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCK2OaOslss82J9GbhZZpDNQ/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Tutoriels pour le D.E.S. de Gynécologie-Obstétrique",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UChTL0Q7FgmZXKnRFcs3-_WA/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "POSTERS VISION Cours de medecine",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCTdp63xJ8zW5ImFBoz9Bfww/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Cours de médecine ",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCK2OaOslss82J9GbhZZpDNQ/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Tutorats 2.0",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UC6An2JYMf6BDg67hdr0aKGg/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "MedCram – Medical Lectures explained CLEARLY",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/MEDCRAMvideos/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Osmose",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCNI0qOojpkhsUtaQ4_2NUhQ/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Armando Hasudungan ",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/armandohasudungan/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Media d - Université Paris Descartes",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://mediasd.parisdescartes.fr/#/medecine",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "ECNi.fr",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCR0cHy1RpLTgdQvBpHlBJag",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Gonzo Doc ",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/GonozoDoc/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Encyclopédie Médicale",
+      "appSubtitle": "Etudiants",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCr5JeSFcyh-2Qi7FHv_pwuA/playlists",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "NetCancer",
+      "appSubtitle": "Oncologie",
+      "isExternalLink": true,
+      "appLink": "https://netcancer.net/actualites/",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Société Française de Cardiologie",
+      "appSubtitle": "Cardiologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/sfcardio",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Cardiologie Facile",
+      "appSubtitle": "Cardiologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCtZFFO9pgcM-k44lxf5kzOg/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "FormatCoeur",
+      "appSubtitle": "Cardiologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCoi-sl3_R4rjBTT5ikUGoLQ/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Centre Cardio-Thoracique de Monaco",
+      "appSubtitle": "Cardiologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCh-CSk2E0VY5-6uUO6elhzA/featured",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "CCS Cardiologie",
+      "appSubtitle": "Cardiologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/user/ClubCardioSport/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Aerio",
+      "appSubtitle": "Oncologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCcQkplw55Hyfex-aT6ImYeQ/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "HARTMANN ONCOLOGIE RADIOTHERAPIE GROUPE",
+      "appSubtitle": "Oncologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCbIMuZ0excgmDRwAbS_Ha1g",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Oncologie Saint-Paul",
+      "appSubtitle": "Oncologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCNGZ-Wxc0-WmX75HYvlv1AA",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "Congrès SFRO",
+      "appSubtitle": "Oncologie-radiothérapie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCHevpABPzlsRA3tW03eWrGw/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "Centre de Réflexion de l'Oncologie Libérale",
+      "appSubtitle": "Oncologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UClvM6orKAxpRTbNKP-nRShA/videos",
+      "appCategory": "Formation"
+    },
+    {
+      "appTitle": "AFSOS Soins Oncologiques de Support",
+      "appSubtitle": "Oncologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UC3P_d2MTBKp2SA2fsEwpXrQ/videos",
+      "appCategory": "Société savante"
+    },
+    {
+      "appTitle": "CardioOnline",
+      "appSubtitle": "Cardiologie",
+      "isExternalLink": true,
+      "appLink": "https://www.youtube.com/channel/UCQuxdVIpoF86G4Jzz-tmmDQ",
+      "appCategory": "Société savante"
+    }
+  ]
 }

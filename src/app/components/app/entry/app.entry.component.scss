@@ -1,6 +1,7 @@
 @import '../../../../scss/theme.scss';
 
 li {
+  cursor: pointer;
   &.filter-btn {
     padding: 0;
     height: 42px;
