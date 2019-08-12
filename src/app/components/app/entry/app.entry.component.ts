@@ -44,8 +44,8 @@ export class AppEntryComponent implements OnInit {
 
     contactUs() {
         const recipient = 'support@360medics.fr';
-        const subject = 'Demande de nouveau score';
-        const body = `Cher Rhumatoscore, merci d'ajouter le score très utile à ma pratique clinique :`;
+        const subject = 'Demande de nouvelles vidéos';
+        const body = `Bonjour, pourriez-vous ajouter ce lien :`;
         const mailto = `mailto:${recipient}?subject=${subject}&body=${body}`;
 
         window.location.href = mailto;
