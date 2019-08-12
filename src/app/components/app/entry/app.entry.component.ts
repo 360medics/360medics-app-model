@@ -17,7 +17,7 @@ export class AppEntryComponent implements OnInit {
     currentCategory: string;
 
     constructor(private _broadcaster: Broadcaster, private _deviceDetectorService: DeviceDetectorService, private _jsonDataReader: ReadJsonFileService) {
-        this.currentCategory = "Tout";
+        this.currentCategory = 'Tout';
     }
 
     ngOnInit() {
@@ -28,7 +28,7 @@ export class AppEntryComponent implements OnInit {
 
     open() {
         let finalLink = this.app.appLink;
-        let target = "_blank";
+        let target = '_blank';
 
         if (!this._deviceDetectorService.isDesktop()) {
             finalLink = 'medics://viewer?m_source=' + this.app.appLink;
