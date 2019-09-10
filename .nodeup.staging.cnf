@@ -1,0 +1,8 @@
+ip="167.114.239.159"
+domain="beta.360medics.com"
+appDir="/home/srv/medical/_files/assets/apps/com.app-video.medics/0.0.1"
+usrName="paul"
+
+excludeDirs=""
+postDeploy=""
+distDir="./dist"
