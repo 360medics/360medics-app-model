@@ -1,5 +1,5 @@
 <div class="header" [ngStyle]="{'background-color': data.appData.appColor}" flex flex-row flex-space-between *ngIf="inApp">
-    <img id="logo" src="{{ data.appData.headerData.headerLogo }}" alt="logo" style="height:68px;">
+    <img id="logo" src="{{ data.appData.headerData.headerLogo }}" alt="logo" style="height:60px;">
     <h2 [ngStyle]="{'color': data.appData.headerData.headerColor}">{{ data.appData.headerData.headerTitle }}</h2>
     <a href="cmd://webview-close" *ngIf="!isDesktopDevice()">
         <img src="assets/icons/close.png" alt="" class="close">
