@@ -1,10 +1,11 @@
 import {Injectable} from '@angular/core';
 import {ReadJsonFileService} from './readjsonfile.service';
 import {AppEntry, Data, AppData} from '../interface';
+import { environment } from '../../environments/environment'
 
 @Injectable()
 export class DataService {
-    filename = '/assets/data.json';
+    filename = `./assets/${environment.jsonFileName}.json`;
     data: Data;
 
     constructor (private jsonFileReader: ReadJsonFileService) {

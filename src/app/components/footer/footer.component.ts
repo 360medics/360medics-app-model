@@ -31,7 +31,7 @@ export class FooterComponent implements OnInit {
         });
 
         this.footerItems = this.data.appData.footerData;
-        this.appColor = this.data.appData.headerData.appColor;
+        this.appColor = this.data.appData.appColor;
     }
 
     filter(category: string) {

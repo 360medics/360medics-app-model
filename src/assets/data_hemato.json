@@ -1,0 +1,112 @@
+{
+    "appData": {
+        "appColor": "#A0A0A0",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "Rhumato Scores",
+            "copyrightYear": "2019",
+            "copyrightDescription": "Par le Syndicat National des Médecins Rhumatologues"
+        },
+        "headerData": {
+            "headerLogo": "./assets/logo/hemato.png",
+            "headerTitle": "Hemato Scores",
+            "headerColor": "#EE3343"
+        },
+        "searchBarData": {
+            "searchBarBgColor": "#f2f2f2",
+            "searchBarPlaceholder": "Filtrer par score ou maladie"
+        },
+        "footerData": [
+            {
+                "footerCategory": "Tout",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"fal fa-list\"></i>",
+                "footerColor": "#000000"
+            },
+            {
+                "footerCategory": "Myéloïde",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"far fa-tint\"></i>",
+                "footerColor": "#EE3343"
+            },
+            {
+                "footerCategory": "Lymphoïde",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"far fa-tint\"></i>",
+                "footerColor": "#EE3343"
+            }
+        ]
+    },
+    "appEntries": [
+        {
+            "appTitle": "IPSS-R",
+            "appSubtitle": "Syndromes myélodysplasiques",
+            "isExternalLink": false,
+            "appLink": "ipss_r.html",
+            "appCategory": "Myéloïde"
+        },
+        {
+            "appTitle": "Salmon and Durie",
+            "appSubtitle": "Myélome multiple",
+            "isExternalLink": false,
+            "appLink": "myeloma.html",
+            "appCategory": "Lymphoïde"
+        },
+        {
+            "appTitle": "R-ISS",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "r_iss.html",
+            "appCategory": "Lymphoïde"
+        },
+        {
+            "appTitle": "Binet",
+            "appSubtitle": "Leucémie lymphoide chronique",
+            "isExternalLink": false,
+            "appLink": "binet.html",
+            "appCategory": "Lymphoïde"
+        },
+        {
+            "appTitle": "Matutes/RMH",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "cll.html",
+            "appCategory": "Lymphoïde"
+        },
+        {
+            "appTitle": "FLIPI",
+            "appSubtitle": "Lymphome folliculaire",
+            "isExternalLink": false,
+            "appLink": "flipi.html",
+            "appCategory": "Lymphoïde"
+        },
+        {
+            "appTitle": "Critères GELF",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "gelf.html",
+            "appCategory": "Lymphoïde"
+        },
+        {
+            "appTitle": "R-IPI",
+            "appSubtitle": "Lymphome B diffus à grandes cellules",
+            "isExternalLink": false,
+            "appLink": "ipi_ripi.html",
+            "appCategory": "Lymphoïde"
+        },
+        {
+            "appTitle": "MIPI",
+            "appSubtitle": "Lymphome à cellules du manteau",
+            "isExternalLink": false,
+            "appLink": "mipi.html",
+            "appCategory": "Lymphoïde"
+        },
+        {
+            "appTitle": "Index de Sokal",
+            "appSubtitle": "Leucémie myeloide chronique",
+            "isExternalLink": false,
+            "appLink": "sokal.html",
+            "appCategory": "Myéloïde"
+        }
+    ]
+}

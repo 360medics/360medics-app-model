@@ -2,10 +2,18 @@ export interface AppData {
     headerData: HeaderData;
     searchBarData: SearchBarData;
     footerData: FooterData;
+    appColor: string;
+    appCopyright: CopyrightData;
+}
+
+export interface CopyrightData {
+    copyrightShow: boolean;
+    copyrightEntreprise: string;
+    copyrightYear: string;
+    copyrightDescription: string;
 }
 
 export interface HeaderData {
-    appColor: string;
     headerLogo: string;
     headerTitle: string;
 }
@@ -31,4 +39,3 @@ export interface Data {
     appData: AppData;
     appEntries: AppEntry[];
 }
-

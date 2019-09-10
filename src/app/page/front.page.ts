@@ -62,6 +62,7 @@ export class FrontPageComponent implements OnInit {
     }
 
     filterScoreListOnCategory(category: string) {
+        console.log(category)
         if (null === category) {
             this.appsList = this.data;
         } else {
