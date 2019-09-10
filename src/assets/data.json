@@ -12,18 +12,18 @@
     "footerData": [
       {
         "footerCategory": "Tout",
-        "footerIconType": "",
-        "footerIconPath": ""
+        "footerIconType": "fontawesome",
+        "footerIconPath": "<i class=\"fal fa-list\"></i>"
       },
       {
         "footerCategory": "Société savante",
-        "footerIconType": "",
-        "footerIconPath": ""
+        "footerIconType": "fontawesome",
+        "footerIconPath": "<i class=\"fal fa-stethoscope\"></i>"
       },
       {
         "footerCategory": "Formation",
-        "footerIconType": "",
-        "footerIconPath": ""
+        "footerIconType": "fontawesome",
+        "footerIconPath": "<i class=\"fal fa-book-open\"></i>"
       }
     ]
   },
@@ -89,7 +89,7 @@
       "appSubtitle": "CHIRURGIE",
       "isExternalLink": true,
       "appLink": "https://www.youtube.com/channel/UCNUKHr2J9Mim4rlsiRQuSbw/playlists",
-      "appCategory": "Formation"
+      "appCategory": "Société savante"
     },
     {
       "appTitle": "Conseil National Professionnel Chiurgie Viscérale et Digestive  ",
@@ -111,13 +111,6 @@
       "isExternalLink": true,
       "appLink": "https://www.youtube.com/channel/UCQa4A25Wu05YLBwHy-zuyXA/playlists",
       "appCategory": "Formation"
-    },
-    {
-      "appTitle": "Académie nationale de Chirurgie FRANCE ",
-      "appSubtitle": "CHIRURGIE ",
-      "isExternalLink": true,
-      "appLink": "https://www.youtube.com/channel/UCNUKHr2J9Mim4rlsiRQuSbw/playlists",
-      "appCategory": "Société savante"
     },
     {
       "appTitle": "Dr Niforos",
@@ -264,7 +257,7 @@
       "appSubtitle": "Oto-Rhino-Laryngologie ",
       "isExternalLink": true,
       "appLink": "https://html5.slideonline.eu/event/17IFOS",
-      "appCategory": "Société savante"
+      "appCategory": "Formation"
     },
     {
       "appTitle": "Société Française d’ORL TV",
@@ -468,13 +461,6 @@
       "isExternalLink": true,
       "appLink": "https://netcancer.net/actualites/",
       "appCategory": "Formation"
-    },
-    {
-      "appTitle": "Société Française de Cardiologie",
-      "appSubtitle": "Cardiologie",
-      "isExternalLink": true,
-      "appLink": "https://www.youtube.com/user/sfcardio",
-      "appCategory": "Société savante"
     },
     {
       "appTitle": "Cardiologie Facile",
