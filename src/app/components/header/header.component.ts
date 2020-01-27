@@ -13,6 +13,7 @@ import { Data } from '../../interface';
 export class HeaderComponent implements OnInit {
     @Input() data: Data;
     inApp: boolean;
+    appTitle: string;
 
     constructor(private _broadcaster: Broadcaster, private _deviceDetectorService: DeviceDetectorService, private _jsonDataReader: ReadJsonFileService ) {
         this.inApp = true;
@@ -21,6 +22,7 @@ export class HeaderComponent implements OnInit {
     ngOnInit() {
         this._broadcaster.on('open.app.in.iframe', (data) => {
             this.inApp = false;
+            this.appTitle = data.title;
         });
 
         this._broadcaster.on('close.app.iframe', (data) => {

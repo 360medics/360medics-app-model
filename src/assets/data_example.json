@@ -9,11 +9,14 @@
         },
         "headerData": {
             "headerLogo": "./assets/logo/medics.png",
+            "headerSponso": "./assets/logo/medics.png",
+            "_comment": "Laissez vide si non sponso",
             "headerTitle": "Json Example",
             "headerColor": "#fff"
         },
         "searchBarData": {
             "searchBarBgColor": "#f2f2f2",
+            "searchBarTextColor": "#000",
             "searchBarPlaceholder": "Filtrer par score ou maladie"
         },
         "footerData": [

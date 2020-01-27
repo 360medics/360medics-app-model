@@ -20,6 +20,7 @@ export interface HeaderData {
 
 export interface SearchBarData {
     searchBarBgColor: string;
+    searchBarTextColor: string;
     searchBarPlaceholder: string;
 }
 

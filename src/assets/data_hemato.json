@@ -1,6 +1,6 @@
 {
     "appData": {
-        "appColor": "#A0A0A0",
+        "appColor": "#fff",
         "appCopyright": {
             "copyrightShow": false,
             "copyrightEntreprise": "Rhumato Scores",
@@ -9,11 +9,13 @@
         },
         "headerData": {
             "headerLogo": "./assets/logo/hemato.png",
+            "headerSponso": "./assets/logo/takeda.png",
             "headerTitle": "Hemato Scores",
             "headerColor": "#EE3343"
         },
         "searchBarData": {
-            "searchBarBgColor": "#f2f2f2",
+            "searchBarBgColor": "#EE3343",
+            "searchBarTextColor": "#fff",
             "searchBarPlaceholder": "Filtrer par score ou maladie"
         },
         "footerData": [
@@ -21,7 +23,7 @@
                 "footerCategory": "Tout",
                 "footerIconType": "fontawesome",
                 "footerIconPath": "<i class=\"fal fa-list\"></i>",
-                "footerColor": "#000000"
+                "footerColor": "#EE3343"
             },
             {
                 "footerCategory": "Myéloïde",
@@ -49,12 +51,12 @@
             "appTitle": "Salmon and Durie",
             "appSubtitle": "Myélome multiple",
             "isExternalLink": false,
-            "appLink": "myeloma.html",
+            "appLink": "salmon_durie.html",
             "appCategory": "Lymphoïde"
         },
         {
             "appTitle": "R-ISS",
-            "appSubtitle": "",
+            "appSubtitle": "Myélome multiple",
             "isExternalLink": false,
             "appLink": "r_iss.html",
             "appCategory": "Lymphoïde"
@@ -68,9 +70,9 @@
         },
         {
             "appTitle": "Matutes/RMH",
-            "appSubtitle": "",
+            "appSubtitle": "Leucémie lymphoïde chronique",
             "isExternalLink": false,
-            "appLink": "cll.html",
+            "appLink": "matutes_rmh.html",
             "appCategory": "Lymphoïde"
         },
         {
@@ -82,7 +84,7 @@
         },
         {
             "appTitle": "Critères GELF",
-            "appSubtitle": "",
+            "appSubtitle": "Lymphome folliculaire",
             "isExternalLink": false,
             "appLink": "gelf.html",
             "appCategory": "Lymphoïde"
@@ -91,7 +93,7 @@
             "appTitle": "R-IPI",
             "appSubtitle": "Lymphome B diffus à grandes cellules",
             "isExternalLink": false,
-            "appLink": "ipi_ripi.html",
+            "appLink": "r_ipi.html",
             "appCategory": "Lymphoïde"
         },
         {

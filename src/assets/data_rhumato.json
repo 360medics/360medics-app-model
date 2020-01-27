@@ -9,11 +9,13 @@
         },
         "headerData": {
             "headerLogo": "./assets/logo/snmr.png",
+            "headerSponso": "",
             "headerTitle": "Rhumato Scores",
             "headerColor": "#fff"
         },
         "searchBarData": {
             "searchBarBgColor": "#f2f2f2",
+            "searchBarTextColor": "#000",
             "searchBarPlaceholder": "Filtrer par score ou maladie"
         },
         "footerData": [
@@ -41,8 +43,8 @@
         {
             "appTitle": "ACR EULAR 2010",
             "appSubtitle": "Polyarthrite Rhumatoïde",
-            "isExternalLink": true,
-            "appLink": "https://www.rheumakit.com/fr/calculators/acr_eular2010",
+            "isExternalLink": false,
+            "appLink": "ACR_EULAR_2010.html",
             "appCategory": "Activité"
         },
         {
@@ -55,29 +57,29 @@
         {
             "appTitle": "SDAI",
             "appSubtitle": "Polyarthrite Rhumatoïde",
-            "isExternalLink": true,
-            "appLink": "https://www.rheumakit.com/fr/calculators/sdai",
+            "isExternalLink": false,
+            "appLink": "SDAI.html",
             "appCategory": "Activité"
         },
         {
             "appTitle": "CDAI",
             "appSubtitle": "Polyarthrite Rhumatoïde",
-            "isExternalLink": true,
-            "appLink": "https://www.rheumakit.com/fr/calculators/cdai",
+            "isExternalLink": false,
+            "appLink": "CDAI.html",
             "appCategory": "Activité"
         },
         {
             "appTitle": "HAQ",
             "appSubtitle": "Polyarthrite Rhumatoïde",
-            "isExternalLink": true,
-            "appLink": "https://www.rheumakit.com/fr/calculators/haq_di",
+            "isExternalLink": false,
+            "appLink": "HAQ.html",
             "appCategory": "Activité"
         },
         {
             "appTitle": "RAPID3",
             "appSubtitle": "Polyarthrite Rhumatoïde",
-            "isExternalLink": true,
-            "appLink": "https://www.rheumakit.com/fr/calculators/rapid3",
+            "isExternalLink": false,
+            "appLink": "RAPID3.html",
             "appCategory": "Activité"
         },
         {
@@ -104,15 +106,15 @@
         {
             "appTitle": "BASDAI",
             "appSubtitle": "Spondylarthrite Ankylosante",
-            "isExternalLink": true,
-            "appLink": "http://medicalcul.free.fr/basdai.html",
+            "isExternalLink": false,
+            "appLink": "BASDAI.html",
             "appCategory": "Activité"
         },
         {
             "appTitle": "ASDAS",
             "appSubtitle": "Spondylarthrite Ankylosante",
-            "isExternalLink": true,
-            "appLink": "http://medicalcul.free.fr/asdas.html",
+            "isExternalLink": false,
+            "appLink": "ASDAS.html",
             "appCategory": "Activité"
         },
         {
@@ -125,8 +127,8 @@
         {
             "appTitle": "FIRST",
             "appSubtitle": "Fibromyalgie",
-            "isExternalLink": true,
-            "appLink": "http://medicalcul.free.fr/firstquest.html",
+            "isExternalLink": false,
+            "appLink": "FIRST.html",
             "appCategory": "Diagnostic"
         },
         {
@@ -161,7 +163,7 @@
             "appTitle": "Critères diagnostiques américano-européens de 2002",
             "appSubtitle": "Syndrome de Gougerot-Sjogren",
             "isExternalLink": false,
-            "appLink": "Diagnostic.html",
+            "appLink": "diagnostic.html",
             "appCategory": ""
         },
         {
@@ -188,8 +190,8 @@
         {
             "appTitle": "Échelle de dépression de Hamilton",
             "appSubtitle": "Dépression",
-            "isExternalLink": true,
-            "appLink": "http://medicalcul.free.fr/depressionhamilton.html",
+            "isExternalLink": false,
+            "appLink": "HAMILTON.html",
             "appCategory": "Activité"
         },
         {
