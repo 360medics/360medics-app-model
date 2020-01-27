@@ -1,0 +1,91 @@
+/******************************************************* INSERT IN THIS FILE ALL THE GLOBAL STYLE PROPERTIES *******************************************************/
+
+/*******************************************************
+                       Theme colors
+*******************************************************/
+$mainFontFamily: -apple-system, "Helvetica Neue", Roboto, "Segoe UI", sans-serif;
+
+$headerBackgroundColor: rgb(37, 64, 143);
+$headerFontColor: white;
+
+$footerBackgroundColor: white;
+$footerFontColor: rgb(37, 64, 143);
+
+$linkColor: rgb(37, 64, 143);
+
+$appEntryBackgroundColor: white;
+
+$appsListColor: rgb(68, 68, 68);
+
+/*******************************************************
+                        Font
+*******************************************************/
+body {
+  margin:0;
+  padding:0;
+  color: white;
+  font-family: $mainFontFamily;
+  max-width: 100vw;
+  background-color: white;
+
+  -webkit-font-smoothing : antialiased;
+  -moz-font-smoothing : antialiased;
+  -o-font-smoothing : antialiased;
+}
+
+/*******************************************************
+                       Colors
+*******************************************************/
+$gray: rgb(68, 68, 68);
+
+$lightGray: #eee;
+
+$red: rgb(204, 0, 50);
+
+$blue: rgb(37, 64, 143);
+
+/*******************************************************
+                        Flex
+*******************************************************/
+[flex] {
+  display: flex;
+}
+
+[flex-column] {
+  flex-direction: column;
+}
+
+[flex-row] {
+  flex-direction: row;
+}
+
+[flex-space-around] {
+  justify-content: space-around;
+}
+
+[flex-space-between] {
+  justify-content: space-between;
+}
+
+[flex-grow-1] {
+  flex-grow: 1;
+}
+
+[flex-grow-2] {
+  flex-grow: 2;
+}
+
+[flex-align-left] {
+  align-items: flex-start;
+}
+
+/*******************************************************
+                       Images Sizes
+*******************************************************/
+.openInLogoResized {
+  height: 30px;
+}
+
+.menuImageResized {
+  height: 15px;
+}

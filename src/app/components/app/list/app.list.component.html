@@ -1,0 +1,12 @@
+<ul class="appsList">
+    <app-entry [app]="app" [lastEntry]="i === apps.length-1" *ngFor="let app of apps, index as i"></app-entry>
+    <li [ngClass]="{'contact': true}">
+        <p class="copyright" *ngIf="this.data.appData.appCopyright.copyrightShow">
+            {{ this.data.appData.appCopyright.copyrightEntreprise }}&copy;{{ this.data.appData.appCopyright.copyrightYear }}
+            <br>
+            {{ this.data.appData.appCopyright.copyrightDescription }}
+            <br>
+            <a href="#" target="_blank" (click)="contactUs()">Demander d'autres scores</a>
+        </p>
+    </li>
+</ul>

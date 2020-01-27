@@ -1,0 +1,11 @@
+<header *ngIf="data !== undefined">
+    <app-header [data]="data"></app-header>
+</header>
+
+<section *ngIf="data !== undefined">
+    <app-front-page [searchResults]="apps.searchBarData" [jsonData]="data"></app-front-page>
+</section>
+
+<footer *ngIf="data !== undefined">
+    <app-footer [data]="data"></app-footer>
+</footer>

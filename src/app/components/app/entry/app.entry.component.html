@@ -1,0 +1,14 @@
+<li (click)="open()" *ngIf="currentCategory === 'Tout' || app.appCategory === currentCategory ">
+    <div>
+        <a>
+            <h4>{{ app.appTitle }}</h4>
+            <p class="text-muted">{{ app.appSubtitle }}</p>
+        </a>
+    </div>
+    <div>
+        <div *ngIf="app.isExternalLink">
+            <!-- if openInLogo is an image, use this : <img src="assets/image.png" alt="" class="openInLogoResized"> -->
+            <i class="fal fa-link"></i>
+        </div>
+    </div>
+</li>

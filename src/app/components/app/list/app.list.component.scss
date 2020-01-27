@@ -1,0 +1,29 @@
+@import '../../../../scss/theme.scss';
+
+.appsList {
+  overflow-y: auto;
+  padding: 0;
+  margin: 0;
+  color: $appsListColor;
+}
+
+li.contact {
+  margin-bottom: 80px !important;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  &.last-entry {
+    border: none;
+  }
+
+  p {
+    font-size: small;
+    text-align: center;
+    line-height: 17px;
+
+    a {
+      color: $blue;
+    }
+  }
+}
