@@ -1,0 +1,50 @@
+{
+    "appData": {
+        "appColor": "#26348B",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "La dysbiose",
+            "copyrightYear": "2020",
+            "copyrightDescription": ""
+        },
+        "headerData": {
+            "headerLogo": "./assets/logo/gallia.png",
+            "headerSponso": "",
+            "headerTitle": "La dysbiose",
+            "headerColor": "#fff"
+        },
+        "footerData": [
+            {
+                "footerCategory": "",
+                "footerIconType": "",
+                "footerIconPath": ""
+            },
+            {
+                "footerCategory": "",
+                "footerIconType": "",
+                "footerIconPath": ""
+            },
+            {
+                "footerCategory": "",
+                "footerIconType": "",
+                "footerIconPath": ""
+            }
+        ]
+    },
+    "appEntries": [
+        {
+            "appTitle": "Les 1000 premiers jours",
+            "appSubtitle": "Une fenêtre d'opportunité pour moduler le microbiote intestinal",
+            "isExternalLink": true,
+            "appLink": "https://360medics.com/assets/media/gallia/",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Fiche posologique Prosyneo",
+            "appSubtitle": "Une formule exclusive pour prendre en charge la dysbiose",
+            "isExternalLink": true,
+            "appLink": "https://360medics.com/assets/media/gallia/fiche_poso.pdf",
+            "appCategory": ""
+        }
+    ]
+}
