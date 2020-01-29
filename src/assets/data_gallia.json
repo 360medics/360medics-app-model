@@ -12,24 +12,8 @@
             "headerSponso": "",
             "headerTitle": "La dysbiose",
             "headerColor": "#fff"
-        },
-        "footerData": [
-            {
-                "footerCategory": "",
-                "footerIconType": "",
-                "footerIconPath": ""
-            },
-            {
-                "footerCategory": "",
-                "footerIconType": "",
-                "footerIconPath": ""
-            },
-            {
-                "footerCategory": "",
-                "footerIconType": "",
-                "footerIconPath": ""
-            }
-        ]
+        }
+
     },
     "appEntries": [
         {

@@ -30,9 +30,13 @@ export class FooterComponent implements OnInit {
             this.hide = false;
         });
 
-        this.activated = this.data.appData.footerData[0].footerCategory;
-        this.footerItems = this.data.appData.footerData;
-        this.appColor = this.data.appData.appColor;
+        if (typeof  this.data.appData.footerData !== 'undefined') {
+            this.activated = this.data.appData.footerData[0].footerCategory;
+            this.footerItems = this.data.appData.footerData;
+            this.appColor = this.data.appData.appColor;
+        } else {
+            this.hide = true;
+        }
     }
 
     filter(category: string) {
