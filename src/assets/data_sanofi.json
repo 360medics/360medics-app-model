@@ -1,0 +1,55 @@
+{
+    "appData": {
+        "appColor": "#eaecf1",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "Sanofi",
+            "copyrightYear": "2020",
+            "copyrightDescription": "Inflammation de type 2"
+        },
+        "headerData": {
+            "headerLogo": "./assets/logo/sanofi.png",
+            "headerSponso": "",
+            "headerTitle": "Inflammation Type 2",
+            "headerColor": "#444492"
+        }
+    },
+    "appEntries": [
+        {
+            "appTitle": "L’INFLAMMATION DE TYPE 2 DANS L’ASTHME SEVERE",
+            "appSubtitle": "Physiopathologie : retour sur le rôle des cytokines IL4, IL5 et IL13",
+            "isExternalLink": true,
+            "appLink": "https://www.001606.360medics-pro.com/",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "PHENOTYPES & BIOMARQUEURS DE L’INFLAMMATION DE TYPE 2",
+            "appSubtitle": "Eosinophiles, IgE, FeNO : quels phénotypes et biomarqueurs utiliser pour reconnaître l’inflammation de type 2 dans l’asthme",
+            "isExternalLink": true,
+            "appLink": "https://www.001006.360medics-pro.com/",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "FeNO ET INFLAMMATION DE TYPE 2 : POURQUOI ET COMMENT ?",
+            "appSubtitle": "Son origine, son intérêt et son action",
+            "isExternalLink": true,
+            "appLink": "https://www.001106.360medics-pro.com/",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "ASTHME SEVERE ET FONCTION RESPIRATOIRE",
+            "appSubtitle": "Dans l'asthme sévère, le maintien/l'amélioration de la fonction respiratoire est important pour limiter les risques futurs",
+            "isExternalLink": true,
+            "appLink": "",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "TOUT SAVOIR SUR L’INFLAMMATION DE TYPE 2 EN 3MIN",
+            "appSubtitle": "Film sur le mode d’action des cytokines IL4, IL5 et IL13",
+            "isExternalLink": true,
+            "appLink": "https://360medics.com/assets/media/sanofi/Film_mode_of_action_fr_final.mp4",
+            "appCategory": ""
+        }
+
+    ]
+}

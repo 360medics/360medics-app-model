@@ -9,6 +9,10 @@
         height: auto;
     }
 
+    &.no-searchBar {
+        margin-top: 67px !important;
+    }
+
     .header {
         background-color: #25408f;
         align-items: center;

@@ -2,7 +2,7 @@ import {map} from 'rxjs/operators';
 import { Injectable } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import {Data} from '../interface/model.interface';
-import { environment } from '../../environments/environment'
+import { environment } from '../../environments/environment';
 
 @Injectable()
 export class ReadJsonFileService {
