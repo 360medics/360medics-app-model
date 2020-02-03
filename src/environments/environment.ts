@@ -6,5 +6,5 @@
 export const environment = {
   production: false,
   jsonFileName: 'data_gallia',    //Name of the Json files you working with
-  toolPath: 'https://beta.360medics.com/assets/apps/com.hemato.medical/tools/'    //Path to the app tools DON'T forget the '/'
+  toolPath: ''    //Path to the app tools DON'T forget the '/'
 };

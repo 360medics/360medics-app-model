@@ -20,15 +20,16 @@
             "appTitle": "Les 1000 premiers jours",
             "appSubtitle": "Une fenêtre d'opportunité pour moduler le microbiote intestinal",
             "isExternalLink": true,
-            "appLink": "https://360medics.com/assets/media/gallia/",
+            "appLink": "https://360medics.com/assets/media/gallia/index.html",
             "appCategory": ""
         },
         {
             "appTitle": "Fiche posologique Prosyneo",
             "appSubtitle": "Une formule exclusive pour prendre en charge la dysbiose",
             "isExternalLink": true,
-            "appLink": "https://360medics.com/assets/media/gallia/fiche_poso.pdf",
+            "appLink": "https://360medics.com/assets/media/gallia/ficheposo.html",
             "appCategory": ""
         }
     ]
 }
+
