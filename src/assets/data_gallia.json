@@ -3,14 +3,14 @@
         "appColor": "#26348B",
         "appCopyright": {
             "copyrightShow": false,
-            "copyrightEntreprise": "La dysbiose",
+            "copyrightEntreprise": "La Dysbiose",
             "copyrightYear": "2020",
             "copyrightDescription": ""
         },
         "headerData": {
             "headerLogo": "./assets/logo/gallia.png",
             "headerSponso": "",
-            "headerTitle": "La dysbiose",
+            "headerTitle": "La Dysbiose",
             "headerColor": "#fff"
         }
 
