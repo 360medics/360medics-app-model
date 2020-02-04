@@ -1,5 +1,5 @@
 <ul class="appsList">
-    <app-entry [app]="app" [lastEntry]="i === apps.length-1" *ngFor="let app of apps, index as i"></app-entry>
+    <app-entry [app]="app" [lastEntry]="i === apps.length-1" *ngFor="let app of apps, index as i" [activatedCategory]="activatedCategory"></app-entry>
     <li [ngClass]="{'contact': true}">
         <p class="copyright" *ngIf="this.data.appData.appCopyright.copyrightShow">
             {{ this.data.appData.appCopyright.copyrightEntreprise }}&copy;{{ this.data.appData.appCopyright.copyrightYear }}

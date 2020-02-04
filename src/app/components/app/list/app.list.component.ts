@@ -10,6 +10,7 @@ import {AppEntry, Data} from '../../../interface';
 export class AppListComponent {
     @Input() apps: Array<AppEntry>;
     @Input() data: Data;
+    @Input() activatedCategory: string;
 
 
     contactUs() {
