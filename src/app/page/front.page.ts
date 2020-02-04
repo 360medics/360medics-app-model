@@ -19,7 +19,7 @@ export class FrontPageComponent implements OnInit {
     appsList: AppEntry[] = [];
     @Input() jsonData: Data;
     @Input() searchResults: SearchBarData;
-
+    activatedCategory: string;
     openIn: boolean;
     iframeUrl: string;
 
@@ -28,6 +28,7 @@ export class FrontPageComponent implements OnInit {
     }
 
     ngOnInit() {
+        this.activatedCategory = this.jsonData.appData.footerData[0].footerCategory;
         this._broadcaster.on('filter.on.apps.category', (data) => {
             this.filterScoreListOnCategory(data.category);
         });
@@ -43,6 +44,9 @@ export class FrontPageComponent implements OnInit {
             document.querySelector('iframe').remove();
         });
 
+        this._broadcaster.on('click.category', (event) => {
+            this.activatedCategory = event;
+        });
         this.getAppsList();
     }
 
@@ -55,7 +59,7 @@ export class FrontPageComponent implements OnInit {
     filterAppsList(e: any) {
         if (e.needle !== null && e.needle.length > 0) {
             this.appsList = this.data
-                .filter((app: AppEntry) => this.match(app, e.needle))
+                .filter((app: AppEntry) => this.match(app, e.needle));
         } else {
             this.appsList = this.data;
         }

@@ -1,9 +1,9 @@
 <div id="search" [ngStyle]="{'background-color': jsonData.appData.searchBarData.searchBarBgColor}">
     <div class="zone" flex flex-row flex-space-between>
-        <div class="filter-icon">
+        <div class="filter-icon" [ngStyle]="{'color': jsonData.appData.searchBarData.searchBarTextColor}">
             <i class="fal fa-search"></i>
         </div>
-        <input [placeholder]="jsonData.appData.searchBarData.searchBarPlaceholder" (keyup)="filterAppsList($event)" [value]="searchInput">
+        <input [placeholder]="jsonData.appData.searchBarData.searchBarPlaceholder" [ngStyle]="{'color': jsonData.appData.searchBarData.searchBarTextColor}" (keyup)="filterAppsList($event)" [value]="searchInput">
         <button *ngIf="(searchInput.length > 0)" (click)="resetFilterAppsList()">
             <i class="fal fa-times-circle"></i>
         </button>

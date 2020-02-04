@@ -4,5 +4,7 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  jsonFileName: 'data_hemato',    //Name of the Json files you working with
+  toolPath: 'https://beta.360medics.com/assets/apps/com.hemato.medical/tools/'    //Path to the app tools DON'T forget the '/'
 };

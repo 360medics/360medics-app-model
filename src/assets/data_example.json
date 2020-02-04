@@ -1,0 +1,67 @@
+{
+    "appData": {
+        "appColor": "#EE3343",
+        "appCopyright": {
+            "copyrightShow": true,
+            "copyrightEntreprise": "Copyright Example",
+            "copyrightYear": "2019",
+            "copyrightDescription": "Description Example"
+        },
+        "headerData": {
+            "headerLogo": "./assets/logo/medics.png",
+            "headerSponso": "./assets/logo/medics.png",
+            "_comment": "Laissez vide si non sponso",
+            "headerTitle": "Json Example",
+            "headerColor": "#fff"
+        },
+        "searchBarData": {
+            "searchBarBgColor": "#f2f2f2",
+            "searchBarTextColor": "#000",
+            "searchBarPlaceholder": "Filtrer par score ou maladie"
+        },
+        "footerData": [
+            {
+                "footerCategory": "Tout",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"fal fa-list\"></i>",
+                "footerColor": "#000000"
+            },
+            {
+                "footerCategory": "Catégorie1",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"far fa-tint\"></i>",
+                "footerColor": "#EE3343"
+            },
+            {
+                "footerCategory": "Catégorie2",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"far fa-tint\"></i>",
+                "footerColor": "#EE3343"
+            }
+        ]
+    },
+    "appEntries": [
+        {
+            "appTitle": "Example1",
+            "appSubtitle": "Description Example",
+            "isExternalLink": true,
+            "appLink": "https://google.com",
+            "_comment": "Be sure to set isExternalLink at the right value, otherwise, there will be conflicts. // Also, if you want to access a tools, you just have to put the filename in appLink and put the path in the environment",
+            "appCategory": "Catégorie1"
+        },
+        {
+            "appTitle": "Example2",
+            "appSubtitle": "Description Example",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "Catégorie2"
+        },
+        {
+            "appTitle": "Example3",
+            "appSubtitle": "Description Example",
+            "isExternalLink": true,
+            "appLink": "https://github.com",
+            "appCategory": "Catégorie1"
+        }
+    ]
+}

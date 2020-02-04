@@ -3,7 +3,7 @@
         <div *ngIf="searchResults !== null">
             <app-search [jsonData]="jsonData" (searchValueChange)="filterAppsList($event)" [searchBar]="searchResults"></app-search>
         </div>
-        <app-list [apps]="appsList"></app-list>
+        <app-list [apps]="appsList" [data]="jsonData" [activatedCategory]="activatedCategory"></app-list>
     </div>
     <div class="viewer" *ngIf="openIn"></div>
 </div>

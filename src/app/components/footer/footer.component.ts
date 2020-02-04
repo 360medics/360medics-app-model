@@ -30,8 +30,9 @@ export class FooterComponent implements OnInit {
             this.hide = false;
         });
 
+        this.activated = this.data.appData.footerData[0].footerCategory;
         this.footerItems = this.data.appData.footerData;
-        this.appColor = this.data.appData.headerData.appColor;
+        this.appColor = this.data.appData.appColor;
     }
 
     filter(category: string) {

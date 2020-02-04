@@ -1,8 +1,9 @@
 import { Component, OnInit, Input } from '@angular/core';
-import {AppEntry} from '../../../interface';
+import {AppEntry, Data} from '../../../interface';
 import { DeviceDetectorService } from 'ngx-device-detector';
 import { Broadcaster } from '../../../services/broadcaster.service';
 import {ReadJsonFileService} from '../../../services';
+import { environment } from '../../../../environments/environment';
 
 @Component({
     selector: 'app-entry',
@@ -13,43 +14,43 @@ import {ReadJsonFileService} from '../../../services';
 export class AppEntryComponent implements OnInit {
     @Input() app: AppEntry;
     @Input() lastEntry: boolean;
-
+    appColor: string;
+    @Input() activatedCategory: string;
     currentCategory: string;
+    appLink: string;
 
     constructor(private _broadcaster: Broadcaster, private _deviceDetectorService: DeviceDetectorService, private _jsonDataReader: ReadJsonFileService) {
-        this.currentCategory = "Tout";
     }
 
     ngOnInit() {
+        if (this.app.isExternalLink) {
+            this.appLink = this.app.appLink;
+        } else {
+            this.appLink = environment.toolPath + this.app.appLink;
+        }
+        if (typeof this.activatedCategory !== 'undefined') {
+            this.currentCategory = this.activatedCategory;
+        } else {
+            this.currentCategory = 'Tout';
+        }
         this._broadcaster.on('click.category', (event) => {
             this.currentCategory = event;
         });
+
     }
 
     open() {
-        let finalLink = this.app.appLink;
-        let target = "_blank";
+        let finalLink = this.appLink;
+        let target = '_blank';
 
         if (!this._deviceDetectorService.isDesktop()) {
-            finalLink = 'medics://viewer?m_source=' + this.app.appLink;
+            finalLink = 'medics://viewer?m_source=' + this.appLink;
             target = '_self';
         }
-
         !this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
     }
 
     openAppInIframe() {
-        this._broadcaster.emit('open.app.in.iframe', { url: this.app.appLink, title: this.app.appTitle });
+        this._broadcaster.emit('open.app.in.iframe', { url: this.appLink, title: this.app.appTitle });
     }
-
-    contactUs() {
-        const recipient = 'support@360medics.fr';
-        const subject = 'Demande de nouveau score';
-        const body = `Cher Rhumatoscore, merci d'ajouter le score très utile à ma pratique clinique :`;
-        const mailto = `mailto:${recipient}?subject=${subject}&body=${body}`;
-
-        window.location.href = mailto;
-    }
-
 }
-
