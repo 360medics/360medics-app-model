@@ -28,7 +28,11 @@ export class FrontPageComponent implements OnInit {
     }
 
     ngOnInit() {
-        this.activatedCategory = this.jsonData.appData.footerData[0].footerCategory;
+        if ( typeof this.jsonData.appData.footerData !== 'undefined') {
+            this.activatedCategory = this.jsonData.appData.footerData[0].footerCategory;
+        } else {
+            this.activatedCategory = 'Tout';
+        }
         this._broadcaster.on('filter.on.apps.category', (data) => {
             this.filterScoreListOnCategory(data.category);
         });
