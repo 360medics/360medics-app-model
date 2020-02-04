@@ -15,12 +15,11 @@ export class AppEntryComponent implements OnInit {
     @Input() app: AppEntry;
     @Input() lastEntry: boolean;
     appColor: string;
-
+    @Input() activatedCategory: string;
     currentCategory: string;
     appLink: string;
 
     constructor(private _broadcaster: Broadcaster, private _deviceDetectorService: DeviceDetectorService, private _jsonDataReader: ReadJsonFileService) {
-        this.currentCategory = "Tout";
     }
 
     ngOnInit() {
@@ -29,14 +28,20 @@ export class AppEntryComponent implements OnInit {
         } else {
             this.appLink = environment.toolPath + this.app.appLink;
         }
+        if (typeof this.activatedCategory !== 'undefined') {
+            this.currentCategory = this.activatedCategory;
+        } else {
+            this.currentCategory = 'Tout';
+        }
         this._broadcaster.on('click.category', (event) => {
             this.currentCategory = event;
         });
+
     }
 
     open() {
         let finalLink = this.appLink;
-        let target = "_blank";
+        let target = '_blank';
 
         if (!this._deviceDetectorService.isDesktop()) {
             finalLink = 'medics://viewer?m_source=' + this.appLink;
