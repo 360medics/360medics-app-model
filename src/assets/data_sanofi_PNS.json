@@ -1,0 +1,34 @@
+{
+    "appData": {
+        "appColor": "#f2f4f8",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "Sanofi",
+            "copyrightYear": "2020",
+            "copyrightDescription": "Polypose Naso-Sinusienne"
+        },
+        "headerData": {
+            "headerLogo": "./assets/logo/sanofi.png",
+            "headerSponso": "",
+            "_comment": "",
+            "headerTitle": "Polypose Naso-Sinusienne",
+            "headerColor": "#444492"
+        }
+    },
+    "appEntries": [
+        {
+            "appTitle": "L’INFLAMMATION DE TYPE 2 DANS LA POLYPOSE NASO-SINUSIENNE",
+            "appSubtitle": "Physiopathologie : retour sur le rôle des cytokines IL-4, IL-13 et IL-5",
+            "isExternalLink": true,
+            "appLink": "https://www.001106.360medics-pro.com/physiopathologie",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "IMPACTS DE LA POLYPOSE NASO-SINUSIENNE",
+            "appSubtitle": "Symptômes nasaux, symptômes auriculaires et faciaux, qualité de vie liée à la santé, symptômes psychologiques",
+            "isExternalLink": true,
+            "appLink": "https://www.001106.360medics-pro.com/polypose",
+            "appCategory": ""
+        }
+    ]
+}

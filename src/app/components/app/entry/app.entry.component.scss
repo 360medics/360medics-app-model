@@ -29,6 +29,7 @@ li {
   border-bottom: solid 1px #ececec;
   padding: 16px;
   white-space: normal;
+  cursor: pointer;
 
   a {
     font-weight: 400;
@@ -54,6 +55,10 @@ li {
 
     display: block;
     text-decoration: none;
+  }
+
+  .fa-container-externalLink {
+    margin-left: 10px;
   }
 
   i {

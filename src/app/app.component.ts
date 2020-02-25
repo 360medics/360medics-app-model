@@ -21,7 +21,10 @@ export class AppComponent implements OnInit {
     this._jsonDataReader.getJsonData().then((dataResponse: Data) => {
       this.data = dataResponse;
       this.titleService.setTitle(this.data.appData.headerData.headerTitle);
-      this.apps.searchBarData = this.data.appData.searchBarData.searchBarPlaceholder;
+      if ( typeof  this.data.appData.searchBarData !== 'undefined') {
+        this.apps.searchBarData = this.data.appData.searchBarData.searchBarPlaceholder;
+      }
+
     });
   }
 
