@@ -24,7 +24,6 @@ export class AppComponent implements OnInit {
       if ( typeof  this.data.appData.searchBarData !== 'undefined') {
         this.apps.searchBarData = this.data.appData.searchBarData.searchBarPlaceholder;
       }
-
     });
   }
 
