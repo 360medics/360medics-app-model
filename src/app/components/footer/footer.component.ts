@@ -29,6 +29,7 @@ export class FooterComponent implements OnInit {
         this._broadcaster.on('close.app.iframe', (data) => {
             this.hide = false;
         });
+
         if (typeof  this.data.appData.footerData !== 'undefined') {
             this.activated = this.data.appData.footerData[0].footerCategory;
             this.footerItems = this.data.appData.footerData;
