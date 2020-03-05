@@ -4,16 +4,13 @@
   position: fixed;
   top: 0;
   width: 100%;
-  height: 75px;
+  height: 80px;
   //background-color: blue;
   align-items: center;
 
   h2 {
     text-align: center;
     width: 100%;
-    @media (max-width: 400px) {
-      font-size: 1.2em;
-    }
   }
 
   #logo {
@@ -38,16 +35,21 @@
   }
 
   &.small {
-    height: 60px;
+    height: 80px;
     padding-right: 12px;
 
     h2 {
       margin-right: 42px;
+      @media (max-width: 500px) {
+        font-size: 1.3em;
+      }
     }
 
     strong {
       align-self: center;
       margin-right: 42px;
     }
+
+
   }
 }

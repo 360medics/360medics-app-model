@@ -5,12 +5,12 @@
     overflow: auto;
 
     &.viewer-opened {
-        margin-top: 40px !important;
+        margin-top: 80px !important;
         height: auto;
     }
 
     &.no-searchBar {
-        margin-top: 75px !important;
+        margin-top: 80px !important;
     }
 
     .header {
@@ -151,7 +151,6 @@
 
 iframe {
     width: 100%;
-    margin-top:3vh;
     height: 91vh;
     border: none;
 }

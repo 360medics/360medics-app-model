@@ -1,0 +1,129 @@
+{
+    "appData": {
+        "appColor": "#e3e3e3",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "SFPO",
+            "copyrightYear": "2020",
+            "copyrightDescription": ""
+        },
+        "headerData": {
+            "headerLogo": "./assets/logo/oncolien.png",
+            "_comment": "Laissez vide si non sponso",
+            "headerTitle": "Oncolien",
+            "headerColor": "#df007a"
+        },
+        "searchBarData": {
+            "searchBarBgColor": "#f6f6f6",
+            "searchBarTextColor": "#000",
+            "searchBarPlaceholder": "Filtrer par DCI ou Classe thérapeutique"
+        }
+    },
+    "appEntries": [
+        {
+            "appTitle": "Abémaciclib – VERZENIOS®",
+            "appSubtitle": "Inhibiteur de kinases",
+            "isExternalLink": false,
+            "appLink": "Abemaciclib-VERZENIOS.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Abiratérone (acétate) – ZYTIGA®",
+            "appSubtitle": "Hormonothérapie",
+            "isExternalLink": false,
+            "appLink": "Abiraterone-Zytiga.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Afatinib – GIOTRIF®",
+            "appSubtitle": "Inhibiteur de kinases",
+            "isExternalLink": false,
+            "appLink": "Afatinib-GIOTRIF.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Alectinib – ALECENSA®",
+            "appSubtitle": "Inhibiteur de kinases",
+            "isExternalLink": false,
+            "appLink": "Alectinib-ALECENSA.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Altrétamine ou Héxaméthylmélamine – HEXASTAT®",
+            "appSubtitle": "Cytotoxique alkylant",
+            "isExternalLink": false,
+            "appLink": "AltretamineHexamethylmelamine-HEXASTAT.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Anagrelide – XAGRID®",
+            "appSubtitle": "Cytotoxique autre",
+            "isExternalLink": false,
+            "appLink": "Anagrelide-XAGRID.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Anastrozole – ARIMIDEX®",
+            "appSubtitle": "Hormonothérapie",
+            "isExternalLink": false,
+            "appLink": "Anastrozole-ARIMIDEX.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Axitinib – INLYTA®",
+            "appSubtitle": "Inhibiteur de kinases",
+            "isExternalLink": false,
+            "appLink": "Axitinib-INLYTA.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Bicalutamide – CASODEX®",
+            "appSubtitle": "Hormonothérapie",
+            "isExternalLink": false,
+            "appLink": "Bicalutamide-CASODEX.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Bosutinib – BOSULIF®",
+            "appSubtitle": "Inhibiteur de kinases",
+            "isExternalLink": false,
+            "appLink": "Bosutinib-BOSULIF.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Busulfan – MYLERAN®",
+            "appSubtitle": "Cytotoxique alkylant",
+            "isExternalLink": false,
+            "appLink": "Busulfan-MYLERAN.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Cabozantinib – CABOMETYX®",
+            "appSubtitle": "Inhibiteur de kinases",
+            "isExternalLink": false,
+            "appLink": "Cabozantinib-CABOMETYX.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Capécitabine – XELODA®",
+            "appSubtitle": "Cytotoxique antimétabolite",
+            "isExternalLink": false,
+            "appLink": "Capecitabine-XELODA.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Céritinib – ZYKADIA®",
+            "appSubtitle": "Inhibiteur de kinases",
+            "isExternalLink": false,
+            "appLink": "Ceritinib-ZYKADIA.html",
+            "appCategory": ""
+        },
+        {
+            "appTitle": "Cobimetinib – COTELLIC®",
+            "appSubtitle": "Inhibiteur de kinases",
+            "isExternalLink": false,
+            "appLink": "Cobimetinib-COTELLIC.html",
+            "appCategory": ""
+        }
+    ]
+}

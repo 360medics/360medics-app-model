@@ -1,5 +1,5 @@
 <div class="content" [ngClass]="{'viewer-opened': openIn, 'no-searchBar': searchResults === null }" flex flex-column>
-<div class="list" *ngIf="!openIn">
+    <div class="list" *ngIf="!openIn">
         <div *ngIf="searchResults !== null">
             <app-search [jsonData]="jsonData" (searchValueChange)="filterAppsList($event)" [searchBar]="searchResults"></app-search>
         </div>

@@ -11,7 +11,7 @@
 </div>
 
 <div class="header small" [ngStyle]="{'background-color': data.appData.appColor}" flex flex-row flex-space-between *ngIf="!inApp">
-    <div (click)="closeViewer()" [ngStyle]="{'color': data.appData.headerData.headerColor}">
+    <div (click)="closeViewer()" [ngStyle]="{'color': data.appData.headerData.headerColor}" style="cursor: pointer">
         <i class="fal fa-angle-left"></i>
     </div>
     <h2 [ngStyle]="{'color': data.appData.headerData.headerColor}">{{ appTitle }}</h2>
