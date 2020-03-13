@@ -1,0 +1,208 @@
+{
+    "appData": {
+        "appColor": "#e33f37",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "",
+            "copyrightYear": "",
+            "copyrightDescription": ""
+        },
+        "headerData": {
+            "headerLogo": "",
+            "headerSponso": "",
+            "headerTitle": "COVID-19 - Informations",
+            "headerColor": "#ffffff"
+        },
+        "searchBarData": {
+            "searchBarBgColor": "#f2f2f2",
+            "searchBarTextColor": "#000000",
+            "searchBarPlaceholder": "Rechercher un document"
+        }
+    },
+    "appEntries": [
+        {
+            "appTitle": "Définition des cas",
+            "appSubtitle": "",
+            "isExternalLink": true,
+            "appLink": "https://360medics.com/assets/media/covid19/DEFINITION-CAS.pdf",
+            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2c3151569df526b5c9ca723ccdd4ac454cf8c6af4eff0d49ee326050b3a5a0a434babf699ddd87449003c3960e0d9c1efd9a88f4a048b5c6423d888d26d05d14",
+            "appCategory": "",
+            "isHome": true
+        },
+        {
+            "appTitle": "CAT soignants",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Coronavirus - CAT soignants exposés",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspa20200226_cosacocotepolesoderedezori.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/211bbe9b1e0c67b1d39b81415de101b7e488ebd3f066ed8af5133a8dc5d793ec81c142226b52f406f3c8f0acc6b30016e8da8ec02f00bb5103b4d58de9f72951",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - CAT “cas contact”",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/CAT-CAS-CONTACT.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ecb61664e10186efbcfab70b7fa911fc46486d591489021e8151e41a944831314c4d95087b62076878005c9d1906f419a884f53c192c319811600a24653daeaf",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Principes de gestion des voies aériennes",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/wp-content/uploads/2020/02/affiche-covid-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/08fae4aa31208d1cfe1aa42047c7bfeec7da6afe344699b8fbbe6bb679812bc3439b5b147d6427d04d64704844bb709d50a1fdd8a6c525aa5a3ce938cb22b0cf",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Utilisation des masques",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/clients/mkt/avismasquesf2hspilf04032020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/316bfbe194642df7abf620cdd6b0ff0199f69ae115f70367a4f638906422cab181c4c119d2b24cbde9a0ab4de4eefa57b6e2f3a8fe1d0645d678d50166a99ce5",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Nettoyage et protection",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspa20200218_corsarcovnetdeslocetprodesper.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f76f7a60ecab3469780d1b9d773ef9b91878f8169d082e28b9dc8c719f2a7ac7b6ba4d4e1e987d187baf6eb6021355252a60ebeda87d8da9143f67e63cfcfe68",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Guide d’aide à la gestion des situations sanitaires exceptionnelles dans les établissements de santé",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/guide_situation_sanitaire_exceptionnelle.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/06b63cbc147f8e9fa7f21a24be2929e16e98ef7243a23965095f8e9be722035bfc52ab13cbfe19119c573541023934f9f2e6bb57d3d9e0a1d3b21b4f06040946",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "PRISE EN CHARGE PATIENT",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Coronavirus - Prise en charge patient suspect",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/20200229-covid19-fichesoignants29fev.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e19b601bed7f65d5a2edfe292ad8143b1e117afc5edfb22ce03f6469a25385fd3ce0718b60a8b60bfd8689dbb01cd87bfa2b873116ac34ea9975a9c087626934",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Prise en charge patient atteint",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/formation/covid19-coreb-dia25fev2020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/3b6c78853223bfcfd93bb9fac26d021258c1c43bf9a42bf99bc1f07fead7c2ddbc68355fd28e69e17ec2fa9f0fc0f82dff88991a710a43e2ffb6d765de1a1826",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - PEC en ambulatoire des patients",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/fiche_filiere_ambulatoire_cas_confirmes.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f50b60d9387dba98de0550d5faddaf8d923a073aa4da35301bd627e79872111e95589a77ed283c6ea8bc19644cd632a3f1b613ff732aff4cf00457c29b11bc91",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - PEC patiente enceinte",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/clients/mkt/COVID19CNGOF.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/50a000d62ae5478e467a732c7db041e6a9eeb4bea1bb45345e7751c06e7c47d27b2bf0407a85db27c5a51eab3b082e6781c85530507c2c4c654d842e57c47853",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - PEC anesthésique d’un patient suspect/infecté",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/propositions-pour-la-prise-en-charge-anesthesique-dun-patient-suspect-ou-infecte-a-coronavirus-covid-19/",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - PEC du corps d'un patient décédé",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspa20200218_corsarcovprienchaducordunpatdcd.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/7957e6e16b9a45dbbe9f23d48e129b5cd34152f2e1fca4d3c9a185eb573b8a508990e7e323ecc1fcaed95126a72cb3771f3997a3852107aae5306a4853828f2b",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "TRAITEMENT",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Recommandations spécifiques à la ventilation mécanique et la gestion des voies aériennes",
+                    "appSubtitle": "SRLF-SFAR",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/RECOMMANDATION-VENTILATION.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0094395cbf95a0f514cecfd49d3c08ac19d13707e212e1e08fd0355e8f2163d27a566e7a671548419da48756d85ea649b37c2ec7b8e7f6ac22d69b28f67d3476",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Traitement spécifique",
+                    "appSubtitle": "SRLF-SFAR",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/TRAITEMENT.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/204abae47de054ebc5b9056c6105649f7ddb5f032244146c5ea119e1332f4a69a320752c1a115bb12674d97112068ff13b31672d9509d7156b18a277b2840686",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "ANNEXES",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Coronavirus - Veille biblio",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://supportcommercial.wixsite.com/website-33",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Liste établissements habilités",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/esh-covid-19-ars-coreb-25fev20.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/060ba6be2884b600eb38ba67dc3f059498a6d6b9beceade1ec9ddb0ba50679a8d45382cd1b03d7fc5b4ea25c42f447c928768d10f4b12db2e00a90f0f1187b62",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - DGS-urgent - Formulaire d'inscription",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/inscription.do?cmd=inscriptionFormulaire",
+                    "appCategory": ""
+                }
+            ]
+        }
+    ]
+}
+
+

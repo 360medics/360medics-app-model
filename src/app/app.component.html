@@ -6,6 +6,6 @@
     <app-front-page [searchResults]="apps.searchBarData" [jsonData]="data"></app-front-page>
 </section>
 
-<footer *ngIf="data !== undefined">
+<footer *ngIf="data !== undefined && data.appData.footerData !== undefined">
     <app-footer [data]="data"></app-footer>
 </footer>

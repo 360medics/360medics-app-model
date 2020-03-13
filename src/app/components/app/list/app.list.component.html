@@ -1,3 +1,6 @@
+<div *ngIf="apps.length === 0" class="no-results">
+    <h3>Aucun résultat</h3>
+</div>
 <ul class="appsList">
     <app-entry [app]="app" [lastEntry]="i === apps.length-1" *ngFor="let app of apps, index as i" [activatedCategory]="activatedCategory"></app-entry>
     <li [ngClass]="{'contact': true}">

@@ -33,7 +33,10 @@ export interface AppEntry {
     appSubtitle: string;
     isExternalLink: string;
     appLink: string;
+    appLinkAndroid: string;
     appCategory: string;
+    isHome: boolean;
+    appEntries: AppEntry[];
 }
 
 export interface Data {
