@@ -14,7 +14,6 @@ import { environment } from '../../../../environments/environment';
 export class AppEntryComponent implements OnInit {
     @Input() app: AppEntry;
     @Input() lastEntry: boolean;
-    appColor: string;
     @Input() activatedCategory: string;
     currentCategory: string;
     appLink: string;

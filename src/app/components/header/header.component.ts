@@ -2,7 +2,7 @@ import { Component, OnInit, Input } from '@angular/core';
 import { DeviceDetectorService } from 'ngx-device-detector';
 import { Broadcaster } from '../../services/broadcaster.service';
 import { ReadJsonFileService } from '../../services';
-import {AppEntry, Data} from '../../interface';
+import { Data } from '../../interface';
 
 @Component({
     selector: 'app-header',

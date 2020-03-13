@@ -6,9 +6,6 @@ import {AppEntry, SearchBarData, Data} from '../interface';
 import { ReadJsonFileService } from '../services';
 import { Broadcaster } from '../services/broadcaster.service';
 import { IframeGeneratorService } from '../services/iframe.generator.service';
-import {element} from 'protractor';
-import {forEach} from '@angular/router/src/utils/collection';
-import {el} from '@angular/platform-browser/testing/src/browser_util';
 
 @Component({
     selector: 'app-front-page',
@@ -27,7 +24,6 @@ export class FrontPageComponent implements OnInit {
     @Input() searchResults: SearchBarData;
     activatedCategory: string;
     openIn: boolean;
-    iframeUrl: string;
 
     constructor (private title: Title, private reader: ReadJsonFileService, private _broadcaster: Broadcaster, private _r2: Renderer2, private _elem: ElementRef, private _iframeGenerator: IframeGeneratorService) {
 
