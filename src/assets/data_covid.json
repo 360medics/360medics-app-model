@@ -112,6 +112,14 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Coronavirus - Prise en charge patient en ville",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/covid-19_doctrine_ville_v16032020_finalise_.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e1fa5c020134fad65b3ddf8a9049d847024f06eb75c2ef5c5bf3896b306048b34b10fc8e8c0bf8db44018c1ccbaab7e4275485fe8b6eac5051dcd8096a2885a2",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Coronavirus - PEC en ambulatoire des patients",
                     "appSubtitle": "",
                     "isExternalLink": true,
@@ -198,6 +206,14 @@
                     "appSubtitle": "",
                     "isExternalLink": true,
                     "appLink": "https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/inscription.do?cmd=inscriptionFormulaire",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Guide de préparation à la phase épidémique COVID-19",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/guide-covid-19-phase-epidemique.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/7bdda2c657e81dcfd21d27ac756e7979b5d75b14326850efb04bc6dab3e978dda732e09c1782df16fcc59cfb73bd8a79976dabae9976878d7236415edc7de2a7",
                     "appCategory": ""
                 }
             ]
