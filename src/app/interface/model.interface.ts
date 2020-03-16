@@ -36,6 +36,7 @@ export interface AppEntry {
     appLinkAndroid: string;
     appCategory: string;
     isHome: boolean;
+    isTelNum: boolean;
     appEntries: AppEntry[];
 }
 

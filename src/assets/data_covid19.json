@@ -92,8 +92,9 @@
             "appTitle": "Numéro vert national : 0 800 130 000 (gratuit, 24h/24, pour les questions NON médicales)",
             "appSubtitle": "",
             "isExternalLink": true,
-            "appLink": "tel:0800130000",
+            "appLink": "tel://0800130000",
             "appCategory": "",
+            "isTelNum": true,
             "isHome": true
         },
         {

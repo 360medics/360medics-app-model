@@ -49,10 +49,14 @@ export class AppEntryComponent implements OnInit {
         } else {
             let finalLink = this.appLink;
             let target = '_blank';
-
-            if (!this._deviceDetectorService.isDesktop()) {
-                finalLink = 'medics://viewer?m_source=' + this.appLink;
+            if (this.app.isTelNum === true) {
+                console.log('ok');
                 target = '_self';
+            } else {
+                if (!this._deviceDetectorService.isDesktop()) {
+                    finalLink = 'medics://viewer?m_source=' + this.appLink;
+                    target = '_self';
+                }
             }
             !this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
         }
