@@ -1,0 +1,127 @@
+{
+    "appData": {
+        "appColor": "#e33f37",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "",
+            "copyrightYear": "",
+            "copyrightDescription": ""
+        },
+        "headerData": {
+            "headerLogo": "",
+            "headerSponso": "",
+            "headerTitle": "COVID-19 - INFORMATIONS PATIENTS",
+            "headerColor": "#ffffff"
+        },
+        "searchBarData": {
+            "searchBarBgColor": "#f2f2f2",
+            "searchBarTextColor": "#000000",
+            "searchBarPlaceholder": "Rechercher un document"
+        }
+    },
+    "appEntries": [
+        {
+            "appTitle": "Affiches Pédagogiques",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Gestes barrière - avec Santé publique France ",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/coronavirus-gestes-barierre-spf.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/71c4e4cae15f7adedd0f3c0b7f342f627af16b75786ad3e2fd8999abbc5d0cea1bfc1052ced30e89961208c547f121c6942758e588e3c47ced2aae0e4b792cf3",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Mieux comprendre le coronavirus en 7 points",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/coronavirus-information-pour-mieux-comprendre.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/81a69d6dc18bcca00f218bd6ddd92ab4ad44ebc4b1dfdc608078c4e012c3c800320f7ba45391d695bcca2c495e0d97f02c3eb023393e9827ce0dd58e649246d6",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Conseil aux voyageurs de retour d'une zone à risque (français, anglais, chinois, italien)",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/covid-19-affiche-aeroport-fr-en-cn-it2502.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/b7c2c99eed6cd8bb5d11776316487e1e26f11bed16bce4080d572ca736382115ec8dc3d800a7d2258c2d9ea6c75aec931c60fc90bba1d86e4bf78f9c2382bcfe",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "Documents clés",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "De retour d'une zone à risque ",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/covid-19-personnes-de-retour-zone-risquee.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/b212fedfbc1e93370c8e5b0691badfee4cdadaab33d20764857481cc0a12247e1979399adbe51c717fe817985f7b9983b917b23712e588e48a703def87bf03a5",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Personnes contact d'un cas confirmé, à risque modéré ",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/covid-19-personnes-contact-risque-modere1202.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/3f08197c2fd580500e642090abaa1ce784022e941aae99907a648ad7f3fa528019f3b9c220e1f5e5256de18f4f5cbeed1f445de06723d6476f721823ed96390e",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Personnes contact d'un cas confirmé, à risque faible ",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/covid-19-personnes-contact-risque-faible1202.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e2a6cfd136103813d5508eee76d15dec768e47833eefaf05ff38602a95f6273bc8f35a5de724b619880da9832513ac4c40151ef70fde19756db08b8c5a578148",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "Questions & réponses",
+            "appSubtitle": "",
+            "isExternalLink": true,
+            "appLink": "https://www.gouvernement.fr/info-coronavirus",
+            "appCategory": "",
+            "isHome": true
+        },
+        {
+            "appTitle": "Conseils aux voyageurs, recherche par pays",
+            "appSubtitle": "",
+            "isExternalLink": true,
+            "appLink": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/",
+            "appCategory": "",
+            "isHome": true
+        },
+        {
+            "appTitle": "En finir avec les idées reçues",
+            "appSubtitle": "",
+            "isExternalLink": true,
+            "appLink": "https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+            "appCategory": "",
+            "isHome": true
+        },
+        {
+            "appTitle": "Ce qu’il faut savoir",
+            "appSubtitle": "",
+            "isExternalLink": true,
+            "appLink": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Infographie_Coronavirus_vdef_2.pdf",
+            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/4a1830e5ab3f547741952c9294f9350529cfa9dfde1efe3789a503456e7da29056efa48c5f259bd16f46335fac4c1f842360760d9edfc7c8a937b757177c2f36",
+            "appCategory": "",
+            "isHome": true
+        }
+    ]
+}
+
+
