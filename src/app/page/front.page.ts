@@ -72,7 +72,6 @@ export class FrontPageComponent implements OnInit {
     getAppsList() {
         this.data = this.jsonData.appEntries;
         this.appsList = this.data;
-        this.sortApps();
     }
 
     filterAppsList(e: any) {
