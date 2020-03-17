@@ -1,0 +1,174 @@
+{
+    "appData": {
+        "appColor": "#c41723",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "",
+            "copyrightYear": "",
+            "copyrightDescription": ""
+        },
+        "headerData": {
+            "headerLogo": "",
+            "headerSponso": "",
+            "headerTitle": "COVID-19 información paciente",
+            "headerColor": "#ffffff"
+        },
+        "searchBarData": {
+            "searchBarBgColor": "#f2f2f2",
+            "searchBarTextColor": "#000000",
+            "searchBarPlaceholder": "Buscar un documento"
+        }
+    },
+    "appEntries": [
+        {
+            "appTitle": "Medidas y recomendaciones",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Medidas preventivas - COVID-19 ",
+                    "appSubtitle": "Mas Prevención ",
+                    "isExternalLink": true,
+                    "appLink": "https://www.spmas.es/media/66048/medidas-preventivas-coronavirus-mas-prevencion.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/632ffe458832d1564157bde92c8cd56497e24978e0676821a93ff5ae1daf46236ce8214c39c1e8d512b2e24780d8ad5a00ce1b929f52c84b199d33286aca07bf",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Consejos acerca de los rumores sobre COVID-19",
+                    "appSubtitle": "Organización Mundial de la Saludo (OMS)",
+                    "isExternalLink": true,
+                    "appLink": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Aislamiento domiciliario - COVID-19",
+                    "appSubtitle": "SEMES",
+                    "isExternalLink": true,
+                    "appLink": "https://www.semes.org/semes-divulgacion/aislamiento-domiciliario/",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Distancia Social - COVID-19",
+                    "appSubtitle": "SEMES",
+                    "isExternalLink": true,
+                    "appLink": "https://www.semes.org/semes-divulgacion/distancia-social/",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para el aislamiento domiciliario - COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20.03.13_AislamientoDomiciliario_COVID19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/716b4ec205ffc2463ca03062dfbcce14dbc54cf1dcea088c42652a93e41c7b83d1a964d85ff1e3d79277bc219c0516dd30fce3cc89a9b04f1a37ccf9df07e942",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Medidas de prevención ante el COVID-19",
+                    "appSubtitle": "SEMES",
+                    "isExternalLink": true,
+                    "appLink": "https://www.semes.org/semes-divulgacion/actualizacion-de-medidas-de-prevencion-ante-el-covid-19/",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "Preguntas y respuestas",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Preguntas y respuestas sobre COVID-19 - OMS",
+                    "appSubtitle": "Organización Mundial de la Saludo (OMS)",
+                    "isExternalLink": true,
+                    "appLink": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Preguntas y respuestas sobre COVID-19 - MSCBS",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200312_Preguntas_respuestas_2019-nCoV.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/3ebe307b06c09112035d877e8c5569190e97f322b3110b7e5de6171dc6f646df8944d34fe9b1a54fed65cdcc6d2176ae2700ff4dc86f47d53ac75b7f3cd6d29d",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "¿Qué es?",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/img/COVID19_que_es.jpg",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "¿Como se transmite?",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/img/COVID19_como_se_transmite.jpg",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "¿Cuáles son los síntomas?",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/img/COVID19_sintomas.jpg",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "¿Qué hacer?",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/img/COVID19_que_hacer.jpg",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "¿Como protegerme?",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/img/COVID19_como_protegerse.jpg",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "¿Cuándo y como usar mascarillas?",
+                    "appSubtitle": "Organización Mundial de la Saludo (OMS)",
+                    "isExternalLink": true,
+                    "appLink": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "¿Existe un tratamiento?",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/img/COVID19_tratamiento.jpg",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "¿Que les digo a niños?",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/img/COVID19_que_digo_a_poblacion_infantil.jpg",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                }
+            ]
+        }
+    ]
+}
+
+
