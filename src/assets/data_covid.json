@@ -65,8 +65,8 @@
                     "appTitle": "Coronavirus - Utilisation des masques",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/clients/mkt/avismasquesf2hspilf04032020.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/316bfbe194642df7abf620cdd6b0ff0199f69ae115f70367a4f638906422cab181c4c119d2b24cbde9a0ab4de4eefa57b6e2f3a8fe1d0645d678d50166a99ce5",
+                    "appLink": "https://360medics.com/assets/media/covid19/covid-19-utilisation-des-masques.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e37dba177c1fbb3f06fb717d0aa462acbeffd3a692504448672a635842ff53e1f92e3806828a9a8cbd3a510eb7208bc48a2bbeeea26f2a714ae99b7c14be6c5a",
                     "appCategory": ""
                 },
                 {
@@ -81,8 +81,8 @@
                     "appTitle": "Guide d’aide à la gestion des situations sanitaires exceptionnelles dans les établissements de santé",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/guide_situation_sanitaire_exceptionnelle.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/06b63cbc147f8e9fa7f21a24be2929e16e98ef7243a23965095f8e9be722035bfc52ab13cbfe19119c573541023934f9f2e6bb57d3d9e0a1d3b21b4f06040946",
+                    "appLink": "https://360medics.com/assets/media/covid19/guide_situation_sanitaire_exceptionnelle.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/995d4988b120407ec9d4d272ab69d0997a4b42340cbcdfb91c6dd4070e3a61933767809adf11d3ca1a96bf854c17fc741656508d7c327a099ef3017d67af50a1",
                     "appCategory": ""
                 }
             ]
@@ -115,15 +115,15 @@
                     "appTitle": "Coronavirus - Prise en charge patient en ville",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/covid-19_doctrine_ville_v16032020_finalise_.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e1fa5c020134fad65b3ddf8a9049d847024f06eb75c2ef5c5bf3896b306048b34b10fc8e8c0bf8db44018c1ccbaab7e4275485fe8b6eac5051dcd8096a2885a2",
+                    "appLink": "https://360medics.com/assets/media/covid19/patient-en-ville.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9c8ca67ba746336ea229b45886dbd93480e7321f5ed2c97ad7048aecea378ad6aef3ac1a4bf5d3ab423df2b1eb51a902fcb69e48860b154e26b816be2fcdb9fc",
                     "appCategory": ""
                 },
                 {
                     "appTitle": "Coronavirus - PEC en ambulatoire des patients",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/fiche_filiere_ambulatoire_cas_confirmes.pdf",
+                    "appLink": "https://360medics.com/assets/media/covid19/PEC-en-ambulatoire-des-patients.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f50b60d9387dba98de0550d5faddaf8d923a073aa4da35301bd627e79872111e95589a77ed283c6ea8bc19644cd632a3f1b613ff732aff4cf00457c29b11bc91",
                     "appCategory": ""
                 },
