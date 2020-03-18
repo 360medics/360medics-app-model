@@ -29,14 +29,6 @@
             "isHome": true,
             "appEntries" : [
                 {
-                    "appTitle": "Situación actual - cifras",
-                    "appSubtitle": "MSCBS",
-                    "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.html",
-                    "appLinkAndroid": "",
-                    "appCategory": ""
-                },
-                {
                     "appTitle": "Informe técnico",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
