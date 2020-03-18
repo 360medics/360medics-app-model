@@ -29,6 +29,14 @@
             "isHome": true,
             "appEntries" : [
                 {
+                    "appTitle": "Situación actual - cifras",
+                    "appSubtitle": "Organización Mundial de la Saludo (OMS)",
+                    "isExternalLink": true,
+                    "appLink": "https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Informe técnico",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
@@ -40,8 +48,8 @@
                     "appTitle": "Orientaciones para comunicar sobre la enfermedad",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
-                    "appLink": "https://www.paho.org/hq/index.php?option=com_docman&view=download&alias=51837-covid-19-orientaciones-para-comunicar-sobre-la-enfermedad-por-el-coronavirus-2019&category_slug=materiales-cientificos-tecnicos-7992&Itemid=270&lang=es",
-                    "appLinkAndroid": "",
+                    "appLink": "https://360medics.com/assets/media/covid19-es/ORIENTACIONES-PARA-COMUNICAR-SOBRE-LA-ENFERMEDAD.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9ef9e39e38178c00ff76eb36247139ebcaea62bc024fdd91a661159e257ee3ad81ab44ed86018e588223293553f0cf47c98a6619c2701167a013ebb8c4ed7f24",
                     "appCategory": ""
                 },
                 {
@@ -66,8 +74,8 @@
                     "appTitle": "Lista de verificación de alistamiento",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
-                    "appLink": "https://www.paho.org/hq/index.php?option=com_docman&view=download&alias=51802-instructivo-de-la-lista-de-verificacion-de-alistamiento-para-la-respuesta-al-covid-19-en-sem-prehospitalarias&category_slug=materiales-cientificos-tecnicos-7992&Itemid=270&lang=es",
-                    "appLinkAndroid": "",
+                    "appLink": "https://360medics.com/assets/media/covid19-es/LISTA-DE-VERIFICACIÓN-DE-ALISTAMIENTO.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/73cfb10d1d164c2517bf26fbfca53932dff26f6891f5f44657ed9be3d4ab41adbe5a1a5ca262d944f9d429601ea5df1aeac6dd2c70ef86e05b478f245df0c8f1",
                     "appCategory": ""
                 },
                 {
@@ -100,16 +108,16 @@
                     "appTitle": "Lista de verificación de alistamiento",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
-                    "appLink": "https://www.paho.org/hq/index.php?option=com_docman&view=download&alias=51760-instructivo-de-la-lista-de-alistamiento-para-hospitales-covid-19-en-hospitales&category_slug=materiales-cientificos-tecnicos-7992&Itemid=270&lang=es",
-                    "appLinkAndroid": "",
+                    "appLink": "https://360medics.com/assets/media/covid19-es/LISTA-DE-VERIFICACIÓN-DE-ALISTAMIENTO-HOSPITALES.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/cf6990b6d98e9d2185b8cf4310922141100b2ff59b3db0e816de1be4f531d2fbc4549d7a394e2df1125a48f206c9db0f107a06144e0719d96e46e11e04fed9df",
                     "appCategory": ""
                 },
                 {
                     "appTitle": "Formulario - Lista de verificación de alistamiento",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
-                    "appLink": "https://www.paho.org/hq/index.php?option=com_docman&view=download&alias=51718-lista-de-verificacion-de-alistamiento-para-la-respuesta-al-2019-ncov-en-hospitales&category_slug=materiales-cientificos-tecnicos-7992&Itemid=270&lang=es",
-                    "appLinkAndroid": "",
+                    "appLink": "https://360medics.com/assets/media/covid19-es/FORMULARIO-LISTA-DE-VERIFICACIÓN-DE-ALISTAMIENTO.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/8ebc084c1fe155f571e630b64fcc61742c3a6a415e9821ccf6aac97ac28d5c23f9e58fd9d54fffb23e8e547e2b55089dc118a98fa4e513194091a79d860f7b64",
                     "appCategory": ""
                 }
             ]
@@ -134,9 +142,9 @@
                     "appTitle": "Especificaciones técnicas de dispositivos médicos para la gestión de casos",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
-                    "appLink": "https://www.paho.org/hq/index.php?option=com_docman&view=download&alias=51835-especificaciones-tecnicas-de-dispositivos-medicos-para-la-gestion-de-casos-de-covid-19-en-los-servicios-de-salud&category_slug=materiales-cientificos-tecnicos-7992&Itemid=270&lang=es",
-                    "appLinkAndroid": "",
-                    "appCategory": ""
+                    "appLink": "",
+                    "appLinkAndroid": "https://360medics.com/assets/media/covid19-es/ESPECIFICACIONES-TÉCNICAS-DE-DISPOSITIVOS-MÉDICOS-PARA-LA-GESTIÓN-DE-CASOS.pdf",
+                    "appCategory": "https://360medics.com/driveViewDocument/document/ac578f0a0a802c9fb49bceb33ef82679bb4a06af0bb9380e52cbd20a8ab097aae971163fe4f4248fa94070bb0cb95806507b2e3fd967b03dadb7e3f82303cfbe"
                 },
                 {
                     "appTitle": "Prevención y control de la infección en el manejo de pacientes",
@@ -150,8 +158,8 @@
                     "appTitle": "Precauciones estándares y uso de equipos de protección personal",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
-                    "appLink": "https://www.paho.org/hq/index.php?option=com_docman&view=download&alias=51773-prevencion-y-control-de-infecciones-y-nuevo-coronavirus-covid-19-precauciones-estandares-y-uso-de-equipos-de-proteccion-personal&category_slug=materiales-cientificos-tecnicos-7992&Itemid=270&lang=es",
-                    "appLinkAndroid": "",
+                    "appLink": "https://360medics.com/assets/media/covid19-es/PRECAUCIONES-ESTÁNDARES-Y-USO-DE-EQUIPOS-DE-PROTECCIÓN-PERSONAL.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f87f6dfe5a575b87ffa504b4839e76af64b1a2f57e1cc994f4f812dc65ecb5d0044beadcde7c864c75a1383897dfeed0101f53fe22b6280d234a91051aa9103d",
                     "appCategory": ""
                 },
                 {
