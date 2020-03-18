@@ -78,6 +78,46 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Coronavirus - Critères de zones à risques",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/Criteres-de-zones-a-risques.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/5a912d31ad2ea2574537632ef6ba4197b94c4c85066c2a7cd07cbedd53076229c203529ea351c80cd8e11ae6aa00f1a7ae1377596034bf5a0cd47d1ec67b885c",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Conditions port des masques",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.infectiologie.com/UserFiles/File/emergences/avis-sf2h-utilisation-masque-14mars2020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2f692b728285ab9454b798d957024ce7bac73395cba00b84816fb78123013235c009852fba815aef93bb8468bcf06659c23000f316b1cb4b8e732dd549ae48e0",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Enjeux éthiques de l’accès aux soins de réanimation",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/gt-etic-rea-covid-vp-17-mar-20.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e72517448119020474c0355fcc3759b6d3e2e61b1c1f0c8681621342ba1fdbb5888e43216bf92e21064cd37a72c8d1e27885a7e356ddf5fe2ba11e872d553729",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Précautions Endoscopie",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "http://splf.fr/centre-de-documentation-covid-19/precautions-particulieres-endocopie-bronchique-splf-15-02-20/",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Indications sur l’imagerie",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "http://communication.radiologie.fr/HM?b=VIE6NSMZYs-R6EbwdJJX05JykwXw556R3NM48GEyu0OzM1fhw3cKbaEiLveuOFcA&c=uzbd2eaBLxd2f2Joq1emyw",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Guide d’aide à la gestion des situations sanitaires exceptionnelles dans les établissements de santé",
                     "appSubtitle": "",
                     "isExternalLink": true,
@@ -99,16 +139,16 @@
                     "appTitle": "Coronavirus - Prise en charge patient suspect",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/20200229-covid19-fichesoignants29fev.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e19b601bed7f65d5a2edfe292ad8143b1e117afc5edfb22ce03f6469a25385fd3ce0718b60a8b60bfd8689dbb01cd87bfa2b873116ac34ea9975a9c087626934",
+                    "appLink": "https://360medics.com/assets/media/covid19/patient-suspect.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/53290487d68ed78b03ffbe23e063bb53e6289107a11c8e35aa8e01c0d98c6a7b315dbca597a2c322b25b2e9369ff2ed50bba30b5c895382db3f85768044ddbd1",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Coronavirus - Prise en charge patient atteint",
+                    "appTitle": "Coronavirus - Prise en charge des cas confirmé",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/formation/covid19-coreb-dia25fev2020.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/3b6c78853223bfcfd93bb9fac26d021258c1c43bf9a42bf99bc1f07fead7c2ddbc68355fd28e69e17ec2fa9f0fc0f82dff88991a710a43e2ffb6d765de1a1826",
+                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspa20200305_coviprisenchardescasconf.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/197abdeb203496d24750c49e455413f1c1b87d71e7c2021b9395b2ecc337c43b3f85c791ec064af14acbbe9f8335c10587b6806fdac2daabd8e9d1b65389e7d0",
                     "appCategory": ""
                 },
                 {
@@ -117,6 +157,30 @@
                     "isExternalLink": true,
                     "appLink": "https://360medics.com/assets/media/covid19/patient-en-ville.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9c8ca67ba746336ea229b45886dbd93480e7321f5ed2c97ad7048aecea378ad6aef3ac1a4bf5d3ab423df2b1eb51a902fcb69e48860b154e26b816be2fcdb9fc",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Prise en charge patient en réanimation",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://srlf.org/wp-content/uploads/2020/03/Recommandations-dexperts-COVID-19-10-Mars-2020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0d047847e5f64f1a15dc86eb58bc0b1f7eedf01de8ef34ac51e39707550d162f7531c4a6b497f1e8e1def08084f8c916d0ab27512ef4ae3544a82adfb1302981",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Prise en charge patient à risque de forme sévère",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/new_hcsp-sars-cov-2_patients_fragiles_v3-2.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/058cc2c12cc1b43076ccf7731d07f2a2425b169625b447b407dc7a9665abc49e37a2dbceeedd253d03a30f6c2f51f57edf55ab4cbce7dd3a21520055bd3c3515",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Prise en charge patient atteint de cancer",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspx20200314_aprrlpelpecdcclprdfs.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2985a9a5e1b3650dd8a05894ca67d91f920eebb10f08fedc37241dfe9b547d040daf75be0d6edbfb61b3522f057ea12cb7e8f8611d8e35c47dc43d326b542a3a",
                     "appCategory": ""
                 },
                 {
@@ -131,8 +195,8 @@
                     "appTitle": "Coronavirus - PEC patiente enceinte",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/clients/mkt/COVID19CNGOF.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/50a000d62ae5478e467a732c7db041e6a9eeb4bea1bb45345e7751c06e7c47d27b2bf0407a85db27c5a51eab3b082e6781c85530507c2c4c654d842e57c47853",
+                    "appLink": "http://www.cngof.fr/component/rsfiles/apercu?path=Clinique/referentiels/COVID-19/COVID-19-CNGOF.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/efa1194ec55a9948fd6b1874fcf7d795cc2109564c7fea782998267e07a9719274f9f70dfbbb6b339d7bca35000d6550900acebf9d38f6987e2d762ce916bc9b",
                     "appCategory": ""
                 },
                 {
@@ -209,11 +273,19 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Guide de préparation à la phase épidémique COVID-19",
+                    "appTitle": "Coronavirus - Guide de préparation à la phase épidémique COVID-19",
                     "appSubtitle": "",
                     "isExternalLink": true,
                     "appLink": "https://360medics.com/assets/media/covid19/guide-covid-19-phase-epidemique.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/81221aa444317f07621327e41ee38d08229363b39a1e9560c658af65c8c68e40a441df5cc3ca7cbf4283aa484c6426bf80b4f412044ea53c0faae32bc9866f5e",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Évolution COVID-19 en France",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/827bdf56850d4e3cbeb487cab677ca84",
+                    "appLinkAndroid": "",
                     "appCategory": ""
                 }
             ]

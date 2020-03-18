@@ -23,7 +23,7 @@ export class AppEntryComponent implements OnInit {
 
     ngOnInit() {
         if (this.app.isExternalLink) {
-            if ( this.app.appLinkAndroid !== undefined && this._deviceDetectorService.os === 'Android') {
+            if ( this.app.appLinkAndroid !== undefined && this.app.appLinkAndroid !== '' && this._deviceDetectorService.os === 'Android') {
                 this.appLink = this.app.appLinkAndroid;
             } else {
                 this.appLink = this.app.appLink;
