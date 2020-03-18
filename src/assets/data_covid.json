@@ -142,9 +142,9 @@
                     "appTitle": "Especificaciones técnicas de dispositivos médicos para la gestión de casos",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
-                    "appLink": "",
-                    "appLinkAndroid": "https://360medics.com/assets/media/covid19-es/ESPECIFICACIONES-TÉCNICAS-DE-DISPOSITIVOS-MÉDICOS-PARA-LA-GESTIÓN-DE-CASOS.pdf",
-                    "appCategory": "https://360medics.com/driveViewDocument/document/ac578f0a0a802c9fb49bceb33ef82679bb4a06af0bb9380e52cbd20a8ab097aae971163fe4f4248fa94070bb0cb95806507b2e3fd967b03dadb7e3f82303cfbe"
+                    "appLink": "https://360medics.com/assets/media/covid19-es/ESPECIFICACIONES-TÉCNICAS-DE-DISPOSITIVOS-MÉDICOS-PARA-LA-GESTIÓN-DE-CASOS.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ac578f0a0a802c9fb49bceb33ef82679bb4a06af0bb9380e52cbd20a8ab097aae971163fe4f4248fa94070bb0cb95806507b2e3fd967b03dadb7e3f82303cfbe",
+                    "appCategory": ""
                 },
                 {
                     "appTitle": "Prevención y control de la infección en el manejo de pacientes",
