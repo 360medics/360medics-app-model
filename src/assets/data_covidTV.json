@@ -107,7 +107,7 @@
             "appTitle": "Connaître le Virus SARS-Cov-2",
             "appSubtitle": "EHESP",
             "isExternalLink": true,
-            "appLink": "https://vimeo.com/ehesp",
+            "appLink": "https://vimeo.com/397399269",
             "appCategory": "Parole d'expert"
         },
         {
@@ -293,13 +293,6 @@
             "appCategory": "Procédures"
         },
         {
-            "appTitle": "Habillage / déshabillage Covid-19",
-            "appSubtitle": "SFAR - 17/03/20",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/watch?v=UHEATN2pN_8",
-            "appCategory": "Procédures"
-        },
-        {
             "appTitle": "Mesures d'isolement Covid-19",
             "appSubtitle": "SRLF - 12/03/20",
             "isExternalLink": true,
@@ -363,13 +356,6 @@
             "appCategory": "Procédures"
         },
         {
-            "appTitle": "Intubation patient présumé Covid 19",
-            "appSubtitle": "17/03/20",
-            "isExternalLink": true,
-            "appLink": "https://www.youtube.com/watch?v=iFbp_ByDEfg&feature=youtu.be",
-            "appCategory": "Procédures"
-        },
-        {
             "appTitle": "Extubation patient Covid-19",
             "appSubtitle": "SFAR 19/03/20",
             "isExternalLink": true,
@@ -426,11 +412,39 @@
             "appCategory": "Procédures"
         },
         {
-            "appTitle": "Intubation d'un patient confirmé ou suspect Covid-19",
+            "appTitle": "Intubation d’un patient NON infecté en contexte de pandémie Covid19",
             "appSubtitle": "NoRSimS Caen 16/03/20",
             "isExternalLink": true,
-            "appLink": "https://www.youtube.com/watch?v=PVaEpBbQbJs&list=PLL6NPM8xJXnU9WwSLWw_qFCZOCaDCkRt6&index=6",
+            "appLink": "https://www.youtube.com/watch?v=BajjRO5l3e0&list=PLL6NPM8xJXnU9WwSLWw_qFCZOCaDCkRt6&index=5",
             "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Mise en place d'un masque FFP2",
+            "appSubtitle": "NoRSimS Caen 16/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=HWsiufqHuDo&list=PLL6NPM8xJXnU9WwSLWw_qFCZOCaDCkRt6&index=2",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Désinfection des mains à la solution hydro alcoolique (SHA)",
+            "appSubtitle": "NoRSimS Caen 16/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?list=PLL6NPM8xJXnU9WwSLWw_qFCZOCaDCkRt6&time_continue=2&v=MGE9e2sxoE8&feature=emb_title",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Point de situation coronavirus",
+            "appSubtitle": "Ministère des solidarité et de la santé 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.dailymotion.com/video/x7stprh",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Informations générales Covid-19",
+            "appSubtitle": "SPLF 19/03/20",
+            "isExternalLink": true,
+            "appLink": "http://splf.fr/webinar-covid19-covid-19-informations-generales/",
+            "appCategory": "Parole d'expert"
         }
     ]
 }
