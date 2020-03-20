@@ -150,6 +150,30 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Coronavirus - Préconisations pour la ventilation en réanimation de patients COVID avec des ventilateurs d’anesthésie",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/preconisations-pour-la-ventilation-en-reanimation-de-patients-covid-avec-des-ventilateurs-danesthesie/?wpdmdl=25538&refresh=5e74a56fa92c81584702831",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/63ff33f9fe2443bdef3d2692e4839489790eae449a3c9b599ca0815781f090ec2fc805d05f4c23e71e0b47908e6c702479fc6655176797bc696bc7d86606d38c",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Synthèse des recommandations sur l’utilisation des appareils Dräger pour la ventilation à long terme",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/synthese-des-recommandations-sur-lutilisation-des-appareils-drager-pour-la-ventilation-a-long-terme/?wpdmdl=25510&refresh=5e74d7dbed6701584715739",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e589d1d544e84b9777bb5b6ee2d09219afb7692bd69439ed55570284a6bb624b49eb54285be60a0f014890976182361dae9130b4a8d411bfcde21cb7c20974ba",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Check-list non exhaustive pour le personnel soignant de soins intensifs",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/check-list-non-exhaustive-pour-le-personnel-soignant-de-soins-intensifs/?wpdmdl=25512&refresh=5e74a9eb444891584703979",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d3e52c6f4d774cb231d1dd7a41b5b9573658540a89b332aa6944957f1ac1aba8d2ef2b646cd9bc40f75cca3a343345326042ecb86bec5eb157f901d75828332b",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Guide d’aide à la gestion des situations sanitaires exceptionnelles dans les établissements de santé",
                     "appSubtitle": "",
                     "isExternalLink": true,
@@ -187,8 +211,8 @@
                     "appTitle": "Coronavirus - Prise en charge patient en ville",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/patient-en-ville.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9c8ca67ba746336ea229b45886dbd93480e7321f5ed2c97ad7048aecea378ad6aef3ac1a4bf5d3ab423df2b1eb51a902fcb69e48860b154e26b816be2fcdb9fc",
+                    "appLink": "https://360medics.com/assets/media/covid19/patient-en-ville-2.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/fe2819d40ab54c1212278bba11b5a3d6fdc875a7e8728fa83967ede71b77277aa61100cdc0dfbf64c1edfbebc04d39164f8351a411dec58630a48b06b745b99e",
                     "appCategory": ""
                 },
                 {
@@ -245,6 +269,22 @@
                     "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspa20200218_corsarcovprienchaducordunpatdcd.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/7957e6e16b9a45dbbe9f23d48e129b5cd34152f2e1fca4d3c9a185eb573b8a508990e7e323ecc1fcaed95126a72cb3771f3997a3852107aae5306a4853828f2b",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Organisation de l’accueil du patient",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.cpias-pdl.com/wp-content/uploads/2020/03/F7_Mesures-hygiène-pour-l’accueil-du-patient_PRIMO-VF.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/836581d41b67dcb12f96506c3f010b349dbebca5955d9b377a4bdf07d7ebc0c2d31c87d3c7da11bb69a9486bb52044ab9cda72cda1641aadbc5525043f43a562",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Décision d’admission des patients en unités de réanimation et unités de soins critiques dans un contexte d’épidémie à Covid-19",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/decision-dadmission-des-patients-en-unites-de-reanimation-et-unites-de-soins-critiques-dans-un-contexte-depidemie-a-covid-19/?wpdmdl=25432&refresh=5e74a7e6a5a2d1584703462",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/12d58c6d7e2a2811a2fe8df3b31662586d573dba2ff9dce91b2bdf24f164adc5153af80f763dcd20ebad1df0863acec130430f7cad71cbc8be21ea97e73a0610",
+                    "appCategory": ""
                 }
             ]
         },
@@ -270,6 +310,14 @@
                     "isExternalLink": true,
                     "appLink": "https://360medics.com/assets/media/covid19/TRAITEMENT.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/204abae47de054ebc5b9056c6105649f7ddb5f032244146c5ea119e1332f4a69a320752c1a115bb12674d97112068ff13b31672d9509d7156b18a277b2840686",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Proposition d’aide au choix des traitements pharmacologiques",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/proposition-daide-au-choix-des-traitements-pharmacologiques/?wpdmdl=25566&refresh=5e74a61f045df1584703007",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a2bde5cf384703ad1d20472a9b494a5937e5e59e732398e3f7006619932121ea7d4b5dbf026a325e586084b23d6838ff642fd237ce40b69249ff093867236dfa",
                     "appCategory": ""
                 }
             ]
@@ -326,6 +374,14 @@
                     "isExternalLink": true,
                     "appLink": "https://sfar.org/download/le-masque-et-la-plume-18-03/?wpdmdl=25483&refresh=5e7348341cad91584613428",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a541702e3fb90fb98099d23f8758c6a8a462cd0f70e2569a883572bc406d3678bfa577825eb5419ea14fdc8f75692770171db199f01b887bec24897afcb273e8",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Filtration sur le circuit des ventilateurs en contexte de ventilation pour Covid-19",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/tout-ce-que-vous-devez-savoir-sur-les-filtres/?wpdmdl=25571&refresh=5e74a5b6a8a881584702902",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/4213786e5474cfb44f9b58641955e92d887c99d5c7a87fbb06b14661431324f67f6aec64b7b3e200aef2e471377698b678282de8840ca58005bb4d7024621490",
                     "appCategory": ""
                 }
             ]
