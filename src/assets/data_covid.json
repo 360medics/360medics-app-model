@@ -30,7 +30,7 @@
             "isHome": true
         },
         {
-            "appTitle": "CAT soignants",
+            "appTitle": "CAT SOIGNANTS",
             "appSubtitle": "",
             "isExternalLink": false,
             "appLink": "",
@@ -113,7 +113,39 @@
                     "appTitle": "Coronavirus - Indications sur l’imagerie",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "http://communication.radiologie.fr/HM?b=VIE6NSMZYs-R6EbwdJJX05JykwXw556R3NM48GEyu0OzM1fhw3cKbaEiLveuOFcA&c=uzbd2eaBLxd2f2Joq1emyw",
+                    "appLink": "https://360medics.com/assets/media/covid19/communication-radiologie.pdf",
+                    "appLinkAndroid": "http://communication.radiologie.fr/HM?b=g_Xi52OyygVri18EXIB2ko4EA9FsIJR6XxSY3-A2GrpJCUW3-JmAsKeya_Qk15K4&c=VbNbnjI5NaGAmyyiNwY-yQ",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Fiches mémo ventilation et intubation",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/fiches-memo-ventilation-et-intubation/?wpdmdl=25478&refresh=5e73460031a141584612864",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Aides cognitives – Ventilation du SDRA",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/aides-cognitives-ventilation-du-sdra-covid-19/?wpdmdl=25465&refresh=5e7347097bf251584613129",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Principes d’organisation afflux massif SSA",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/principes-dorganisation-afflux-massif-ssa/?wpdmdl=25407&refresh=5e7347906d5d91584613264",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Protocole de la surveillance active des cas graves de COVID-19",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/protocole-de-la-surveillance-active-des-cas-graves-de-covid-19/?wpdmdl=25396&refresh=5e7347d7886e71584613335",
                     "appLinkAndroid": "",
                     "appCategory": ""
                 },
@@ -285,6 +317,14 @@
                     "appSubtitle": "",
                     "isExternalLink": true,
                     "appLink": "https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/827bdf56850d4e3cbeb487cab677ca84",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Point épidémiologique SFAR",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://sfar.org/download/le-masque-et-la-plume-18-03/?wpdmdl=25483&refresh=5e7348341cad91584613428",
                     "appLinkAndroid": "",
                     "appCategory": ""
                 }
