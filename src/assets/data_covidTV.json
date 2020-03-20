@@ -1,0 +1,394 @@
+{
+    "appData": {
+        "appColor": "#C41723",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "",
+            "copyrightYear": "",
+            "copyrightDescription": ""
+        },
+        "headerData": {
+            "headerLogo": "",
+            "headerSponso": "",
+            "headerTitle": "COVID-19 - TV INFO",
+            "headerColor": "#fffff"
+        },
+        "searchBarData": {
+            "searchBarBgColor": "#f2f2f2",
+            "searchBarTextColor": "#000",
+            "searchBarPlaceholder": "Filtrer par score ou maladie"
+        },
+        "footerData": [
+            {
+                "footerCategory": "Tout",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"fal fa-list\"></i>",
+                "footerColor": "#C41723"
+            },
+            {
+                "footerCategory": "Parole d'expert",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"far fa-tint\"></i>",
+                "footerColor": "#C41723"
+            },
+            {
+                "footerCategory": "Procédures",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"far fa-tint\"></i>",
+                "footerColor": "#C41723"
+            }
+        ]
+    },
+    "appEntries": [
+        {
+            "appTitle": "Premiers résultats pour la chloroquine",
+            "appSubtitle": "Pr. Raoult 16/03/2020",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=n4J8kydOvbc&fbclid=IwAR1b2X-t9DWElFIGMvJHwnIpPRmTf9xCoBHf5TWi3Vll1mPlYaBLRLhCsV0",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Covid-19 et services de réanimation",
+            "appSubtitle": "Pr. J.M. Constantin 11/03/20",
+            "isExternalLink": true,
+            "appLink": "https://rmc.bfmtv.com/mediaplayer/video/l-interview-savoir-comprendre-jean-michel-constantin-1103-1229209.html",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Protection des personnes",
+            "appSubtitle": "Pr Jean-Christophe LUCET 29/01/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?time_continue=11&v=zi1bG90vpX0&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Point de situation Covid-19",
+            "appSubtitle": "Hopitaux universitaire de Genève 17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=HmDoPSyfgAk",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Covid-19 ou la chronique d'une émergence annoncée",
+            "appSubtitle": "Pr. P. Sansonetti 16/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?time_continue=2886&v=JKY1i7IpK3Y&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Emission spéciale Covid-19 - SFAR",
+            "appSubtitle": "SFAR 17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=2Yq8nT98Lt4",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Covid-19 et services d'urgences",
+            "appSubtitle": "Pr Philippe Juvin 13/03/20",
+            "isExternalLink": true,
+            "appLink": "https://fr.news.yahoo.com/coronavirus-dr-philippe-juvin-d%C3%A9voile-131526863.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADiMlccGAElGNXQh8Tip8e3mqajVlpWBr1rQ5FNZMqOY0UBrYZFxSkiU_Rp0rbg6NyAmaU_TsCOsoW0HMNMEUcZLhGnyXohX1wGCQ6pnjh5Cly7-Fg87wt0YoXjDtlnp8mC1D8oWmSMNggNhWHTegtzzZVWnlg5XeuY_B9Xyct4G",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "11 questions sur le coronavirus",
+            "appSubtitle": "Pr Philippe Juvin 18/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=sB2A7-9qCD0",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Rencontre avec un infectiologue de la Pitié Salpêtrière",
+            "appSubtitle": "Dr. A. Bleibtreu 17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=xJ8FJeN590Q&feature=share&fbclid=IwAR3GbpCoko2pQ_J81z7KaKkr3n8lzQE5J9yJxmacBmbFDq3V9PWx5ZNwSgY",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Connaître le Virus SARS-Cov-2",
+            "appSubtitle": "EHESP",
+            "isExternalLink": true,
+            "appLink": "https://vimeo.com/ehesp",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Points clés pour les réanimateurs",
+            "appSubtitle": "CEMIR 12/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=ORIWS9BS9R8&feature=youtu.be&fbclid=IwAR18O6nc_RXv3eoTZncI2kGjUQkjjhf-d-5Wb9i185Pmjtl357wpviL0nS0",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Existe t-il un vaccin ou un traitement Covid-19",
+            "appSubtitle": "HUG 29/01/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Vx_4hqbV4sU&list=PLZ0bTMBjdXfFIv0zsdgCuAvOrtTxIVktP&index=2&t=0s",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Durée d'incubation du virus",
+            "appSubtitle": "HUG 27/01/21",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Ls1HY2eDmKk&list=PLZ0bTMBjdXfFIv0zsdgCuAvOrtTxIVktP&index=2",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Différencier le Covid-19 des autres maladies respiratoires",
+            "appSubtitle": "HUG 27/01/21",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=JyHJqTPpz-w&list=PLZ0bTMBjdXfFIv0zsdgCuAvOrtTxIVktP&index=5",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Réaction des poumons au Covid-19",
+            "appSubtitle": "HUG 5/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=9aHlFkatMIk&list=PLZ0bTMBjdXfFIv0zsdgCuAvOrtTxIVktP&index=6",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Fonctionnement du test Covid-19",
+            "appSubtitle": "HUG 6/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=_IiCS5r9gaU&list=PLZ0bTMBjdXfFIv0zsdgCuAvOrtTxIVktP&index=7",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Les différentes phases de la forme légère Covid-19",
+            "appSubtitle": "HUG 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=SvC8uIv9GZU&list=PLZ0bTMBjdXfFIv0zsdgCuAvOrtTxIVktP&index=12",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Doit-on généraliser le test de dépistage Covid-19 ?",
+            "appSubtitle": "HUG 17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=pmhwsfkpDYY&list=PLZ0bTMBjdXfG3fJ4nkRKcShHW8IFuGAYI&index=3&t=0s",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Risques de transmissions pour les femmes enceintes",
+            "appSubtitle": "HUG 17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=cag_7xWUlPM&list=PLZ0bTMBjdXfG3fJ4nkRKcShHW8IFuGAYI&index=5",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Fonctionnement d'une chambre à pression négative",
+            "appSubtitle": "HUG 6/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=7PiotU-wlyM&list=PLZ0bTMBjdXfECJrGer0v2D_uwO52VHcyr&index=4&t=0s",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Covid-19 et immunité",
+            "appSubtitle": "HUG 17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=4wcrEkRtH3w&list=PLZ0bTMBjdXfECJrGer0v2D_uwO52VHcyr&index=9",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Peut-on être infecté par une personne qui ne présente pas de symptômes ?",
+            "appSubtitle": "HUG 17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Tx6Z3ZvJ2Xs&list=PLZ0bTMBjdXfECJrGer0v2D_uwO52VHcyr&index=10",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Déroulement de la quarantaine",
+            "appSubtitle": "HUG 29/01/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=5xkXgc5c_uk&list=PLZ0bTMBjdXfF8QlGgOWWGjM5QP7eS3Gu8&index=10&t=0s",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Transmission du Covid-19",
+            "appSubtitle": "HUG 2/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=KTD92KsaBkQ&list=PLZ0bTMBjdXfF8QlGgOWWGjM5QP7eS3Gu8&index=10",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Différences entre les masques de protection",
+            "appSubtitle": "HUG 4/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=rzuSgldsToo&list=PLZ0bTMBjdXfF8QlGgOWWGjM5QP7eS3Gu8&index=22",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Eviter les infections: mesures de précaution",
+            "appSubtitle": "HUG 4/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=I1h_PWvQkYM&list=PLZ0bTMBjdXfF8QlGgOWWGjM5QP7eS3Gu8&index=23",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Déroulement d'un prélèvement",
+            "appSubtitle": "HUG 29/01/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=8kJotOl5uXA&list=PLZ0bTMBjdXfF8QlGgOWWGjM5QP7eS3Gu8&index=28",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Ouverture centre dépistage ambulatoire",
+            "appSubtitle": "AP-HP 10/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=YapeqR08cpI&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Réunion d'information hôpital Bichat",
+            "appSubtitle": "AP-HP 26/02/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?time_continue=1740&v=k5I5mxrJJBU&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Actualité et situation épidémiologique",
+            "appSubtitle": "Pr. E. Caumes 31/01/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=NCkeXlvy0Ko&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Mesures de protection",
+            "appSubtitle": "Pr Jérôme Robert 31/01/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=TPIUySnhI7I&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Circuits de prise en charge",
+            "appSubtitle": "Pr Pierre Hausfater 31/01/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=9HtMJiScecI&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Réunion d'information hôpital Pitié-Salpêtrière 31/01",
+            "appSubtitle": "AP-HP 31/01/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=WeoLFul309s&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Origines et symptômes",
+            "appSubtitle": "Pr Yazdan Yazdanpanah 29/02/19",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=YyezZk2ls8w&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Covid-19 et grossesse",
+            "appSubtitle": "Pr. Yves Villes 13/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?time_continue=94&v=KDvlvy09ETY&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Technique de prélévement Covid-19",
+            "appSubtitle": "RéPIAS - 12/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Aj3reT1GI_8",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Habillage / déshabillage Covid-19",
+            "appSubtitle": "SFAR - 17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=UHEATN2pN_8",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Mesures d'isolement Covid-19",
+            "appSubtitle": "SRLF - 12/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=TEjk4SfMkF8",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Patient Covid-19 : prise en charge paramédicale",
+            "appSubtitle": "SRLF - 14/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=jpESLMqvlvk",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Bâtiment du CHU de Bordeaux dédié aux auscultations",
+            "appSubtitle": "AFP 10/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=f4S6I-hQ0sM",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "L'assistance respiratoire",
+            "appSubtitle": "SRLF",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=mHjKaHItDX4&feature=youtu.be",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Surveillance en réanimation",
+            "appSubtitle": "SRLF 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=qI6_ZgDZ8Zw",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Technique d’intubation avec laryngoscope de type airtraq®",
+            "appSubtitle": "SFAR 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Yvj3uI-_1zg",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Tuto Intubation Masque laryngé Fastraq™",
+            "appSubtitle": "SFAR 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=JapftdDg7HE",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Procédure des soins infirmiers respiratoires",
+            "appSubtitle": "SRLF",
+            "isExternalLink": true,
+            "appLink": "https://mms.myomni.live/5e663c0dbe444d66709afacd",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Procédure des soins infirmiers respiratoires",
+            "appSubtitle": "SRLF",
+            "isExternalLink": true,
+            "appLink": "https://mms.myomni.live/5e663c0dbe444d66709afacd",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Prise en charge infirmière des patients sous ventilation mécanique invasive",
+            "appSubtitle": "SRLF 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Vc8bLXz8MYs",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Intubation patient présumé Covid 19",
+            "appSubtitle": "17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=iFbp_ByDEfg&feature=youtu.be",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Extubation patient Covid-19",
+            "appSubtitle": "SFAR 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=7SaHe28PVJI",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Tuto Intubation vidéolaryngoscope",
+            "appSubtitle": "SFAR 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=ReLREavZx3k",
+            "appCategory": "Procédures"
+        }
+    ]
+}
