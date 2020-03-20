@@ -11,12 +11,12 @@
             "headerLogo": "",
             "headerSponso": "",
             "headerTitle": "COVID-19 - TV INFO",
-            "headerColor": "#fffff"
+            "headerColor": "#ffffff"
         },
         "searchBarData": {
             "searchBarBgColor": "#f2f2f2",
             "searchBarTextColor": "#000",
-            "searchBarPlaceholder": "Filtrer par score ou maladie"
+            "searchBarPlaceholder": "Rechercher une vidéo"
         },
         "footerData": [
             {
@@ -28,13 +28,13 @@
             {
                 "footerCategory": "Parole d'expert",
                 "footerIconType": "fontawesome",
-                "footerIconPath": "<i class=\"far fa-tint\"></i>",
+                "footerIconPath": "<i class=\"fal fa-user-md-chat\"></i>",
                 "footerColor": "#C41723"
             },
             {
                 "footerCategory": "Procédures",
                 "footerIconType": "fontawesome",
-                "footerIconPath": "<i class=\"far fa-tint\"></i>",
+                "footerIconPath": "<i class=\"fal fa-notes-medical\"></i>",
                 "footerColor": "#C41723"
             }
         ]
@@ -346,13 +346,6 @@
             "appSubtitle": "SFAR 19/03/20",
             "isExternalLink": true,
             "appLink": "https://www.youtube.com/watch?v=JapftdDg7HE",
-            "appCategory": "Procédures"
-        },
-        {
-            "appTitle": "Procédure des soins infirmiers respiratoires",
-            "appSubtitle": "SRLF",
-            "isExternalLink": true,
-            "appLink": "https://mms.myomni.live/5e663c0dbe444d66709afacd",
             "appCategory": "Procédures"
         },
         {
