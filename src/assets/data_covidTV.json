@@ -342,7 +342,7 @@
             "appCategory": "Procédures"
         },
         {
-            "appTitle": "Tuto Intubation Masque laryngé Fastraq™",
+            "appTitle": "Technique d'intubation Masque laryngé Fastraq™",
             "appSubtitle": "SFAR 19/03/20",
             "isExternalLink": true,
             "appLink": "https://www.youtube.com/watch?v=JapftdDg7HE",
@@ -381,6 +381,55 @@
             "appSubtitle": "SFAR 19/03/20",
             "isExternalLink": true,
             "appLink": "https://www.youtube.com/watch?v=ReLREavZx3k",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Ventilation artificielle: les fondamentaux",
+            "appSubtitle": "UPEC",
+            "isExternalLink": true,
+            "appLink": "https://www.fun-mooc.fr/courses/course-v1:UPEC+169001+session02/about",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Ventilation artificielle: niveau avancé",
+            "appSubtitle": "UPEC",
+            "isExternalLink": true,
+            "appLink": "https://www.fun-mooc.fr/courses/course-v1:UPEC+169002+session01/about",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Covid-19 et soins critiques",
+            "appSubtitle": "UPEC",
+            "isExternalLink": true,
+            "appLink": "https://www.fun-mooc.fr/courses/course-v1:UPEC+169003+cv_01/about",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Déshabillage après soins à un patient Covid-19",
+            "appSubtitle": "NoRSimS Caen 16/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=4r4NP6s3cNM&list=PLL6NPM8xJXnU9WwSLWw_qFCZOCaDCkRt6&index=3",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Habillage pour soins à un patient Covid19 (protection gouttelettes)",
+            "appSubtitle": "NoRSimS Caen 16/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=wXCYEYfVdkw&list=PLL6NPM8xJXnU9WwSLWw_qFCZOCaDCkRt6&index=4",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Intubation d'un patient confirmé ou suspect Covid-19",
+            "appSubtitle": "NoRSimS Caen 16/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=PVaEpBbQbJs&list=PLL6NPM8xJXnU9WwSLWw_qFCZOCaDCkRt6&index=6",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Intubation d'un patient confirmé ou suspect Covid-19",
+            "appSubtitle": "NoRSimS Caen 16/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=PVaEpBbQbJs&list=PLL6NPM8xJXnU9WwSLWw_qFCZOCaDCkRt6&index=6",
             "appCategory": "Procédures"
         }
     ]
