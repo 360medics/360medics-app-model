@@ -41,7 +41,7 @@
                     "appTitle": "Coronavirus - CAT soignants exposés",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspa20200226_cosacocotepolesoderedezori.pdf",
+                    "appLink": "https://360medics.com/assets/media/covid19/cat-soignant-expose.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/211bbe9b1e0c67b1d39b81415de101b7e488ebd3f066ed8af5133a8dc5d793ec81c142226b52f406f3c8f0acc6b30016e8da8ec02f00bb5103b4d58de9f72951",
                     "appCategory": ""
                 },
@@ -73,16 +73,16 @@
                     "appTitle": "Coronavirus - Nettoyage et protection",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspa20200218_corsarcovnetdeslocetprodesper.pdf",
+                    "appLink": "https://360medics.com/assets/media/covid19/nettoyage-protection.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f76f7a60ecab3469780d1b9d773ef9b91878f8169d082e28b9dc8c719f2a7ac7b6ba4d4e1e987d187baf6eb6021355252a60ebeda87d8da9143f67e63cfcfe68",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Coronavirus - Critères de zones à risques",
+                    "appTitle": "Coronavirus - Zones à risques",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/Criteres-de-zones-a-risques.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/5a912d31ad2ea2574537632ef6ba4197b94c4c85066c2a7cd07cbedd53076229c203529ea351c80cd8e11ae6aa00f1a7ae1377596034bf5a0cd47d1ec67b885c",
+                    "appLink": "https://360medics.com/assets/media/covid19/zones_exposition_risque.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a946d4856305f61bfb9d237b5a35e1350bedbe87a8b5c1e2e4be308e296a398e75af2cc4c51b76842260ad9d4304c43c13803a40bdd8e65332c86e833334c238",
                     "appCategory": ""
                 },
                 {
@@ -174,6 +174,14 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Coronavirus - Matériaux utilisés en alternative pour la confection des masques de protection",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sf2s-sterilisation.fr/wp-content/uploads/2020/03/Avis-conjoint-SF2S-SF2H_Confection-Masques_23.03.2020_10h03.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c53f5d0cb36997f6f9ba27ee5eccbfbba75bd898b8a85db074dc93ccbeb46bd974ab639ec4be03e45617db4d0de3774df1a39d20d00b162bb4b8050bc211c93f",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Guide d’aide à la gestion des situations sanitaires exceptionnelles dans les établissements de santé",
                     "appSubtitle": "",
                     "isExternalLink": true,
@@ -203,7 +211,7 @@
                     "appTitle": "Coronavirus - Prise en charge des cas confirmé",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspa20200305_coviprisenchardescasconf.pdf",
+                    "appLink": "https://360medics.com/assets/media/covid19/cas-confirme.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/197abdeb203496d24750c49e455413f1c1b87d71e7c2021b9395b2ecc337c43b3f85c791ec064af14acbbe9f8335c10587b6806fdac2daabd8e9d1b65389e7d0",
                     "appCategory": ""
                 },
@@ -235,7 +243,7 @@
                     "appTitle": "Coronavirus - Prise en charge patient atteint de cancer",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspx20200314_aprrlpelpecdcclprdfs.pdf",
+                    "appLink": "https://360medics.com/assets/media/covid19/patient-cancer.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2985a9a5e1b3650dd8a05894ca67d91f920eebb10f08fedc37241dfe9b547d040daf75be0d6edbfb61b3522f057ea12cb7e8f8611d8e35c47dc43d326b542a3a",
                     "appCategory": ""
                 },
@@ -266,7 +274,7 @@
                     "appTitle": "Coronavirus - PEC du corps d'un patient décédé",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspa20200218_corsarcovprienchaducordunpatdcd.pdf",
+                    "appLink": "https://360medics.com/assets/media/covid19/patient-decede.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/7957e6e16b9a45dbbe9f23d48e129b5cd34152f2e1fca4d3c9a185eb573b8a508990e7e323ecc1fcaed95126a72cb3771f3997a3852107aae5306a4853828f2b",
                     "appCategory": ""
                 },
@@ -276,6 +284,46 @@
                     "isExternalLink": true,
                     "appLink": "https://360medics.com/assets/media/covid19/organisation-accueil.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/836581d41b67dcb12f96506c3f010b349dbebca5955d9b377a4bdf07d7ebc0c2d31c87d3c7da11bb69a9486bb52044ab9cda72cda1641aadbc5525043f43a562",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Liste des réactifs de diagnostic par RT-PCR",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/liste-reactifs-diagnostic-rt-pcr-marques-ce.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c17e062ce5b5f510e9df5c89d0c81d4ee1692e961b58463a725702c6d5119fbb7cf9c09f73c28b5ffb810b30bdb5eee5b27c9e98683627ebbd2a7ef141d927a5",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Proposition d’aide à l’interrogatoire téléphonique infection respiratoire aigue",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/Proposition-d’aide-a-l’interrogatoire-telephonique-infection-respiratoire-aigue.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a72c9f2e99e00680443521bb87a703964fa35922f8ab7d8de821f1843e7f58209b0598deab27f5f28216f11189c5975245195faad89833af8f0fc35eeef3c860",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Recours à l’ECMO chez les patients COVID+",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.srlf.org/wp-content/uploads/2020/03/RECO-ECMO-APHP-22-03-2020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/058ef9737ebfe1bde43a03f01601a21e6bf005b0c3ad5aeec9808381112a11255bbc0aafb94494c54f319f4d67546822cb39d8a77e970e4326b1d3d1aa0092bb",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - ENDOSCOPIE ET FIBROSCOPIES",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sforl.org/wp-content/uploads/2020/03/Alerte-Covid-19-Endoscopies-et-fibroscopies.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9dd8a5f5dc75d9077bfaffc4459570d021a8a490ebd7b749fb91a5cc0cfb97593cec00846946d3cce82a21283ea8df6cae05e3edeff4276b8cb734a2aac8eb5b",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - ALERTE ANOSMIE",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sforl.org/wp-content/uploads/2020/03/Alerte-anosmie-COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/dfee731a6fdd9698923a1ac7b1204a6c90f92fdecd14110209cc6f04a321bce6cfa553e89ecbf68c5486cd06a49a2f6eaa2bed5c4231200d86a8b3620daefd23",
                     "appCategory": ""
                 },
                 {
@@ -372,8 +420,8 @@
                     "appTitle": "Coronavirus - Point épidémiologique SFAR",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/le-masque-et-la-plume-18-03/?wpdmdl=25483&refresh=5e7348341cad91584613428",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a541702e3fb90fb98099d23f8758c6a8a462cd0f70e2569a883572bc406d3678bfa577825eb5419ea14fdc8f75692770171db199f01b887bec24897afcb273e8",
+                    "appLink": "https://sfar.org/download/le-masque-et-la-plume-22-03/?wpdmdl=25600&refresh=5e78b35d7191c1584968541",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/151e84507994ec1251e405bf25b6c3d206cd266207262205cc52ae9242fee2e5efa426626bd1d5b8fefbe9798b0545a2520578ee801a7a2e3a805b36fefa0dad",
                     "appCategory": ""
                 },
                 {
