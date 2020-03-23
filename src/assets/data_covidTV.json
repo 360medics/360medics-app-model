@@ -445,6 +445,27 @@
             "isExternalLink": true,
             "appLink": "http://splf.fr/webinar-covid19-covid-19-informations-generales/",
             "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Intubation des patients COVID+ : un peu de sens clinique",
+            "appSubtitle": "SPLF 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=EWiEfikqld4",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Visites des familles en réanimation et COVID",
+            "appSubtitle": "Pr. Jean-Paul Mira - SRLF 22/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=TMwqTQu011o",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Les dix étapes du lavage des mains",
+            "appSubtitle": "",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=4KaN2xqoYWA&feature=emb_logo",
+            "appCategory": "Procédures"
         }
     ]
 }
