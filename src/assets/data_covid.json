@@ -53,6 +53,38 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Guía de información de salud y recursos web de calidad contrastada",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.isciii.es/QueHacemos/Servicios/Biblioteca/Documents/Gu%c3%ada%20COVID_10_03.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/4722642abcccfaa2a4ae1e0151b3d839a7aeefe61f7725f5b765d584241af99eb8126daf6113f5182bda2b6d87b8e21d26bb79bb4d4246cd19ffe9f352f0f000",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Productos virucidas autorizados en España",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Listado_virucidas_PT2_ambiental.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e54d1e74799e171340609635c4998deb983e988a603d55f47a47191440e6bd9717010718c5aa7300ee1f476316382c57bd938be69d8a13a594827704c252a4b7",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "COVID-19 : patogenia, prevención y tratamiento ",
+                    "appSubtitle": "SalusPlay",
+                    "isExternalLink": true,
+                    "appLink": "https://1a7dc97d-1841-4385-a0ea-a6824f645418.usrfiles.com/ugd/1a7dc9_d86cfbec38de40a4807fc7a92f304de3.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/24eb9351347f1d1699580b74718aa82719b727022a8334227900fd834ca54207e4ba944c48648c044e40915a519e9a542d037843cd84c68c8a42443021c9600a",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Medicamentos antihipertensivos que actúan sobre el sistema renina angiotensina e infección por COVID-19",
+                    "appSubtitle": "AEMPS",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/03/NI_MUH_FV-5-2020-Antihipertensivos.pdf-COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/be701c3fb94028eab5da4daf70249bc667ced1cc9113508ec9ba75616b569484933c4acf12166283eb3af2907bb43f6f215e5317d53c02235b4e0d06122ffa70",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Guía de recursos sobre Coronavirus",
                     "appSubtitle": "INTRAMED",
                     "isExternalLink": true,
@@ -239,7 +271,7 @@
             ]
         },
         {
-            "appTitle": "Procedimientos y guías de actuación",
+            "appTitle": "Protocolos globales",
             "appSubtitle": "",
             "isExternalLink": false,
             "appLink": "",
@@ -268,6 +300,62 @@
                     "isExternalLink": true,
                     "appLink": "https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus",
                     "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo en urgencias del COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_urgencias_pacientes_con_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/29e2bedab9788bbb11985bf7a12733e57e08d0509c6c18927d46d394561ddea61b268f0425a2c05f6ca503f00cdcb72aeaebb73f5eda6f8d9392793b694d1700",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo clínico del COVID-19: tratamiento médico",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Protocolo_manejo_clinico_tto_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c0533fc5638da5c58a6d575f958e70d765f938e7faaa4d1723588a607ae061b43b2d7beaa1ce1927863a6f6aeee7d45c8ec8a3fa71537d06753e4e3ffc216807",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Procedimiento de limpieza viaria ante la pandemia del coronavirus ",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Procedimiento_limpieza_viaria_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/89ec8e703185967ef4f1bb0fddb740762a19f047d482385a185897a6fd9339ded60f4f37c753a01c2c22fcbe6b0ec1564cf4d30fcd1b74a55d78c1a55a1f1faf",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo clínico del COVID-19: atención hospitalaria",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/sites/default/files/sincfiles/wsas-media-mediafile_sasdocumento/2020/Atencion_hospitalaria.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d4ce2c79a5dec6fb2a3617631efda2821d49622d13b9d1c0a4f9155afc78c1c69fd3824c0b2aa9af804e85e31a63ad4c730c0c7c1f8e8beb6d73d8df543924a9",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Criterios de atención clínica y de derivación hospitalaria de pacientes diagnosticados como casos probables de infección por SARS-CoV-2",
+                    "appSubtitle": "SemFYC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.semfyc.es/wp-content/uploads/2020/03/Criterios-SARS-COV-2-20200320.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0901afa0254c85a8b3d8b6c68c2f70dc23465f2092bb1b91d9bfaf02c3ae1cdcfe0b606a5ef8478121e155ab160ae2c95f771aadf624457d8318ba39ba9b97f8",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Protocolo de tratamiento antiviral específico de los casos confirmados de pacientes adultos con SARS-COV-2",
+                    "appSubtitle": "Hospital La Fe",
+                    "isExternalLink": true,
+                    "appLink": "https://1a7dc97d-1841-4385-a0ea-a6824f645418.usrfiles.com/ugd/1a7dc9_96b42d1f577a457699819c3009851999.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c3849b42ae6d52072bc69c9ffcc42b07537cd48094236dbfbd1b161fcb75b8b1493bc045d94b7e9505fb9a7a57be7cf6bc2050637753ca6c1d80c58cd05f8083",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo domiciliario del COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_domiciliario_de_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e6da353a29a69a8ebbff1e0297d349be0d9d9468d0992c96e9e72c3bc44a96beb03366f2af872e3e01f0353411ab66ad99e7b70739c7ea2e0e877709eb30a750",
                     "appCategory": ""
                 },
                 {
@@ -321,6 +409,54 @@
                     "appLink": "https://envivo.semergen.es/?seccion=2020-03-12",
                     "appLinkAndroid": "",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Criterios de atención clínica y de derivación hospitalaria",
+                    "appSubtitle": "SemFYC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.semfyc.es/wp-content/uploads/2020/03/Criterios-SARS-COV-2-20200320.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/50fd97259c1a2e3de2d5c3fdc791373ababd2ce8aa13089fd158fe7e89824f64566db4f772ac49e44ccf4a6e458052e5b4ec32dc4c8f0afe378722dbd9861135",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo del paciente con sospecha de infección en atención primaria ",
+                    "appSubtitle": "Conserjería de Sanidad Madrid",
+                    "isExternalLink": true,
+                    "appLink": "https://www.comunidad.madrid/sites/default/files/doc/sanidad/epid/procedimiento_manejo_de_casos_nuevo_coronavirus_sars-cov-2_en_ap_11_03_2020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/738d43f49004093f25e3f37411a21b17c610bb84227a9208f0d475bd1a7157b3f081aa08121a18cb84b7aab5850351279ae580b6de396cfa7e0278263f6dec06",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Seguimiento telefónico del paciente sin criterios de gravedad.",
+                    "appSubtitle": "Conserjería de Sanidad Madrid",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/03/SEGUIMIENTO-TELEFONICO-24-48.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/98923cdcf809d43db5971afe4930e0656ac095c8809ad873f39eda8cc0af4b0f435f9320501c504ec642d50b6e25f3bb70f432373e9b2ad3feb5a46b358a6444",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Procedimiento de atención al paciente con sospecha de infección en el centro de salud",
+                    "appSubtitle": "Conserjería de Sanidad Madrid",
+                    "isExternalLink": true,
+                    "appLink": "2020/03/VALORACION-COVID-19-EN-CENTRO-DE-SALUD.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/4060c83d493240bc038f5b5111c4b9ea5ec87aa2406bb8000042223fdee980613925dda03a76bf1f94a781feb0db6bf68e8bdc121af5c8007f9d6a51478e850e",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Protocolo de atención telefónica al paciente con sospecha de infección",
+                    "appSubtitle": "Conserjería de Sanidad Madrid",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/03/VALORACI%C3%93N-TELEF%C3%93NICA-V02-COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/5ceb8c117b9090dddeeb8b620de9c2df16bc85cebfdeea84d36b0f552ffb2e1b93fc207b40514bb43ae3e678a704d533a972dffca40effbf3433935fa68ab626",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Guía de ayuda para la evaluación clínica telefónica en el seguimiento domiciliario del paciente infectado por Covid19 ",
+                    "appSubtitle": "Conserjería de Sanidad Madrid",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/03/GUIA-DE-AYUDA-CRITERIOS-SEGUIMIENTO.-domiciliario.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f1a1471ca129f5fcd7a3b4a4163ef15a722a79ed62958f0d871e8ad418d38da86f3e788b2977e0ee2a3b9209ced9be1dfb2ee2696e74486d0a2f33236f8a4063",
+                    "appCategory": ""
                 }
             ]
         },
@@ -365,11 +501,19 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Paciente gestante y coronavirus ",
+                    "appTitle": "Paciente gestante y coronavirus",
                     "appSubtitle": "SEDAR",
                     "isExternalLink": true,
                     "appLink": "https://www.sedar.es/images/site/NOTICIAS/febrero/corona-sedar-4_CA.EG.NB.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/3953faaab419ca98c0920c84be1f20338832f395d7d1772bcf5e57220363ca7b8ba3401fd545fbfa87d0ed842408bca8150070d438688deb05815bd5001ef2aa",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo clínico del COVID-19: unidades de cuidados intensivos",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Protocolo_manejo_clinico_uci_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c82e95f168166fcb8bd90244ff9d3bd9764b7dac169227dd5b96742dea1d08f663f6705a7c255145350bbfb39bcaf3942838940f547362698b560a1e4c232265",
                     "appCategory": ""
                 },
                 {
@@ -378,6 +522,40 @@
                     "isExternalLink": true,
                     "appLink": "https://www.sedar.es/images/site/Intraoperatorio_y_coronavirus.docx_003_1.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a8a99685537816c203bfd3a8fc4803748ee6551b41fb8fc3f8a0ff81af6b2fa1f508c01ecae160e484a5cba6300ad7ae4db5f30215cd55a110ed71d0555dd0d8",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "COVID-19 en Farmacia",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Procedimiento de actuación en la farmacia comunitaria para la contencion de la propagación del COVID-19",
+                    "appSubtitle": "Consejo General de Colegios Farmacéuticos",
+                    "isExternalLink": true,
+                    "appLink": "https://www.portalfarma.com/Profesionales/campanaspf/Asesoramiento-salud-publica/infeccion-coronavirus-2019-nCoV/Documents/Procedimiento-actuacion-farmacia-comunitaria-infeccion-covid19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/dae2cb76f07b7591c1623fd744afaa7fda3a9b300ea32115c170057be40b8ed4811e67b7f48a2f08fc2df2beb2f3b3f3ae3c188a7d7e42a6212d0fe412a34144",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "COVID-19 : informe técnico",
+                    "appSubtitle": "Consejo General de Colegios Farmacéuticos",
+                    "isExternalLink": true,
+                    "appLink": "https://www.portalfarma.com/Profesionales/campanaspf/Asesoramiento-salud-publica/infeccion-coronavirus-2019-nCoV/Documents/Informe-tecnico-Coronavirus.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/83dc2c5b142a6c7f45cb490a805325849c94a64570b08e35837505e4a821e32ace8df144f07db49b67445ce95e94a5a557b09a9b192db8d15997eb11823d26ec",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "COVID-19 : guía de Preguntas y Respuestas",
+                    "appSubtitle": "Consejo General de Colegios Farmacéuticos",
+                    "isExternalLink": true,
+                    "appLink": "https://www.portalfarma.com/Profesionales/campanaspf/Asesoramiento-salud-publica/infeccion-coronavirus-2019-nCoV/Documents/preguntas-respuestas-coronavirus.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/09ff950c205edbfb788a142c047c4238237de45172762034cba8c1a2a29a497cd9fc93071afecd824bd7044ff89c24d90fbe17f9e998025decb0122cac2e4061",
                     "appCategory": ""
                 }
             ]
