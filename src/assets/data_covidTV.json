@@ -466,6 +466,48 @@
             "isExternalLink": true,
             "appLink": "https://www.youtube.com/watch?v=4KaN2xqoYWA&feature=emb_logo",
             "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Point épidémiolgique et recommandations internationales pour la pratique",
+            "appSubtitle": "Nicolas Peschanski SFMU - 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.urgencesdirectinfo.com/medias/voir/point-epidemiolgique-et-recommandations-internationales-pour-la-pratique-nicolas-peschanski-chu-rennes/4906",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Les SAMU face à l'enjeu",
+            "appSubtitle": "Patrick Goldstein SFMU 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.urgencesdirectinfo.com/medias/voir/les-samu-face-a-l-enjeu-patrick-goldstein-chu-lille/4907",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Les urgences, faire face",
+            "appSubtitle": "Eric Thibaut - CHU Colmar - SFMU 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.urgencesdirectinfo.com/medias/voir/les-urgences-faire-face-eric-thibaut-ch-colmar/4908",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Les urgences, faire face",
+            "appSubtitle": "Marc Noizet - CH Mulhouse - SFMU 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.urgencesdirectinfo.com/medias/voir/les-urgences-faire-face-marc-noizet-ch-mulhouse/4909",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Réponses aux question, partie 1",
+            "appSubtitle": "SFMU 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.urgencesdirectinfo.com/medias/voir/reponses-aux-questions/4910",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Réponses aux question, partie 2",
+            "appSubtitle": "SFMU 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.urgencesdirectinfo.com/medias/voir/reponses-aux-questions/4911",
+            "appCategory": "Parole d'expert"
         }
     ]
 }
