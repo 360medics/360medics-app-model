@@ -211,6 +211,14 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Medidas Higiénicas para la prevención de contagios",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Medidas_higienicas_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ebf126fa28a590f4227583f05492b1e07a9fc29bac2d7f0ef56ea0d1b3918a9c8f3d93fdeca7d66e56f1d95fbcc302df2116c9cf2f6e9bcf0d7d77981e698240",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Equipo de Protección Individual (EPI)",
                     "appSubtitle": "SEMES",
                     "isExternalLink": true,
@@ -391,6 +399,14 @@
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Centros_sociosanitarios.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/785adfb5b13eeabc301aec6c2e635ff0dffb5d2350ff2eac0ef75dddf7bb32932b49a45507ce2794561b5d086e385aa873095a61fb10a3b5b5625dced2254ed6",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Actuación en centros residenciales de mayores y otros sociosanitarios",
+                    "appSubtitle": "Conserjería de Salud Andalucía",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/sites/default/files/sincfiles/wsas-media-mediafile_sasdocumento/2020/Recomendaciones_Residencias_Centros_Sociosanitarios_22032020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/1e9dec6dc6b5c6624fc1a416a8e29efe01781fbffd86fe2dec9b89588b20c6293651a7df813090f0fdc4f0db454815e05e2f6f6a2ee43c849a1ab840ddffb4bd",
+                    "appCategory": ""
                 }
             ]
         },
@@ -438,7 +454,7 @@
                     "appTitle": "Procedimiento de atención al paciente con sospecha de infección en el centro de salud",
                     "appSubtitle": "Conserjería de Sanidad Madrid",
                     "isExternalLink": true,
-                    "appLink": "2020/03/VALORACION-COVID-19-EN-CENTRO-DE-SALUD.pdf",
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/03/VALORACION-COVID-19-EN-CENTRO-DE-SALUD.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/4060c83d493240bc038f5b5111c4b9ea5ec87aa2406bb8000042223fdee980613925dda03a76bf1f94a781feb0db6bf68e8bdc121af5c8007f9d6a51478e850e",
                     "appCategory": ""
                 },
