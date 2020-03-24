@@ -367,6 +367,14 @@
                     "appLink": "https://sfar.org/download/proposition-daide-au-choix-des-traitements-pharmacologiques/?wpdmdl=25566&refresh=5e74a61f045df1584703007",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a2bde5cf384703ad1d20472a9b494a5937e5e59e732398e3f7006619932121ea7d4b5dbf026a325e586084b23d6838ff642fd237ce40b69249ff093867236dfa",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Proposition d’aide au choix  de traitements pharmacologiques patients en réanimation",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/patients-en-réanimation.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/3c48c9914455dbfe8f49217fb84bd39c3c9005a557546a70d89053ce4e98968810ddf300eeb2624c14fd967349f834f20cab188fc53f0e1039ee59eb09e3de66",
+                    "appCategory": ""
                 }
             ]
         },
