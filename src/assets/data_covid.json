@@ -82,7 +82,7 @@
                     "appSubtitle": "",
                     "isExternalLink": true,
                     "appLink": "https://360medics.com/assets/media/covid19/zones_exposition_risque.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a946d4856305f61bfb9d237b5a35e1350bedbe87a8b5c1e2e4be308e296a398e75af2cc4c51b76842260ad9d4304c43c13803a40bdd8e65332c86e833334c238",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/85141bf6c0a47974869fdf6600624fe253b5353351d925cf7378af23b6c315b2fd9326ba379bb4d0c756867ad9a5194d8db53cd6dfdab16fe04006bed059de3a",
                     "appCategory": ""
                 },
                 {
@@ -248,6 +248,14 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Coronavirus - Prise en charge des patients asthmatiques",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/patient-asthmatique.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/91aee6a0f7cb0c951637354dfba1fbe53a46b48d044f01452c7cec6885f8b9ec6836ac592c8891dd59d77e8c3e46747c0363d28eacba1df801c11d62400d7f2d",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Coronavirus - PEC en ambulatoire des patients",
                     "appSubtitle": "",
                     "isExternalLink": true,
@@ -298,7 +306,7 @@
                     "appTitle": "Coronavirus - Proposition d’aide à l’interrogatoire téléphonique infection respiratoire aigue",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/Proposition-d’aide-a-l’interrogatoire-telephonique.pdf",
+                    "appLink": "https://360medics.com/assets/media/covid19/fiche-radar.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/02453e930da62e4382d0d8b9013973b945a760192f135166bd1da8c04d3ba1363860fe64dda740175ca0bacfe03149177b2ecab394105ea124c72d3f8e7e1a42",
                     "appCategory": ""
                 },
@@ -374,6 +382,14 @@
                     "isExternalLink": true,
                     "appLink": "https://360medics.com/assets/media/covid19/patient-en-rea.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9e944371b9bc065dd55aaae3778525bee89d3223407e805239b9ea5a540f05811bc6bfd11728b297c2385bb0171e3bceeff83ec4119638cc959314834b9f10ec",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recommandations thérapeutiques dans la prise en charge du COVID-19",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/recommandations-therapeutiques.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f00305349ba52b4a5eb9b4cd41ab253239c2953fec6f4c38abd79ce9a3c4294e5dba7a43b0f211f9bc82ceb9331e20bf8a5ac8f9efd72e1ee18ec2f76587a640",
                     "appCategory": ""
                 }
             ]
