@@ -508,6 +508,83 @@
             "isExternalLink": true,
             "appLink": "https://www.urgencesdirectinfo.com/medias/voir/reponses-aux-questions/4911",
             "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Indications de l'ECMO chez les patients Covid+ : Y-a-t-il des spécificités ?",
+            "appSubtitle": "Pr Alain Combes - SRLF 24/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Uzfs-5iM4-c",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "COVID-19 et hémopathies malignes",
+            "appSubtitle": "Pr Odile Launay - Dr Sylvain Choquet 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?time_continue=3&v=TqomQ2Ie4mc&feature=emb_logo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Gestion d'un afflux massif - Retour d'expérience de la Pitié Sapêtrière",
+            "appSubtitle": "Eric Meaudre & Alexandre Demoule- CeMIR / SRLF 25/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=NegcNQdRdEk",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Gestion de la crise sanitaire dans les réas parisiennes",
+            "appSubtitle": "Pr. Eric Maury - SRLF 25/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=ys1bJaGFpaQ",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "La réanimation - Nursing",
+            "appSubtitle": "SRLF 26/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Nloi5aU6dSQ",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Essai clinique Discovery contre le Covid-19",
+            "appSubtitle": "Pr Bruno Lina & Pr Florence Ader - HCL 24/03/20",
+            "isExternalLink": true,
+            "appLink": "youtube.com/watch?v=ofTqUR4DlO8",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Le coronavirus Covid-19 et les enfants",
+            "appSubtitle": "Pr. Yves Gillet - HCL 29/02/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=CXHBApr2RO8",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Point de situation Covid-19",
+            "appSubtitle": "AFP 25/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=lL4k0un4yrE",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Combien de temps dure la maladie Covid 19 ?",
+            "appSubtitle": "Pr. Didier Pittet - HUG 24/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Sw3ButeChOU",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "L'hydroxychloroquine pourrait-elle être utilisée en ambulatoire ?",
+            "appSubtitle": "Pr. Thomas Agoritsas 24/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=TPENmQAsluU",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "A qui s'adresse le traitement par hydroxychloroquine",
+            "appSubtitle": "Pr. Thomas Agoritsas 24/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=pT0QbhS-EHQ",
+            "appCategory": "Parole d'expert"
         }
     ]
 }
