@@ -335,6 +335,30 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Coronavirus - PATIENTS EN CABINET DENTAIRE DE VILLE ",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://ordre-chirurgiens-dentistes-covid19.cloud.coreoz.com/files/Recommandations%20COVID%2019%20v1%2024%20mars%202020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f534d662150d884adfcf982c23f83373eb1b06c4f6eb1eec4cae9d6bdbc0bf29430e7474d2d590396b32d5fda1e879689ff5f173783e0c0196f0466d733d6bdf",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - Précautions d’Hygiène à domicile",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "http://cpias.chru-lille.fr/ActuCovid19/PEC%20a%20domicile%20.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d93ed93a77714dc50fea1472340ad819deace0e301ad1eac5c834cd888e3d5ade2cb050480219d04989e8910bc6b177be7451dcfc0a50965efdb9bfd521a2cac",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus - PEC du corps d'un patient cas probable ou confirmé COVID-19",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/PEC-du-corps-d'un-patient-cas-probable-ou-confirme-COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/915931467ce381c6f55b71ac593ed4e0693b1ac115d6c18528cb42aa5ed0dea1dd2f43503adcd49751a4d2658c94b67ce0060a8bdb2cffef682b03c549b9fea3",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Décision d’admission des patients en unités de réanimation et unités de soins critiques dans un contexte d’épidémie à Covid-19",
                     "appSubtitle": "",
                     "isExternalLink": true,
