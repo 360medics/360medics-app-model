@@ -343,14 +343,6 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Criterios de atención clínica y de derivación hospitalaria de pacientes diagnosticados como casos probables de infección por SARS-CoV-2",
-                    "appSubtitle": "SemFYC",
-                    "isExternalLink": true,
-                    "appLink": "https://www.semfyc.es/wp-content/uploads/2020/03/Criterios-SARS-COV-2-20200320.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0901afa0254c85a8b3d8b6c68c2f70dc23465f2092bb1b91d9bfaf02c3ae1cdcfe0b606a5ef8478121e155ab160ae2c95f771aadf624457d8318ba39ba9b97f8",
-                    "appCategory": ""
-                },
-                {
                     "appTitle": "Protocolo de tratamiento antiviral específico de los casos confirmados de pacientes adultos con SARS-COV-2",
                     "appSubtitle": "Hospital La Fe",
                     "isExternalLink": true,
