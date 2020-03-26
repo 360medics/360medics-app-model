@@ -467,6 +467,22 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "INSTRUCCIÓN PROGRAMA VACUNACIONES ESTADO DE ALARMA COVID-19",
+                    "appSubtitle": "Conserjería de Salud Andalucía",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/sites/default/files/sincfiles/wsas-media-mediafile_sasdocumento/2020/Estado%20de%20alarma%20INSTRUCCIONES%20PROGRAMA%20VACUNACIONES%20ESTADO%20DE%20ALARMA%20COVID_19%28F%29.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/122a45636c2f37ea239bacd59941c0e6275ff40ecc8c4363624caccbecfdf9be623cde824d725a44ec08c3c84342c35402dfd714f36e240237c464a6421b23e5",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo pediátrico en atención primaria del COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_pediatria_ap.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/df8c5fc8863c63c15573f34a6bcd910bd5d8e158bb35ad72e99ea2ee40232788f1f551ef54dcc2a313a0ba48366940dbc73b24c38d696dbceca3b6556ca28415",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Guía de ayuda para la evaluación clínica telefónica en el seguimiento domiciliario del paciente infectado por Covid19 ",
                     "appSubtitle": "Conserjería de Sanidad Madrid",
                     "isExternalLink": true,
