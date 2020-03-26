@@ -64,8 +64,8 @@
                     "appTitle": "Productos virucidas autorizados en España",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Listado_virucidas_PT2_ambiental.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e54d1e74799e171340609635c4998deb983e988a603d55f47a47191440e6bd9717010718c5aa7300ee1f476316382c57bd938be69d8a13a594827704c252a4b7",
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Listado_virucidas.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e730c32034b2443e41bd690a3eddd577f4cf6500733b63ca007c938c8b2c10d635e8feb26ca93f2e54d53f5aeee63640ac5959dda66522002dd30ecbf6658e6d",
                     "appCategory": ""
                 },
                 {
@@ -367,6 +367,22 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Guía de tratamiento de adultos con enfermedad por Coronavirus ",
+                    "appSubtitle": "Hospital 12 de Octubre",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/03/Gui%CC%81a-de-tratamiento-COVID19-h12o.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ae09b41ed18d7521f02594333b21760a3b96f579a291ae5a1a10f84c48e8c60807863d329b2645e12d9527783a95d11b87a5e062402d2743034cc6e7982829c3",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "INFORMACIÓN CIENTÍFICA-TÉCNICA - Enfermedad por coronavirus, COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200326_ITCoronavirus.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Recomendaciones SEMIC",
                     "appSubtitle": "SEIMC",
                     "isExternalLink": true,
@@ -549,6 +565,14 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Ingreso en las UNIDADES DE CUIDADOS INTENSIVOS en SITUACIONES EXCEPCIONALES DE CRISIS",
+                    "appSubtitle": "Com Cantabria",
+                    "isExternalLink": true,
+                    "appLink": "https://4d483521-b58a-46de-b549-cc37f74bb5fa.filesusr.com/ugd/d972df_c2142cd302284c13911df35f1b3f5d71.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/fc82d550701bfda1d65caaf85285b90893f4e7b4f8265854518cf68976e0692fbc26c09f9146b69b743aaadb68541850db6d1329420bd5ff5cb8fca94ed03350",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Recomednaciones para el manejo intraoperatorio",
                     "appSubtitle": "SEDAR",
                     "isExternalLink": true,
@@ -588,6 +612,40 @@
                     "isExternalLink": true,
                     "appLink": "https://www.portalfarma.com/Profesionales/campanaspf/Asesoramiento-salud-publica/infeccion-coronavirus-2019-nCoV/Documents/preguntas-respuestas-coronavirus.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/09ff950c205edbfb788a142c047c4238237de45172762034cba8c1a2a29a497cd9fc93071afecd824bd7044ff89c24d90fbe17f9e998025decb0122cac2e4061",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Infografia microformacion infección Coronavirus",
+                    "appSubtitle": "Consejo General de Colegios Farmacéuticos",
+                    "isExternalLink": true,
+                    "appLink": "https://www.portalfarma.com/Profesionales/campanaspf/Asesoramiento-salud-publica/infeccion-coronavirus-2019-nCoV/Documents/infografia-microformacion-infeccion-coronavirus.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/240eb08eb7c5cb272b21935cceba5989cd9b0c1bc2977d9b7070e505cf5afe3b2fc4eb29569b15e974a6625658edd90a3ab8b194f241c0792e763c0f25433a93",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Formulación Cosmética en Farmacia Comunitaria de gel higienizante de manos",
+                    "appSubtitle": "Consejo General de Colegios Farmacéuticos",
+                    "isExternalLink": true,
+                    "appLink": "https://www.portalfarma.com/Profesionales/campanaspf/Asesoramiento-salud-publica/infeccion-coronavirus-2019-nCoV/Documents/formulacion-cosmetica-farmacia-gel-higienizante-manos.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d6ce26fa80d922721a1e4cffe2653e39a4d791814b848e2b51f43bb925bb1cdca90a4a905d862ae6d3bd155f2bd20fa2672203f5aaf664faf1e4a7598badaa24",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "COVID-19 en Nefrología",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Recomendaciones para el manejo, prevención y control de COVID-19 en Unidades de Diálisis",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/COVID19-hemodialisis.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/349f0114d316038f82fab9f2d9ae932dd830ff6931635962e80080aec7a25fff9a317eaf94a7ee5212d0450a97618b7b5c9669ca6975606ff53de05a6e3be25f",
                     "appCategory": ""
                 }
             ]
