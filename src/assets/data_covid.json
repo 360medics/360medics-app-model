@@ -91,6 +91,14 @@
                     "appLink": "https://www.intramed.net/contenidover.asp?contenidoid=95675",
                     "appLinkAndroid": "",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Segunda Nota informativa para proveedores y fabricantes de biocidas",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/proveedoresDeterminadasSustanciasBiocidas2.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a7079b90584018dc1bf1bf37efc1a3aa21edfda43eba63bbb9f9dfa6d893072ebacc76273877cb3157e0f699048c88a9ac5c8c232a123f10fb082c2edd2ce3cf",
+                    "appCategory": ""
                 }
             ]
         },
@@ -219,6 +227,14 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Procedimiento de limpieza viaria ante la pandemia del coronavirus ",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Procedimiento_limpieza_viaria_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/89ec8e703185967ef4f1bb0fddb740762a19f047d482385a185897a6fd9339ded60f4f37c753a01c2c22fcbe6b0ec1564cf4d30fcd1b74a55d78c1a55a1f1faf",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Equipo de Protección Individual (EPI)",
                     "appSubtitle": "SEMES",
                     "isExternalLink": true,
@@ -315,7 +331,7 @@
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_urgencias_pacientes_con_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/29e2bedab9788bbb11985bf7a12733e57e08d0509c6c18927d46d394561ddea61b268f0425a2c05f6ca503f00cdcb72aeaebb73f5eda6f8d9392793b694d1700",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/3d60406f1fc3f096c095db3c9d396a2696049d9f6e98c24a82be5eb87369737511d2a4ad367c228fc261dba2a6e2088eb3e9a38254667332939327533bf963a9",
                     "appCategory": ""
                 },
                 {
@@ -324,14 +340,6 @@
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Protocolo_manejo_clinico_tto_COVID-19.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c0533fc5638da5c58a6d575f958e70d765f938e7faaa4d1723588a607ae061b43b2d7beaa1ce1927863a6f6aeee7d45c8ec8a3fa71537d06753e4e3ffc216807",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Procedimiento de limpieza viaria ante la pandemia del coronavirus ",
-                    "appSubtitle": "MSCBS",
-                    "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Procedimiento_limpieza_viaria_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/89ec8e703185967ef4f1bb0fddb740762a19f047d482385a185897a6fd9339ded60f4f37c753a01c2c22fcbe6b0ec1564cf4d30fcd1b74a55d78c1a55a1f1faf",
                     "appCategory": ""
                 },
                 {
@@ -351,14 +359,6 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Manejo domiciliario del COVID-19",
-                    "appSubtitle": "MSCBS",
-                    "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_domiciliario_de_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e6da353a29a69a8ebbff1e0297d349be0d9d9468d0992c96e9e72c3bc44a96beb03366f2af872e3e01f0353411ab66ad99e7b70739c7ea2e0e877709eb30a750",
-                    "appCategory": ""
-                },
-                {
                     "appTitle": "Guía de tratamiento de adultos con enfermedad por Coronavirus ",
                     "appSubtitle": "Hospital 12 de Octubre",
                     "isExternalLink": true,
@@ -367,11 +367,35 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Recomendaciones ante una parada cardiaca durante la pandemia de COVID-19",
+                    "appSubtitle": "CCR",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/03/parada_cardiaca_covid19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/1b2ac9539fe938d853caa0bfd7d67579e679d8b4400f6bc1e30f56c8bd426ade76942c55587029a47d1ab70f10b2a513b82dea2d235090917cacd25f76d9dd77",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "INFORMACIÓN CIENTÍFICA-TÉCNICA - Enfermedad por coronavirus, COVID-19",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200326_ITCoronavirus.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/061c61741eaebabf69589a71729d39a3af46032080861ef816516f3795be5e32e49d9aa8a025757ec019775b8bf8de1e43da6619d4c382790ad931aa774467e9",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d6a82873693deeeb6ce62771596f0ed9fc4991ccf45975e1d69e37c406f2609cf433aadfa321d002a9ac65b16086797bce0db81641a4864551da15953d451021",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Guía rápida del Protocolo COVID Hospital IFEMA",
+                    "appSubtitle": "FUNDEN",
+                    "isExternalLink": true,
+                    "appLink": "http://www.fuden.es/images/StopCoronavid/Protocolo_FUDEN_IFEMA/def_Protocolo_COVID_IFEMA_A3.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d51a69f0ff50903697b2ebdeba27db7fdf02075b8a128b345b4802b57f766f1fabd2c7f62ae6bdc048efdfe3a42ecdf10c4698b062463bc1298ebba3197ba9a1",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Procedimiento para el manejo de cadáveres de casos de COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_cadaveres_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0260028b236efedcb33acdd074e573a9bb8308a165ea4dab53000f8f014147f522dfc3d944fc5d61b34ee53cfab66e1df7b8e09bc8ce9d6dc82151f03cf0e81b",
                     "appCategory": ""
                 },
                 {
@@ -488,6 +512,14 @@
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_pediatria_ap.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/df8c5fc8863c63c15573f34a6bcd910bd5d8e158bb35ad72e99ea2ee40232788f1f551ef54dcc2a313a0ba48366940dbc73b24c38d696dbceca3b6556ca28415",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo domiciliario del COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_domiciliario_de_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e6da353a29a69a8ebbff1e0297d349be0d9d9468d0992c96e9e72c3bc44a96beb03366f2af872e3e01f0353411ab66ad99e7b70739c7ea2e0e877709eb30a750",
                     "appCategory": ""
                 },
                 {
