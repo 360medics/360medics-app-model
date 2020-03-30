@@ -1,0 +1,310 @@
+{
+    "appData": {
+        "appColor": "#C41723",
+        "appCopyright": {
+            "copyrightShow": false,
+            "copyrightEntreprise": "",
+            "copyrightYear": "",
+            "copyrightDescription": ""
+        },
+        "headerData": {
+            "headerLogo": "",
+            "headerSponso": "",
+            "headerTitle": "COVID-19 - TV INFO",
+            "headerColor": "#fff"
+        },
+        "searchBarData": {
+            "searchBarBgColor": "#f2f2f2",
+            "searchBarTextColor": "#000",
+            "searchBarPlaceholder": "Buscar un video"
+        },
+        "footerData": [
+            {
+                "footerCategory": "Tout",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"fal fa-list\"></i>",
+                "footerColor": "#C41723"
+            },
+            {
+                "footerCategory": "Palabra de experto",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"fal fa-user-md-chat\"></i>",
+                "footerColor": "#C41723"
+            },
+            {
+                "footerCategory": "Formación y protocolos",
+                "footerIconType": "fontawesome",
+                "footerIconPath": "<i class=\"fal fa-notes-medical\"></i>",
+                "footerColor": "#C41723"
+            }
+        ]
+    },
+    "appEntries": [
+        {
+            "appTitle": "Información general sobre el Coronavirus",
+            "appSubtitle": "Dr. Esteban Ortiz 29/01/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=BsqDWHfIMXQ",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Síntomas y manejo",
+            "appSubtitle": "Dr. Pablo Moreno Franco 13/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=2vOA_8PUYL8&feature=emb_logo",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "7 preguntas sobre el Covid 19",
+            "appSubtitle": "15/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.abc.es/sociedad/abci-coronavirus-directo-nuevos-datos-121-fallecidos-4231-casos-y-193-pacientes-alta-202003131826_directo.html",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "El nuevo coronavirus explicado por un virólogo",
+            "appSubtitle": "Juan Ayllón Barasoain 04/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=AhJpNEfIFYo",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Signos y síntomas del coronavirus",
+            "appSubtitle": "SalusPlay 12/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=9RdV9m62OKE&feature=emb_logo",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Criterios de la pandemia por el coronavirus declarada por la OMS",
+            "appSubtitle": "SalusPlay 10/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?time_continue=6&v=sgZNSlgohXY&feature=emb_logo",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Clasificatión y estructura de los coronavirus",
+            "appSubtitle": "SalusPlay 10/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?time_continue=15&v=HQbOitW5uPw&feature=emb_logo",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "El coronavirus es 10 veces más fuerte que la influenza: especialista",
+            "appSubtitle": "26/02/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=HxYyzXk6-OU",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "El laboratorio español que investiga la vacuna del COVID 19",
+            "appSubtitle": "Centro Nacional de Biotecnología del CSIC 17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=gkoo5PbwO_E",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Cómo es el COVID-19 por dentro, cómo opera en el cuerpo humano y cómo se transmite",
+            "appSubtitle": "12/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=GU67Z63wOJ4",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Evitar infecciones",
+            "appSubtitle": "Somos Valdecilla 21/02/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=zh-0br7NrDY",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "¿Cuánto tiempo sobrevive el Coronavirus en las superfícies?",
+            "appSubtitle": "Hospital clínic de Barcelona 9/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=LcuH_bjXVCw",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "¿Haber pasado el Coronavirus, te hace inmune? ",
+            "appSubtitle": "Hospital clínic de Barcelona 9/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=jXib4kvaMPI",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "los grupos de riesgo del Coronavirus",
+            "appSubtitle": "Hospital clínic de Barcelona 9/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=oMx8Syt3Ugo",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Contaminación de mujeres embarazadas",
+            "appSubtitle": "Hospital clínic de Barcelona 9/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=hor3rrC3hoI",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Las dudas y preguntas sobe el virus",
+            "appSubtitle": "Hospital clínic de Barcelona 5/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=APRg-e8herg",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Sesión informativa Coronavirus",
+            "appSubtitle": "HCB Dr. Antoni Trilla 1/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=q759pUnIKVU",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Las fases del coronavirus",
+            "appSubtitle": "10/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=TxNwYce6WoM",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Johns Hopkins University Experts Discuss Novel Coronavirus",
+            "appSubtitle": "Johns Hopkins Bloomberg School of Public Health 2/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=YyxZ_aaMqA8&feature=youtu.be",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Personal Protective Equipment for COVID-19",
+            "appSubtitle": "NETEC 18/02/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=bG6zISnenPg",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "N-Cov Introductory video",
+            "appSubtitle": "WHO 28/02/20",
+            "isExternalLink": true,
+            "appLink": "https://vimeo.com/387664679",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "China aprueba la primera vacuna  el coronavirus",
+            "appSubtitle": "17/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=_1091G64p5c",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Extubación en Q coronavirus",
+            "appSubtitle": "Hopital Virtual Valdecilla 18/03/20",
+            "isExternalLink": true,
+            "appLink": "https://vimeo.com/398477472",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Intubacion en Q Coronavirus",
+            "appSubtitle": "Hopital Virtual Valdecilla 18/03/20",
+            "isExternalLink": true,
+            "appLink": "https://vimeo.com/398476739",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Protocolo puesta y retirada EPI",
+            "appSubtitle": "HUFA 13/03/20",
+            "isExternalLink": true,
+            "appLink": "https://vimeo.com/397502323",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Coronavirus y nefrología",
+            "appSubtitle": "Sociedad Valenciana Nefrología 13/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=LbyCc4ASdRs",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Nuevo Coronavirus SARS-CoV-2 Origen y biología",
+            "appSubtitle": "Dra. Flor Pujol - Universidad Central de Venezuela 15/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=L77aeJw78g0",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Planificatión de la respuesta de une unidad de cuidados críticos a la pandemia Covid-19",
+            "appSubtitle": "Dr Gontzal Tamayo - Hospital Universitario Cruces 17/03/20 ",
+            "isExternalLink": true,
+            "appLink": "https://www.sedar.es/index.php/agenda/noticias/webinars/webinar-martes-17",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Lavado de manos",
+            "appSubtitle": "Consejo General Enfermería 23/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Jy85o0HFMh0",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Aprende a retirar los guantes desechables sin riesgos",
+            "appSubtitle": "Consejo General Enfermería 22/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=8RalR51JR7s",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Enfermería, pieza clave en el tratamiento contra el coronavirus",
+            "appSubtitle": "10/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=mG4xjropNdw",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Aspectos clínicos de los pacientes con COVID-19. La visión del infectólogo",
+            "appSubtitle": "Pr. Javier Membrillo de Novales 15/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=mWJCA63IYrQ",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": " Visión desde la UCI",
+            "appSubtitle": "AMIR 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Kv3fAI-DATM",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Tratamiento y manejo hospitalario",
+            "appSubtitle": "AMIR 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=J9lX12PCius",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Diagnóstico",
+            "appSubtitle": "AMIR 20/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=xuyFYKs1SXk",
+            "appCategory": "Formación y protocolos"
+        },
+        {
+            "appTitle": "Médicos expertos responden lo que usted debe saber del Covid-19",
+            "appSubtitle": "Dr. Jesús Sánchez Colín 23/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.elimparcial.com/dr__sxnchez_colxn_parte_2_2-vf20200319mp4.html",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Todo lo que necesitas saber sobre el COVID-19 en Atención Primaria",
+            "appSubtitle": "Semergen 12/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?time_continue=19&v=EjL1m5CoXws&feature=emb_logo",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Principales riesgos en Patologías Crónicas: Diabetes",
+            "appSubtitle": "Semergen 19/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?time_continue=2&v=bhExHkKaT5g&feature=emb_logo",
+            "appCategory": "Palabra de experto"
+        }
+    ]
+}
