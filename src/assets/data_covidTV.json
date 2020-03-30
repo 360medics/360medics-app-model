@@ -585,6 +585,69 @@
             "isExternalLink": true,
             "appLink": "https://www.youtube.com/watch?v=pT0QbhS-EHQ",
             "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Point Hebdo'",
+            "appSubtitle": "Dr Joannes Boyau - Pr Constantin - SFAR 27/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=GjKkJSJO1II",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Quelle gestion des aérosols chez les patients Covid+ ?",
+            "appSubtitle": "Pr. Stephan Ehrmann - SRLF - 28/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=dr4RHQG0-Co",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "[En immersion] Dans le service de Réanimation médicale et infectieuse de l'hôpital Bichat AP-HP",
+            "appSubtitle": "AP-HP 26/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=EXwZoKBn4qk",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "[En immersion] La coordination des prises en charge des patients Covid à l'hôpital Bichat",
+            "appSubtitle": "AP-HP 26/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=uIgEkjCOELM",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Les médicaments anti-VIH et antirétroviraux sont-ils efficaces pour traiter ce coronavirus ?",
+            "appSubtitle": "HUG 26/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=ejV9rdTmxzo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Quels sont les différents traitements proposés pour le Covid-19 ?",
+            "appSubtitle": "HUG 29/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=x9rT_ZNorUw",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Le coronavirus de la maladie Covid-19 risque-t-il de muter ?",
+            "appSubtitle": "HUG 29/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=xIz7V9MkAvA",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Y a-t-il une notion de taux de positivité du test de dépistage du Covid-19 ?",
+            "appSubtitle": "HUG 29/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=OXNWvWmc6Rg",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Les tests de dépistage du Covid-19 sont-ils fiables dès les premiers symptômes ?",
+            "appSubtitle": "HUG 29/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=U3vAqKtzhDs",
+            "appCategory": "Parole d'expert"
         }
     ]
 }
