@@ -648,6 +648,62 @@
             "isExternalLink": true,
             "appLink": "https://www.youtube.com/watch?v=U3vAqKtzhDs",
             "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Covid-19: le point de situation",
+            "appSubtitle": "AFP 30/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=V21WTgOubMI",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Tuto : Décubitus Ventral (DV)",
+            "appSubtitle": "SFAR 30/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Hli4KPNoCHU",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Réorganisation et armement de nouvelles unités Covid à l'hôpital Lariboisière",
+            "appSubtitle": "APHP 30/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=MmFBUZ2B1Uw",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Coronavirus : point d’actualité, présentation de l’Etat Major",
+            "appSubtitle": "Pr. Didier Raoult - IHU 31/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=NlQfKZsPxeE",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Retour sur l'essai Discovery et le traitement au Plaquenil",
+            "appSubtitle": "Pr. Eric Maury - SRLF 31/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=bHK6YoGwgBc",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Coronavirus de la maladie COVID-19 - Point de situation",
+            "appSubtitle": "HUG - 31/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=bmCcp2152JU",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Gestion de la prophylaxie antithrombotique chez les patients Covid-19",
+            "appSubtitle": "Pr Damien Roux - SRLF 01/04/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=UOWTQiBU7xY",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Le point de situation",
+            "appSubtitle": "AFP 30/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=V21WTgOubMI&t=103s",
+            "appCategory": "Parole d'expert"
         }
     ]
 }
