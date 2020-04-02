@@ -121,6 +121,48 @@
             ]
         },
         {
+            "appTitle": "Tratamientos",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Manejo clínico del COVID-19: tratamiento médico",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Protocolo_manejo_clinico_tto_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c0533fc5638da5c58a6d575f958e70d765f938e7faaa4d1723588a607ae061b43b2d7beaa1ce1927863a6f6aeee7d45c8ec8a3fa71537d06753e4e3ffc216807",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Productos virucidas autorizados en España",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Listado_virucidas.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e730c32034b2443e41bd690a3eddd577f4cf6500733b63ca007c938c8b2c10d635e8feb26ca93f2e54d53f5aeee63640ac5959dda66522002dd30ecbf6658e6d",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Protocolo de tratamiento antiviral específico de los casos confirmados de pacientes adultos con SARS-COV-2",
+                    "appSubtitle": "Hospital La Fe",
+                    "isExternalLink": true,
+                    "appLink": "https://1a7dc97d-1841-4385-a0ea-a6824f645418.usrfiles.com/ugd/1a7dc9_96b42d1f577a457699819c3009851999.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c3849b42ae6d52072bc69c9ffcc42b07537cd48094236dbfbd1b161fcb75b8b1493bc045d94b7e9505fb9a7a57be7cf6bc2050637753ca6c1d80c58cd05f8083",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Tratamientos disponibles para el manejo de la infección respiratoria por SARS-CoV-2",
+                    "appSubtitle": "AEMPS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aemps.gob.es/la-aemps/ultima-informacion-de-la-aemps-acerca-del-covid%E2%80%9119/tratamientos-disponibles-para-el-manejo-de-la-infeccion-respiratoria-por-sars-cov-2/",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
             "appTitle": "Prevención y control de infecciones ",
             "appSubtitle": "",
             "isExternalLink": false,
@@ -261,11 +303,19 @@
             "isHome": true,
             "appEntries" : [
                 {
+                    "appTitle": "Guía de actuación frente a COVID-19 en los profesionales sanitarios y sociosanitarios",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Protocolo_Personal_sanitario_COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/540458e54d488b783893140ead6b36d3c1a5f9bf996aaa0a2f229c560b2a37ad097703a0b201fc79415b5ece9fc6a88da77c420304e0feceb71f8f3db28c4481",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Procedimiento de actuación fente a casos de infección",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Procedimiento_COVID_19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/4dc66bbea26a1a912e4f7f9ebf1a46720a58150b88be4a47ac2596f8b982e3aa35590e205c339efe404fc86eea5c441fa77375341bd7ca527efee81c81ef94eb",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f2376f098463d15ba24d35d9074fb6f8c077c25e831e6a914058b7ad585ebcbdb482bb7bbcb5b2d5df418aa1a31e4e4562793dc89d6a14aadddb773f3196be21",
                     "appCategory": ""
                 },
                 {
@@ -625,7 +675,7 @@
             ]
         },
         {
-            "appTitle": "Tratamientos",
+            "appTitle": "COVID-19 en Oncologia ",
             "appSubtitle": "",
             "isExternalLink": false,
             "appLink": "",
@@ -633,35 +683,37 @@
             "isHome": true,
             "appEntries" : [
                 {
-                    "appTitle": "Manejo clínico del COVID-19: tratamiento médico",
+                    "appTitle": "Recomendaciones para el manejo, prevención y control de COVID-19 en los hospitales de día onco-hematológicos y servicios de oncología radioterápica",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Protocolo_manejo_clinico_tto_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c0533fc5638da5c58a6d575f958e70d765f938e7faaa4d1723588a607ae061b43b2d7beaa1ce1927863a6f6aeee7d45c8ec8a3fa71537d06753e4e3ffc216807",
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/COVID19-oncohematoyrt.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2c568539b1ac73d8f5e7d6fb8d217c7bf7f4543d77b51f6a5e717f3b3a34ebc6014d9440beca92ee16b8f79dedab9b3e00f1b5b76110e822c34cfbe25dd4a492",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "COVID-19 en Fisioterapia",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Recomendaciones de fisioterapia respiratoria y ejercicio físico para personas afectadas por el COVID-19",
+                    "appSubtitle": "Colegio Profesional de Fisioterapeutas - Comunidad de Madrid",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/03/fisio-covid19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/371b6c010be907fbefefb596cf3d009ce68df7f12cbe8a642307b4f782c0b474369c6cf297006dba75febf407b6077aef86ab741d78130402444413f875ed87a",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Productos virucidas autorizados en España",
-                    "appSubtitle": "MSCBS",
+                    "appTitle": "INFORMACIÓN COVID-19 - Fisioterapeutas",
+                    "appSubtitle": "Consejo General de Colegios de Fisiterapeutas de España",
                     "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Listado_virucidas.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e730c32034b2443e41bd690a3eddd577f4cf6500733b63ca007c938c8b2c10d635e8feb26ca93f2e54d53f5aeee63640ac5959dda66522002dd30ecbf6658e6d",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Segunda Nota informativa para proveedores y fabricantes de biocidas",
-                    "appSubtitle": "MSCBS",
-                    "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/proveedoresDeterminadasSustanciasBiocidas2.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a7079b90584018dc1bf1bf37efc1a3aa21edfda43eba63bbb9f9dfa6d893072ebacc76273877cb3157e0f699048c88a9ac5c8c232a123f10fb082c2edd2ce3cf",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Protocolo de tratamiento antiviral específico de los casos confirmados de pacientes adultos con SARS-COV-2",
-                    "appSubtitle": "Hospital La Fe",
-                    "isExternalLink": true,
-                    "appLink": "https://1a7dc97d-1841-4385-a0ea-a6824f645418.usrfiles.com/ugd/1a7dc9_96b42d1f577a457699819c3009851999.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c3849b42ae6d52072bc69c9ffcc42b07537cd48094236dbfbd1b161fcb75b8b1493bc045d94b7e9505fb9a7a57be7cf6bc2050637753ca6c1d80c58cd05f8083",
+                    "appLink": "https://www.consejo-fisioterapia.org/adjuntos/adjunto_96.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e23e3f98ab0a927eb9849a895e92ac73216a232c31b66b13652d07da912ea0997bf7ec26894131b156797e40557067f3c0e5461e6de626b2937fedad269e5d1f",
                     "appCategory": ""
                 }
             ]
