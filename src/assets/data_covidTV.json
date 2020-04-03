@@ -704,6 +704,55 @@
             "isExternalLink": true,
             "appLink": "https://www.youtube.com/watch?v=V21WTgOubMI&t=103s",
             "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "La réanimation - Ethique et fin de vie",
+            "appSubtitle": "SRLF - 01/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=JJdDdezH-oI",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Elimination des déchets issus de soins des patients infectés par le COVID-19",
+            "appSubtitle": "APHP 01/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=X3qqHGDQe8U",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Le masque chirurgical: pour qui ? comment le porter ? ",
+            "appSubtitle": "APHP 01/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=oVUDnf3Q_s4",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Le masque FFP2: pour qui ? comment le mettre ? ",
+            "appSubtitle": "APHP 01/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=XxOwJusn6Sc",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Le parcours des patients Covid+ à l'hôpital Lariboisière",
+            "appSubtitle": "APHP 01/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=qV99TZA42qU",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Un soignant infecté par le Covid doit-il faire un test de dépistage avant de retourner travailler ?",
+            "appSubtitle": "HUG 01/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=gUe2eKPX5pY",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Quels niveaux de PEEP chez les patients Covid+ ?",
+            "appSubtitle": "SRLF 02/04/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=imOAdS43hq8",
+            "appCategory": "Parole d'expert"
         }
     ]
 }
