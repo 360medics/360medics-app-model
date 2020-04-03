@@ -12,12 +12,15 @@ import { Data } from '../../interface';
 
 export class HeaderComponent implements OnInit {
     @Input() data: Data;
+    // indicates if we are on the homepage
     inApp: boolean;
     appTitle: string;
+    // indicates that the component is open in the iframe
     inIframe: boolean;
-    inClass: boolean;
+    // indicates if the parent appEntry is on the home page
     parentIsHome: Array<boolean> = new Array<boolean>();
-    appsParentTitle: Array<string> = new Array<string>();
+    // parent appEntry title
+    parentTitle: Array<string> = new Array<string>();
 
     constructor(private _broadcaster: Broadcaster, private _deviceDetectorService: DeviceDetectorService, private _jsonDataReader: ReadJsonFileService ) {
         this.inApp = true;
@@ -26,44 +29,47 @@ export class HeaderComponent implements OnInit {
     ngOnInit() {
         this._broadcaster.on('open.app.in.iframe', (data) => {
             this.inApp = false;
-            this.appsParentTitle.push(this.appTitle);
-            this.appTitle = data.title;
             this.inIframe = true;
-        });
-
-        this._broadcaster.on('close.app.iframe', (data) => {
-            this.inIframe = false;
-            this.appTitle = this.appsParentTitle.pop();
-            if (this.inClass) {
-                this.inApp = false;
-            } else {
-                this.inApp = true;
-            }
-        });
-
-        this._broadcaster.on('go.back', (data) => {
-            this.appTitle = this.appsParentTitle.pop();
-            if (this.inClass) {
-                if (this.parentIsHome.pop()) {
-                    this.inApp = true;
-                    this.inClass = false;
-                } else {
-                    this.inApp = false;
-                }
-            }
+            this.parentTitle.push(this.appTitle);
+            this.parentIsHome.push(data.isHome);
+            this.appTitle = data.title;
         });
 
         this._broadcaster.on('open.list', (data) => {
             this.inApp = false;
-            this.inClass = true;
-            this.appsParentTitle.push(this.appTitle);
-            this.appTitle = data.title;
+            this.inIframe = false;
+            this.parentTitle.push(this.appTitle);
             this.parentIsHome.push(data.isHome);
+            this.appTitle = data.title;
         });
 
-        this._broadcaster.on('update.title', (data) => {
-            this.appTitle = data.title;
+        this._broadcaster.on('close.app.iframe', (data) => {
+            this.inIframe = false;
+            this.appTitle = this.parentTitle.pop();
+            if (this.parentIsHome.pop()) {
+                this.inApp = false;
+            } else {
+                if (this.parentIsHome.length !== 0) {
+                    this.inApp = false;
+                } else {
+                    this.inApp = true;
+                }
+            }
         });
+
+        this._broadcaster.on('go.back', (data) => {
+            this.appTitle = this.parentTitle.pop();
+            if (this.parentIsHome.pop()) {
+                this.inApp = true;
+            } else {
+                if (this.parentIsHome.length !== 0) {
+                    this.inApp = false;
+                } else {
+                    this.inApp = true;
+                }
+            }
+        });
+
     }
 
     closeViewer() {

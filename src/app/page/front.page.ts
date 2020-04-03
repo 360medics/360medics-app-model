@@ -26,7 +26,6 @@ export class FrontPageComponent implements OnInit {
     openIn: boolean;
 
     constructor (private title: Title, private reader: ReadJsonFileService, private _broadcaster: Broadcaster, private _r2: Renderer2, private _elem: ElementRef, private _iframeGenerator: IframeGeneratorService) {
-
     }
 
     ngOnInit() {
@@ -41,6 +40,7 @@ export class FrontPageComponent implements OnInit {
 
         this._broadcaster.on('open.app.in.iframe', (data) => {
             this.openIn = true;
+            this.appsListParent.push(this.appsList);
             this._iframeGenerator.setUrl(data.url).setRenderer2(this._r2).createWithRenderer2();
             this.appsListParent.push(this.appsList);
         });
@@ -63,7 +63,10 @@ export class FrontPageComponent implements OnInit {
 
         this._broadcaster.on('go.back', (data) => {
             this.appsList = this.appsListParent.pop();
+            if (this.appsListParent.length === 0) {
+            }
         });
+
         this.getAppsList();
     }
 
@@ -74,14 +77,14 @@ export class FrontPageComponent implements OnInit {
 
     filterAppsList(e: any) {
         if (e.needle !== null && e.needle.length > 0) {
-            if (this.allDocs.length === 0 && this.appListBeforeFilter) {
+            if (this.allDocs.length === 0 && this.appListBeforeFilter.length === 0) {
                 this.findAllDocs(this.appsList, this.allDocs);
                 this.appListBeforeFilter = this.appsList;
             }
             this.appsList = this.allDocs
                 .filter((app: AppEntry) => this.match(app, e.needle));
         } else {
-            if (this.appListBeforeFilter.length !== 0 && this.allDocs.length !== 0){
+            if (this.appListBeforeFilter.length !== 0 && this.allDocs.length !== 0) {
                 this.appsList = this.appListBeforeFilter;
                 this.appListBeforeFilter = [];
                 this.allDocs = [];

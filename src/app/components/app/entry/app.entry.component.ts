@@ -43,7 +43,7 @@ export class AppEntryComponent implements OnInit {
     }
 
     open() {
-        if (this.app.appEntries !== undefined) {
+        if (this.app.appEntries !== undefined && this.app.appEntries.length !== 0) {
             this._broadcaster.emit('open.list', { appEntries: this.app.appEntries, title: this.app.appTitle, isHome: this.app.isHome });
         } else {
             let finalLink = this.appLink;
@@ -58,6 +58,6 @@ export class AppEntryComponent implements OnInit {
     }
 
     openAppInIframe() {
-        this._broadcaster.emit('open.app.in.iframe', { url: this.appLink, title: this.app.appTitle });
+        this._broadcaster.emit('open.app.in.iframe', { url: this.appLink, title: this.app.appTitle, isHome: this.app.isHome });
     }
 }
