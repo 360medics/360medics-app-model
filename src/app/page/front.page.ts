@@ -62,8 +62,8 @@ export class FrontPageComponent implements OnInit {
 
         this._broadcaster.on('go.back', (data) => {
             this.appsList = this.appsListParent.pop();
-            if (this.appsListParent.length === 0) {
-            }
+            this.appListBeforeFilter = [];
+            this.allDocs = [];
         });
 
         this.getAppsList();
