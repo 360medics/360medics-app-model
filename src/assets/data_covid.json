@@ -21,16 +21,7 @@
     },
     "appEntries": [
         {
-            "appTitle": "Définition des cas",
-            "appSubtitle": "",
-            "isExternalLink": true,
-            "appLink": "https://360medics.com/assets/media/covid19/COVID-19_definition_cas.pdf",
-            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/057f7b42f87d5970b8cf0444ddbf1174d46136d250932657692e0363649c7b9a0c93d535e0107df133c12b215e63144b7856daff949be6dd76a85b7e2b3c895d",
-            "appCategory": "",
-            "isHome": true
-        },
-        {
-            "appTitle": "CAT SOIGNANTS",
+            "appTitle": "Recommandations pluri-professionnelles",
             "appSubtitle": "",
             "isExternalLink": false,
             "appLink": "",
@@ -38,338 +29,49 @@
             "isHome": true,
             "appEntries" : [
                 {
-                    "appTitle": "Coronavirus - CAT soignants exposés",
+                    "appTitle": "Prise en charge cas suspect",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/cat-soignant-expose.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/211bbe9b1e0c67b1d39b81415de101b7e488ebd3f066ed8af5133a8dc5d793ec81c142226b52f406f3c8f0acc6b30016e8da8ec02f00bb5103b4d58de9f72951",
+                    "appLink": "https://360medics.com/assets/media/covid19/refonte/patient-suspect.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/56935812677e103dc5a46b3496291fc3df3af60969d010fb6dd16f628ed144e14f58808c7dd83d1218dc7061b7049c1294b2417a543ee893c8b4eecdecee8a7e",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Coronavirus - CAT “cas contact”",
+                    "appTitle": "Prise en charge d’un cas probable ou confirmé",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/CAT-CAS-CONTACT.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ecb61664e10186efbcfab70b7fa911fc46486d591489021e8151e41a944831314c4d95087b62076878005c9d1906f419a884f53c192c319811600a24653daeaf",
+                    "appLink": "https://360medics.com/assets/media/covid19/refonte/PEC-du-corps-d'un-patient-cas-probable-ou-confirme-COVID-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/daa73f449a8c5e7614790d0fbef315159206b636bb001eb57f41383a5938fb2efed70f11f47ba5455ac64208b1fb6522dbf6aaface7f15841ad274d73da7c75e",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Coronavirus - Principes de gestion des voies aériennes",
+                    "appTitle": "Repérer et prendre en charge un patient atteint d’infection respiratoire aiguë",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://sfar.org/wp-content/uploads/2020/02/affiche-covid-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/08fae4aa31208d1cfe1aa42047c7bfeec7da6afe344699b8fbbe6bb679812bc3439b5b147d6427d04d64704844bb709d50a1fdd8a6c525aa5a3ce938cb22b0cf",
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/fiche-radar-covid19-med-de-ville-23-mars-maj-vf.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/533eada87dc1079566ba23092ab8046f59cf6adfb8dccb0535da9cdcb022533ff8c029adf4e9be25cf8f57a8b988b64440bd305d5bc73e732180724c52357c7e",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Coronavirus - Utilisation des masques",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/covid-19-utilisation-des-masques.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e37dba177c1fbb3f06fb717d0aa462acbeffd3a692504448672a635842ff53e1f92e3806828a9a8cbd3a510eb7208bc48a2bbeeea26f2a714ae99b7c14be6c5a",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Nettoyage et protection",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/nettoyage-protection.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f76f7a60ecab3469780d1b9d773ef9b91878f8169d082e28b9dc8c719f2a7ac7b6ba4d4e1e987d187baf6eb6021355252a60ebeda87d8da9143f67e63cfcfe68",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Zones à risques",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/zones_exposition_risque.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/85141bf6c0a47974869fdf6600624fe253b5353351d925cf7378af23b6c315b2fd9326ba379bb4d0c756867ad9a5194d8db53cd6dfdab16fe04006bed059de3a",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Conditions port des masques",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://www.infectiologie.com/UserFiles/File/emergences/avis-sf2h-utilisation-masque-14mars2020.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2f692b728285ab9454b798d957024ce7bac73395cba00b84816fb78123013235c009852fba815aef93bb8468bcf06659c23000f316b1cb4b8e732dd549ae48e0",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Enjeux éthiques de l’accès aux soins de réanimation",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/gt-etic-rea-covid-vp-17-mar-20.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e72517448119020474c0355fcc3759b6d3e2e61b1c1f0c8681621342ba1fdbb5888e43216bf92e21064cd37a72c8d1e27885a7e356ddf5fe2ba11e872d553729",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Précautions Endoscopie",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "http://splf.fr/centre-de-documentation-covid-19/precautions-particulieres-endocopie-bronchique-splf-15-02-20/",
-                    "appLinkAndroid": "",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Indications sur l’imagerie",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/communication-radiologie.pdf",
-                    "appLinkAndroid": "http://communication.radiologie.fr/HM?b=g_Xi52OyygVri18EXIB2ko4EA9FsIJR6XxSY3-A2GrpJCUW3-JmAsKeya_Qk15K4&c=VbNbnjI5NaGAmyyiNwY-yQ",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Fiches mémo ventilation et intubation",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/fiches-memo-ventilation-et-intubation/?wpdmdl=25478&refresh=5e73460031a141584612864",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/16c25fa8516d64a2331f1f8a7a4345311c479656b3f3ee32312a1b76a4ab5e873d3731e2134b1a8f680015a6ca4822142acc965a0a82754731ed0346de64a9e6",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Aides cognitives – Ventilation du SDRA",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/aides-cognitives-ventilation-du-sdra-covid-19/?wpdmdl=25465&refresh=5e7347097bf251584613129",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/392750420ecb5328172e771f762bcd03ffb2e4c4c0b42f75f67db357f4a12f984cba56ac5ef52f519cc9c961789acc1cc282f6998e827b2eea56325d6f9a524e",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Principes d’organisation afflux massif SSA",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/principes-dorganisation-afflux-massif-ssa/?wpdmdl=25407&refresh=5e7347906d5d91584613264",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d62fdcc17f891807e08bb4c440297414bb0d2739f6b867d0a2429bc40bed692a55d669798b8bf83ed6a09afcef047f56d7b1b8382eaa3fc1d84e7fc48cff3b89",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Protocole de la surveillance active des cas graves de COVID-19",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/protocole-de-la-surveillance-active-des-cas-graves-de-covid-19/?wpdmdl=25396&refresh=5e7347d7886e71584613335",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/8f0c5cbfe17e573bdf8a8eae9aaaeb370249f9c31be8375c4f85d656f903c25d84b68a1260e80c65029c9b7f403a57a1a155fa926f98774281f6d20f51711198",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Préconisations pour la ventilation en réanimation de patients COVID avec des ventilateurs d’anesthésie",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/preconisations-pour-la-ventilation-en-reanimation-de-patients-covid-avec-des-ventilateurs-danesthesie/?wpdmdl=25538&refresh=5e74a56fa92c81584702831",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/63ff33f9fe2443bdef3d2692e4839489790eae449a3c9b599ca0815781f090ec2fc805d05f4c23e71e0b47908e6c702479fc6655176797bc696bc7d86606d38c",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Synthèse des recommandations sur l’utilisation des appareils Dräger pour la ventilation à long terme",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/synthese-des-recommandations-sur-lutilisation-des-appareils-drager-pour-la-ventilation-a-long-terme/?wpdmdl=25510&refresh=5e74d7dbed6701584715739",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e589d1d544e84b9777bb5b6ee2d09219afb7692bd69439ed55570284a6bb624b49eb54285be60a0f014890976182361dae9130b4a8d411bfcde21cb7c20974ba",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Check-list non exhaustive pour le personnel soignant de soins intensifs",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/check-list-non-exhaustive-pour-le-personnel-soignant-de-soins-intensifs/?wpdmdl=25512&refresh=5e74a9eb444891584703979",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d3e52c6f4d774cb231d1dd7a41b5b9573658540a89b332aa6944957f1ac1aba8d2ef2b646cd9bc40f75cca3a343345326042ecb86bec5eb157f901d75828332b",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Matériaux utilisés en alternative pour la confection des masques de protection",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://www.sf2s-sterilisation.fr/wp-content/uploads/2020/03/Avis-conjoint-SF2S-SF2H_Confection-Masques_23.03.2020_10h03.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c53f5d0cb36997f6f9ba27ee5eccbfbba75bd898b8a85db074dc93ccbeb46bd974ab639ec4be03e45617db4d0de3774df1a39d20d00b162bb4b8050bc211c93f",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Guide d’aide à la gestion des situations sanitaires exceptionnelles dans les établissements de santé",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/guide_situation_sanitaire_exceptionnelle.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/995d4988b120407ec9d4d272ab69d0997a4b42340cbcdfb91c6dd4070e3a61933767809adf11d3ca1a96bf854c17fc741656508d7c327a099ef3017d67af50a1",
-                    "appCategory": ""
-                }
-            ]
-        },
-        {
-            "appTitle": "PRISE EN CHARGE PATIENT",
-            "appSubtitle": "",
-            "isExternalLink": false,
-            "appLink": "",
-            "appCategory": "",
-            "isHome": true,
-            "appEntries" : [
-                {
-                    "appTitle": "Coronavirus - Prise en charge patient suspect",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/patient-suspect.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/53290487d68ed78b03ffbe23e063bb53e6289107a11c8e35aa8e01c0d98c6a7b315dbca597a2c322b25b2e9369ff2ed50bba30b5c895382db3f85768044ddbd1",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Prise en charge des cas confirmé",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/cas-confirme.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/197abdeb203496d24750c49e455413f1c1b87d71e7c2021b9395b2ecc337c43b3f85c791ec064af14acbbe9f8335c10587b6806fdac2daabd8e9d1b65389e7d0",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Prise en charge patient en ville",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/patient-en-ville-2.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/fe2819d40ab54c1212278bba11b5a3d6fdc875a7e8728fa83967ede71b77277aa61100cdc0dfbf64c1edfbebc04d39164f8351a411dec58630a48b06b745b99e",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Prise en charge patient en réanimation",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://srlf.org/wp-content/uploads/2020/03/Recommandations-dexperts-COVID-19-10-Mars-2020.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0d047847e5f64f1a15dc86eb58bc0b1f7eedf01de8ef34ac51e39707550d162f7531c4a6b497f1e8e1def08084f8c916d0ab27512ef4ae3544a82adfb1302981",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Prise en charge patient à risque de forme sévère",
+                    "appTitle": "Prise en charge des patients à risque de forme sévère de COVID-19",
                     "appSubtitle": "",
                     "isExternalLink": true,
                     "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/new_hcsp-sars-cov-2_patients_fragiles_v3-2.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/058cc2c12cc1b43076ccf7731d07f2a2425b169625b447b407dc7a9665abc49e37a2dbceeedd253d03a30f6c2f51f57edf55ab4cbce7dd3a21520055bd3c3515",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f69220fa4d74285193d10f08d83920ea0d24b4f171f636662d06ecb5b5eede4df63941bdbf45e074bdb5e8a83f3b481e6f7214ad887a811ff4609178052f8947",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Coronavirus - Prise en charge patient atteint de cancer",
+                    "appTitle": "Protocole de la surveillance active des cas graves",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/patient-cancer.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2985a9a5e1b3650dd8a05894ca67d91f920eebb10f08fedc37241dfe9b547d040daf75be0d6edbfb61b3522f057ea12cb7e8f8611d8e35c47dc43d326b542a3a",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Prise en charge des patients asthmatiques",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/patient-asthmatique.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/91aee6a0f7cb0c951637354dfba1fbe53a46b48d044f01452c7cec6885f8b9ec6836ac592c8891dd59d77e8c3e46747c0363d28eacba1df801c11d62400d7f2d",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - PEC en ambulatoire des patients",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/PEC-en-ambulatoire-des-patients.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f50b60d9387dba98de0550d5faddaf8d923a073aa4da35301bd627e79872111e95589a77ed283c6ea8bc19644cd632a3f1b613ff732aff4cf00457c29b11bc91",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - PEC patiente enceinte",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "http://www.cngof.fr/component/rsfiles/apercu?path=Clinique/referentiels/COVID-19/COVID-19-CNGOF.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/efa1194ec55a9948fd6b1874fcf7d795cc2109564c7fea782998267e07a9719274f9f70dfbbb6b339d7bca35000d6550900acebf9d38f6987e2d762ce916bc9b",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - PEC anesthésique d’un patient suspect/infecté",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://sfar.org/propositions-pour-la-prise-en-charge-anesthesique-dun-patient-suspect-ou-infecte-a-coronavirus-covid-19/",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - PEC du corps d'un patient décédé",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/patient-decede.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/7957e6e16b9a45dbbe9f23d48e129b5cd34152f2e1fca4d3c9a185eb573b8a508990e7e323ecc1fcaed95126a72cb3771f3997a3852107aae5306a4853828f2b",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Organisation de l’accueil du patient",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/organisation-accueil.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/836581d41b67dcb12f96506c3f010b349dbebca5955d9b377a4bdf07d7ebc0c2d31c87d3c7da11bb69a9486bb52044ab9cda72cda1641aadbc5525043f43a562",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Liste des réactifs de diagnostic par RT-PCR",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/liste-reactifs-diagnostic-rt-pcr-marques-ce.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c17e062ce5b5f510e9df5c89d0c81d4ee1692e961b58463a725702c6d5119fbb7cf9c09f73c28b5ffb810b30bdb5eee5b27c9e98683627ebbd2a7ef141d927a5",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Proposition d’aide à l’interrogatoire téléphonique infection respiratoire aigue",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/fiche-radar.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/02453e930da62e4382d0d8b9013973b945a760192f135166bd1da8c04d3ba1363860fe64dda740175ca0bacfe03149177b2ecab394105ea124c72d3f8e7e1a42",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Recours à l’ECMO chez les patients COVID+",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://www.srlf.org/wp-content/uploads/2020/03/RECO-ECMO-APHP-22-03-2020.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/058ef9737ebfe1bde43a03f01601a21e6bf005b0c3ad5aeec9808381112a11255bbc0aafb94494c54f319f4d67546822cb39d8a77e970e4326b1d3d1aa0092bb",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - ENDOSCOPIE ET FIBROSCOPIES",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://www.sforl.org/wp-content/uploads/2020/03/Alerte-Covid-19-Endoscopies-et-fibroscopies.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9dd8a5f5dc75d9077bfaffc4459570d021a8a490ebd7b749fb91a5cc0cfb97593cec00846946d3cce82a21283ea8df6cae05e3edeff4276b8cb734a2aac8eb5b",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - ALERTE ANOSMIE",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://www.sforl.org/wp-content/uploads/2020/03/Alerte-anosmie-COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/dfee731a6fdd9698923a1ac7b1204a6c90f92fdecd14110209cc6f04a321bce6cfa553e89ecbf68c5486cd06a49a2f6eaa2bed5c4231200d86a8b3620daefd23",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - PATIENTS EN CABINET DENTAIRE DE VILLE ",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://ordre-chirurgiens-dentistes-covid19.cloud.coreoz.com/files/Recommandations%20COVID%2019%20v1%2024%20mars%202020.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f534d662150d884adfcf982c23f83373eb1b06c4f6eb1eec4cae9d6bdbc0bf29430e7474d2d590396b32d5fda1e879689ff5f173783e0c0196f0466d733d6bdf",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Précautions d’Hygiène à domicile",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "http://cpias.chru-lille.fr/ActuCovid19/PEC%20a%20domicile%20.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d93ed93a77714dc50fea1472340ad819deace0e301ad1eac5c834cd888e3d5ade2cb050480219d04989e8910bc6b177be7451dcfc0a50965efdb9bfd521a2cac",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - PEC du corps d'un patient cas probable ou confirmé COVID-19",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/PEC-du-corps-d'un-patient-cas-probable-ou-confirme-COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/915931467ce381c6f55b71ac593ed4e0693b1ac115d6c18528cb42aa5ed0dea1dd2f43503adcd49751a4d2658c94b67ce0060a8bdb2cffef682b03c549b9fea3",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Décision d’admission des patients en unités de réanimation et unités de soins critiques dans un contexte d’épidémie à Covid-19",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/decision-dadmission-des-patients-en-unites-de-reanimation-et-unites-de-soins-critiques-dans-un-contexte-depidemie-a-covid-19/?wpdmdl=25432&refresh=5e74a7e6a5a2d1584703462",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/12d58c6d7e2a2811a2fe8df3b31662586d573dba2ff9dce91b2bdf24f164adc5153af80f763dcd20ebad1df0863acec130430f7cad71cbc8be21ea97e73a0610",
+                    "appLink": "https://www.srlf.org/wp-content/uploads/2020/03/2020-03-11_Protocole_Covid19_SurvCG.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a37233f3bb9728c326468e69f5897060b97f2a393f2a8177d41c3363921b023cbf285dd90db3ff8193ef83d2954ff51c9e8ccbab3b3d7e1bb6ac106c768cb923",
                     "appCategory": ""
                 }
             ]
         },
         {
-            "appTitle": "TRAITEMENT",
+            "appTitle": "Recommandations en ambulatoire et médecine de ville",
             "appSubtitle": "",
             "isExternalLink": false,
             "appLink": "",
@@ -377,49 +79,62 @@
             "isHome": true,
             "appEntries" : [
                 {
-                    "appTitle": "Recommandations spécifiques à la ventilation mécanique et la gestion des voies aériennes",
-                    "appSubtitle": "SRLF-SFAR",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/RECOMMANDATION-VENTILATION.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0094395cbf95a0f514cecfd49d3c08ac19d13707e212e1e08fd0355e8f2163d27a566e7a671548419da48756d85ea649b37c2ec7b8e7f6ac22d69b28f67d3476",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Traitement spécifique",
-                    "appSubtitle": "SRLF-SFAR",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/TRAITEMENT.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/204abae47de054ebc5b9056c6105649f7ddb5f032244146c5ea119e1332f4a69a320752c1a115bb12674d97112068ff13b31672d9509d7156b18a277b2840686",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Proposition d’aide au choix des traitements pharmacologiques",
+                    "appTitle": "Algorithme de prise en charge en ville",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/proposition-daide-au-choix-des-traitements-pharmacologiques/?wpdmdl=25566&refresh=5e74a61f045df1584703007",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a2bde5cf384703ad1d20472a9b494a5937e5e59e732398e3f7006619932121ea7d4b5dbf026a325e586084b23d6838ff642fd237ce40b69249ff093867236dfa",
+                    "appLink": "https://360medics.com/assets/apps/com.covid19-algo.medics/0.0.1/index.html",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "isInApp": true
+                },
+                {
+                    "appTitle": "Prise en charge pneumopathie aiguë communautaire",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19/refonte/Prise-en-charge-pneumopathie-aigue-communautaire.png",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+
+                },
+                {
+                    "appTitle": "Prise en charge en hospitalisation à domicile",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/prise-en-charge-had-covid-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/06796956636e7059a70af67d576caa0f99657e94c9aa8ec73949556c9e091e3689af2a8073f895eeeb61623f3de42a969d73cdfcb9fd988ed49d019be0dfee57",
+                    "appCategory": ""
+
+                },
+                {
+                    "appTitle": "Téléconsultation",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/covid-19-informations-aux-professionnels-de-sante/article/covid-19-et-telesante-qui-peut-pratiquer-a-distance-et-comment",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+
+                },
+                {
+                    "appTitle": "Recommandations sur la priorisation des tests diagnostiques",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/hcsp_sars-cov2-priorisationtestsdiagnostiques-2020-03-11-2.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/04e47871fb717f15cda4f998dc033bb73f7aa85869504f1f2d43f5819158b1e55ef4b4261dcb9a4c8ec1bd8dc69168847dc53b72b830d06276b1c2878fc1482d",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Proposition d’aide au choix  de traitements pharmacologiques patients en réanimation",
+                    "appTitle": "Arrêt de travail",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/patient-en-rea.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9e944371b9bc065dd55aaae3778525bee89d3223407e805239b9ea5a540f05811bc6bfd11728b297c2385bb0171e3bceeff83ec4119638cc959314834b9f10ec",
+                    "appLink": "https://www.mgfrance.org/actualites/2499-arrets-de-travail-dans-le-cadre-de-l-epidemie-covid-19",
+                    "appLinkAndroid": "",
                     "appCategory": ""
-                },
-                {
-                    "appTitle": "Recommandations thérapeutiques dans la prise en charge du COVID-19",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/recommandations-therapeutiques.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f00305349ba52b4a5eb9b4cd41ab253239c2953fec6f4c38abd79ce9a3c4294e5dba7a43b0f211f9bc82ceb9331e20bf8a5ac8f9efd72e1ee18ec2f76587a640",
-                    "appCategory": ""
+
                 }
             ]
         },
         {
-            "appTitle": "ANNEXES",
+            "appTitle": "Recommandations en établissement de santé",
             "appSubtitle": "",
             "isExternalLink": false,
             "appLink": "",
@@ -427,37 +142,365 @@
             "isHome": true,
             "appEntries" : [
                 {
-                    "appTitle": "Coronavirus - Veille biblio",
+                    "appTitle": "Anesthésie-Réanimation",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Recommandations d’experts sur la prise en charge en réanimation",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/Recommandations-PEC-en-rea.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9d89b7c04361436b967d5ec405629727044d8d38fb7978912a1701cf4a100a6d8272eadc5d6e66191fc9dc5a23cdbf6f1576fdf3d21b43f9e42fd317d52642f4",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Prise en charge des patients diabétiques à la phase aiguë d’une infection, en réanimation",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/pec-diabetique-rea.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/67ab9469525fc43186fc24abcc1bb355b9ea444aa481ee34ac46fa44a898d05424a243fabec43a6249bb41bd7b55b7446a2a0692a1ab884e576142422de75083",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Critères d’admission et modalités de prise en charge en réanimation en contexte pandémique",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://www.srlf.org/wp-content/uploads/2020/03/Critères-dadmission-COVID-19-CE-SRLF.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/7a18fe25b619e1f0031adacaf445684e2d4710eadd12336aafb1b4753bcde57f45304c7ba932b8d764e5b937967b3fe2865e8ce3d08fd690baea284d8cb2e23f",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Surveillance des cas de COVID-19 hospitalisés en réanimation",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/Surveillance-cas-rea.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/22347bf5bfef02829182d44a8410a3356822f8d66c764400b51d53e448c991f78c24b6a83b146ef9d136c2f5a67e1fd0a424f0dfa8147ec8a58df2839a4f3a0d",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Principe de gestion des voies aériennes",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://sfar.org/wp-content/uploads/2020/02/affiche-covid-19.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e15e1dee4aeaf819e2551685e5ce74f8decc0a783cb573006cfeb7a528ed40b619316d965407e1b8e2c4bfcd5aefe559c24c851a37487dc57929e412264817a7",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Utilisation des appareils de ventilation",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/Utilisation-appareils-ventilation.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/aa435f4dba460b8755406a18ab3b841259b3245bc11253511511b1834a5047358823f15add4930a24307e923daa8265ad0abab2f70d612ca01ffb0e02e3034c5",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Utilisation des appareils de ventilation",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/Utilisation-appareils-ventilation-2.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e91834e4508b66916e9c4775ce47a22e59e009ec3f51219e0027715e5ed8966295c93b91c3d05ef60747516049d3c38bca366e7f8a6140f2eaaab14bd8690e07",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Préconisations pour la ventilation en réanimation",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/Preconisations-ventilation-reanimation.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/332d1bb0083b6d787d96de6e1397ea4ee242560120a0013df20518b92ace961cc444bb5407b8714c6ac2c6b1edc0f4a90f820c4fd02230157a10eeb08d05a501",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Ventilation du SDRA",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/ventilation-SDRA.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2c7962ba84112fce8c478990a880aa35db75683cfadd65acdb42728c79ed008271c56e99b64eaf8c2e79ee9209f3b11311139e151d3a33fce7db9a040a83bc19",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Fiche mémo ventilation mécanique",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/fiches-memo-ventilation.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f77f96a3624e4156c0f6d98cca0cca27ec528ed73c5b940870f0237d951ce337e6dc7b04e418dd235c21e4991a3b9b3518b5f15bab032b7f5f6ee4dc012cb023",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Aspects éthiques et stratégiques de l’accès aux soins de réanimation",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/rpmo-ethique-rea-covid-19-vf-24-corr26-mar20-2.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ebe17e9fd4fe4d6a9c1f6a9a276d32a5962873b35c6b754002992708e3a49b5aaeca97e5b710529442a50fac3eb0e8c0457a59d3273d2f0dc7a4c2523c917d8e",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Principes d’organisation afflux massif",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/principes-organisation-afflux-massif.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/534bf2fdd84d75c1dd107d04c9d65bde77b3a848f4ae6b7632d549072c44c74bf700ca8ddd7c9ca1374eff9d106bea0b45b75e0d28365b4a6dd12c52444606a0",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Usage de l’ECMO pour les patients COVID +",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://www.srlf.org/wp-content/uploads/2020/03/RECO-ECMO-APHP-23-03-2020.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/346ab340fe34cb0968f1381e8f1e54a7c20bb2414155360f193b7a6bacdfa8aa006322e10a94b3e00c51cba4d104a787986ae04b9aa15caedd00aad3e0915b59",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
+                    "appTitle": "Cardiologie",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Prise en charge des patients atteints de maladie d’arythmie héréditaire",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/PEC-maladie-rythmique-hereditaire.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/85a91a0c3a9d5760306ca1ee0d3b3a4314231f4329e41ab2b48f3b5dd5ffec19a3b3e58ed66fbc636ad75b09bf12ec49f9a33ffb900f3a5fdf6a9c22724e093b",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
+                    "appTitle": "Gynécologie",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Prise en charge aux urgences maternité d’une patiente enceinte suspectée ou infectée",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "http://www.cngof.fr/component/rsfiles/apercu?path=Clinique%252Freferentiels%252FCOVID-19%252FMATERNITE%2B-%2BCOVID%252FCOVID-19-CNGOF.pdf&i=35659",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a50dfc3cb1c8aa792f229cddf6eeca634c3011d575d19497c3050ff17a206a580572669dbca5f0917cd96dbdacb6ea1620914dab8eade20b4d94de89917ee4d0",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "PEC chirurgicale des cancers gynécologiques en période de pandémie",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "http://www.cngof.fr/coronavirus-go-cngof/apercu?path=CANCER-COVID-19%252FCovid-19-cancer-Francogyn-CNGOF.pdf&i=35649",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a47815fd04345fbb7601aca6ae9699c1d4b0511b87a98d1065a66fbc9a46693ae64868e92acb7454f8c015f30a2c0c70f50cdcf2ccbe764c2b42f285276c9bfc",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Prise en charge AR patiente infectée ou suspecte en maternité",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "http://www.cngof.fr/coronavirus-go-cngof/apercu?path=MATERNITE%2B-%2BCOVID%252FPEC-COVID-maternite-CNGOF-CARO.pdf&i=35663",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c97a87f72877508325a04ac0d4403c29b3eda7bba54772dbab074b4ece5750d005b50a8554628e2c533c91c7ac80a21db93f4fa9dd51f28f014d0c37586f32c0",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
+                    "appTitle": "ORL",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Alerte anosmie",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://www.sforl.org/wp-content/uploads/2020/03/Alerte-anosmie-COVID-19.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ba77f67ecca792fa314e8e8ca20328f77d7f6151f1d662728f84ee6c03706cb246d81671ba3cf3caf6ef7a2c3a69c16e894964ca15c84735a124159f98d164fa",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Endoscopies et fibroscopies orl, chirurgie endonasale, tracheotomie et soins de tracheotomie",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://www.sforl.org/wp-content/uploads/2020/03/Alerte-Covid-19-Endoscopies-et-fibroscopies.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/509ee166374224df8bd763f646c0d89af7ca5939dbf2f7231ac3922411c6cb98fc4fadc486ed468d3fd29f0c869fb57b3a26209dc6c3408aa1a0da072b27826f",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
+                    "appTitle": "Oncologie",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Prise en charge patient atteint d’un cancer",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/patient-cancer.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/439d2e1a6180ba06fe6256870bb586d1b4c86fefc4b174db027951446e31317c3adae2a21d17322b1e5abc4de220f1efccf1c34313a75dd4a1830e8e3f318279",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
+                    "appTitle": "Pneumologie",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Prise en charge patient asthmatique",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/patient-asthmatique.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/fc6c3c5bf488d142f07271976a79b108d3dcf4aee1ac6b70d940d1d862dd96cfb38734a9f7b7109c39da8038fd5c33ccb824b5a791724494fff416048518e75a",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Précaution pour la réalisation d’une endoscopie",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "http://splf.fr/centre-de-documentation-covid-19/precautions-particulieres-endocopie-bronchique-splf-15-02-20/",
+                            "appLinkAndroid": "",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
+                    "appTitle": "Rhumatologie",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Réponse à donner aux patients sur le risque que constitue leur traitement face au COVID-19",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/actualites/information_coronavirus_17-03-20.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/958acdb78bf4f1df9463795724068594df3994f5f63becbdd991906915bc36b8a26cd8a0f30843b7d95c840ed4bac359569de4e1a47838a10ecd9071d0cae92f",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
+                    "appTitle": "Radiologie",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Point sur l’imagerie",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/communication-radiologie.pdf",
+                            "appLinkAndroid": "http://communication.radiologie.fr/HM?b=e2cHuTz1qzGKZDazaEkHjPc2573-BzTVWxuexuWnYZea6pq8Ed5TnqZXbbq0mEEa&c=mP0_Eyl8iUVYVukVuMPv9A",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
+                    "appTitle": "Urgences",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Prise en charge patient COVID-19, ou suspects en urgence",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://www.sfmu.org/upload/consensus/Reco_memo_Covid_SFMU%20SPILF_2020.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/06dd392dc7d3db57daac8f572506ad314e2cab8f415fcb028a28372552a94ee467fdf3c94b889802446f5b2034ef61387ccc09a698a8de01207366d6afa41eff",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Aide à la décision pour admission patients en soins critiques",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/aide-decision-admission-soins-critiques.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/facb304a15b26485cbf574dcd1c9ef671eb77aa32af39faf34db8d680c394a1602ed5b9e00354f1a932e39775520cd77cb825dad3d3c7cf15c86899acc064c0e",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
+                    "appTitle": "Traitements possibles",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "Recommandations thérapeutiques",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/recommandations-therapeutiques.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/1c30de1f02b4fe5ab3de9a098f641de4c0ccac48604d32f54e4ee63464f7c50224f8d0fc4a7d6b5129a415a42cc881b0ca79e4d4263e4eb366a3de79c9a43aff",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Proposition d’aide au choix des traitements pharmacologiques",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/proposition-d-aide-au-choix-des-traitements-pharmacologiques.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2ee37d53416d9453958d440a080f7acf93f8b2e5788285c7fcd48e7255647a2560524bbdf4d8827c08f6148be2f5993571868826ef5f9f4fef3d24ac9e0f508a",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Recommandations d’experts de la prise en charge thérapeutique en réanimation",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/patient-en-rea.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/808f1a492a75726f8216834b078283ce7137af6ea5376d79ceef4e29078a2c1ac51d7b9807df2e395aac38accfe597f88e78980f2b25e56c5d7f00d36d77c5cc",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Décret chloroquine",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "http://splf.fr/centre-de-documentation-covid-19/decret-chloroquine-2/",
+                            "appLinkAndroid": "",
+                            "appCategory": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "appTitle": "Veille épidémiologique",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Zones d’exposition à risque",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://supportcommercial.wixsite.com/website-33",
+                    "appLink": "https://360medics.com/assets/media/covid19/refonte/zones_exposition_risque.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/aa0e6895fa0851489be105473cc1964a7fe3e8996c8b57cb5c651c9e2a1b3b68961d9d1eb52b82ba56b57a77306dfbb80d913996ea5bcc12bd4724c6471c4983",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Coronavirus - Liste établissements habilités",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/esh-covid-19-ars-coreb-25fev20.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/060ba6be2884b600eb38ba67dc3f059498a6d6b9beceade1ec9ddb0ba50679a8d45382cd1b03d7fc5b4ea25c42f447c928768d10f4b12db2e00a90f0f1187b62",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - DGS-urgent - Formulaire d'inscription",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/inscription.do?cmd=inscriptionFormulaire",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Guide de préparation à la phase épidémique COVID-19",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/guide-covid-19-phase-epidemique.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/81221aa444317f07621327e41ee38d08229363b39a1e9560c658af65c8c68e40a441df5cc3ca7cbf4283aa484c6426bf80b4f412044ea53c0faae32bc9866f5e",
-                    "appCategory": ""
-                },
-                {
-                    "appTitle": "Coronavirus - Évolution COVID-19 en France",
+                    "appTitle": "Evolution COVID-19 en France",
                     "appSubtitle": "",
                     "isExternalLink": true,
                     "appLink": "https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/827bdf56850d4e3cbeb487cab677ca84",
@@ -465,19 +508,27 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Coronavirus - Point épidémiologique SFAR",
+                    "appTitle": "DGS-URGENT Formulaire d’inscription",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/le-masque-et-la-plume-22-03/?wpdmdl=25600&refresh=5e78b35d7191c1584968541",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/151e84507994ec1251e405bf25b6c3d206cd266207262205cc52ae9242fee2e5efa426626bd1d5b8fefbe9798b0545a2520578ee801a7a2e3a805b36fefa0dad",
+                    "appLink": "https://dgs-urgent.sante.gouv.fr/dgsurgent/inter/inscription.do?cmd=inscriptionFormulaire",
+                    "appLinkAndroid": "",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Coronavirus - Filtration sur le circuit des ventilateurs en contexte de ventilation pour Covid-19",
+                    "appTitle": "Veille documentaire",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://sfar.org/download/tout-ce-que-vous-devez-savoir-sur-les-filtres/?wpdmdl=25571&refresh=5e74a5b6a8a881584702902",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/4213786e5474cfb44f9b58641955e92d887c99d5c7a87fbb06b14661431324f67f6aec64b7b3e200aef2e471377698b678282de8840ca58005bb4d7024621490",
+                    "appLink": "https://supportcommercial.wixsite.com/website-33",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Base documentaire",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "http://covid-documentation.aphp.fr/",
+                    "appLinkAndroid": "",
                     "appCategory": ""
                 }
             ]

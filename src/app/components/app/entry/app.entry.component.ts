@@ -50,9 +50,15 @@ export class AppEntryComponent implements OnInit {
             let target = '_blank';
 
             if (!this._deviceDetectorService.isDesktop()) {
-                finalLink = 'medics://viewer?m_source=' + this.appLink;
-                target = '_self';
+                if (this.app.isInApp) {
+                    finalLink = 'medics://application?m_source=' + this.appLink + '&m_open_in=INTERNAL_WEBVIEW';
+                    target = '_self';
+                } else {
+                    finalLink = 'medics://viewer?m_source=' + this.appLink;
+                    target = '_self';
+                }
             }
+            console.log(finalLink);
             !this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
         }
     }
