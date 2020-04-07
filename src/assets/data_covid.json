@@ -252,6 +252,22 @@
                             "appLink": "https://www.srlf.org/wp-content/uploads/2020/03/RECO-ECMO-APHP-23-03-2020.pdf",
                             "appLinkAndroid": "https://360medics.com/driveViewDocument/document/346ab340fe34cb0968f1381e8f1e54a7c20bb2414155360f193b7a6bacdfa8aa006322e10a94b3e00c51cba4d104a787986ae04b9aa15caedd00aad3e0915b59",
                             "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Priorisation des traitements de réanimation pour les patients en état critique",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/priorisation-des-traitements-de-reanimation-pour-les-patients-en-etat-critique.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e1b93cf216a37f569f2599a31ed724df6cbf3fdc047288ebabf9623953c3a689d8b5d49e9baddd601e43ca6879db6c1b4f4f9f15e85b3474328a33d203829dbc",
+                            "appCategory": ""
+                        },
+                        {
+                            "appTitle": "Traitement anticoagulant pour la prévention du risque thrombotique chez un patient hospitalisé",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/traitement-anticoagulant-pour-la-prevention-du-risque-thrombotique.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/280f697ba098d88586bf94719b26268e92f9ae063a20f467e50e2bde5eb27083196673152674d5eb3f4810a0209ac43bcd5e4fc447c7ddf53bf02fa106d0c3cd",
+                            "appCategory": ""
                         }
                     ]
                 },
