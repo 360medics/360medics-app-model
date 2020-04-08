@@ -37,14 +37,6 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Informe técnico",
-                    "appSubtitle": "MSCBS",
-                    "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200306_ITCoronavirus.V2.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/6734d6470523b861b2c107977a982e0ba987c5011f720cb4de6759924ba01b304aa67e153ea4499ac295aafacc597f040c79e27212223e7471e64fe0e9250f3c",
-                    "appCategory": ""
-                },
-                {
                     "appTitle": "Orientaciones para comunicar sobre la enfermedad",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
@@ -179,6 +171,14 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "MEDIDAS DE PROTECCIÓN RECOMENDADAS PARA LOS TRABAJADORES EN FUNCIÓN DE LA ACTIVIDAD LABORAL",
+                    "appSubtitle": "Salud Madrid",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/03/PROTECCION-TRABAJADORES-ATENCION-HOSPITALARIA-COVID.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e2ca54cb2dde2819e3b9d1f0c65b3144f11a0642d88330e854ea2e0eff0380e983c282ceefca9cc3b8dfe12fccb2d100e729c6b330557b7417cee14c6da48469",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Especificaciones técnicas de dispositivos médicos para la gestión de casos",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
@@ -307,7 +307,7 @@
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Protocolo_Personal_sanitario_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/540458e54d488b783893140ead6b36d3c1a5f9bf996aaa0a2f229c560b2a37ad097703a0b201fc79415b5ece9fc6a88da77c420304e0feceb71f8f3db28c4481",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/99cf8014bd5bcf43b96cbecd4391e0896f61bbd5ea7c6e3b708582e4e3d6df476dddf2460e99e3df06364ea1b4dbe8d86b73605357098f7878463be684dccf35",
                     "appCategory": ""
                 },
                 {
@@ -315,7 +315,7 @@
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Procedimiento_COVID_19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f2376f098463d15ba24d35d9074fb6f8c077c25e831e6a914058b7ad585ebcbdb482bb7bbcb5b2d5df418aa1a31e4e4562793dc89d6a14aadddb773f3196be21",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/086dfa1051f6e06cbcea6fa5d32bb918e4ebd67b085a19e69050770f1c183a6f4f3b8feebe0a6dab7b6d6ccae353bc36b485b2539cf66cc1b2fb9e7d49360566",
                     "appCategory": ""
                 },
                 {
@@ -370,8 +370,8 @@
                     "appTitle": "INFORMACIÓN CIENTÍFICA-TÉCNICA - Enfermedad por coronavirus, COVID-19",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200326_ITCoronavirus.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d6a82873693deeeb6ce62771596f0ed9fc4991ccf45975e1d69e37c406f2609cf433aadfa321d002a9ac65b16086797bce0db81641a4864551da15953d451021",
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200404_ITCoronavirus.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/089e66e4f3f2c80c07121d10d3a1abe66ca3a5f4874cd6320ed27693fd1cd6045e3cf257308aa26c60116d23317173f0efa58133bae984f0b6aefd03f8c95c64",
                     "appCategory": ""
                 },
                 {
@@ -448,6 +448,22 @@
                     "isExternalLink": true,
                     "appLink": "https://www.semfyc.es/wp-content/uploads/2020/03/Criterios-SARS-COV-2-20200320.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/50fd97259c1a2e3de2d5c3fdc791373ababd2ce8aa13089fd158fe7e89824f64566db4f772ac49e44ccf4a6e458052e5b4ec32dc4c8f0afe378722dbd9861135",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Atención Primaria en epidemia por COVID-19",
+                    "appSubtitle": "Asturias - Consejería de Salud",
+                    "isExternalLink": true,
+                    "appLink": "https://www.astursalud.es/documents/31867/973308/Infograf%C3%ADas+AP+general.pdf/f780e8b8-e49c-88c1-7560-13bccaedaec3",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/69c208c07482a295ce31b13022e1d58d53e45eba4bea6e5078ad09b65767908336932c186baf8b23097c37d440a9459fe706a0f6c01bbe3416c66f56aed7add2",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para el manejo del EPOC en el contexto de pandemia por el COVID-19",
+                    "appSubtitle": "SEMFYC",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/04/EPOC.pdf.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/6ac577840f10918d97cbe4ee7ec1a86e28fe09cf2fc68fe005e9fffe618d05e80c23cf3e7e098a42af1008722a2b6651558014b726c0ccdc08931ecdf707ba9e",
                     "appCategory": ""
                 },
                 {
@@ -644,6 +660,14 @@
                     "isExternalLink": true,
                     "appLink": "https://www.portalfarma.com/Profesionales/campanaspf/Asesoramiento-salud-publica/infeccion-coronavirus-2019-nCoV/Documents/infografia-microformacion-infeccion-coronavirus.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/240eb08eb7c5cb272b21935cceba5989cd9b0c1bc2977d9b7070e505cf5afe3b2fc4eb29569b15e974a6625658edd90a3ab8b194f241c0792e763c0f25433a93",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "PROCEDIMIENTOS DE FARMACIA HOSPITALARIA PARA LA GESTIÓN DEL TRATAMIENTO CON ANTIVIRALES",
+                    "appSubtitle": "SEFH",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sefh.es/fichadjuntos/200319Procedimientos_SEFH_COVID_19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/b419a422e296f5c3e5f46155a51de30b10b3e7c25ff394b3a96b10849297ac1016708c2684abe43e16ef0dabc0a4a38e65341f2df39de6d4e1fcf7e865fa9f89",
                     "appCategory": ""
                 },
                 {
