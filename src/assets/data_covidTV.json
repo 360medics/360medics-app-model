@@ -753,6 +753,69 @@
             "isExternalLink": true,
             "appLink": "https://www.youtube.com/watch?v=imOAdS43hq8",
             "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Point Hebdo",
+            "appSubtitle": "SFAR 03/04/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=BSHznUTEjfo",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Gestion des immunosuppresseurs chez les patients greffés rénaux Covid+",
+            "appSubtitle": "SFAR 03/04/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=gKGUQpbFb9s",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Dernières nouvelles de l'IDF et retour d’expérience sur la sédation des patients ventilés",
+            "appSubtitle": "SFAR 03/04/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=bD3F1odSEWA",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Faut-il faire ou non de la VNI chez les patients atteints par le COVID-19 ?",
+            "appSubtitle": "SFAR 03/04/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=HX3b8vX1Qkc",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Toxicité des Traitements, Mortalité",
+            "appSubtitle": "Pr. Raoult - IHU 24/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=GFkUnJ46MVI",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Procédure de désinfection des protections oculaires lors d'une pandémie",
+            "appSubtitle": "CISSS Laval 24/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=7YDn-1YKkDo",
+            "appCategory": "Procédures"
+        },
+        {
+            "appTitle": "Est-il nécessaire de refaire des prélèvements avant de lever l’isolement ?",
+            "appSubtitle": "Pr. Saad Nseir - SRLF 7/04/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=uzM_2GUowuE",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Les gants, utiles mais pas tout le temps",
+            "appSubtitle": "APHP 7/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=Vf04HvixV10",
+            "appCategory": "Parole d'expert"
+        },
+        {
+            "appTitle": "Prendre soin de mes mains",
+            "appSubtitle": "APHP 7/03/20",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=i73QcV5YIiM",
+            "appCategory": "Procédures"
         }
     ]
 }
