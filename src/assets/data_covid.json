@@ -368,6 +368,24 @@
                     ]
                 },
                 {
+                    "appTitle": "Pédiatrie",
+                    "appSubtitle": "",
+                    "isExternalLink": false,
+                    "appLink": "",
+                    "appLinkAndroid": "",
+                    "appCategory": "",
+                    "appEntries" : [
+                        {
+                            "appTitle": "ECMO chez l’enfant en situation de pandémie COVID-19",
+                            "appSubtitle": "",
+                            "isExternalLink": true,
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/covid-19-ecmo-chez-lenfant-en-situation-de-pandemie-covid-19.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/4743fd33604e934a1c8d922cf6d386b650452c3f364321f8aa50be54f7f99b62748f458351e6c0076bf837f09695fd29c0803458a2994d24d5b310001b6bf645",
+                            "appCategory": ""
+                        }
+                    ]
+                },
+                {
                     "appTitle": "Pneumologie",
                     "appSubtitle": "",
                     "isExternalLink": false,
