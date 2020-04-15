@@ -30,9 +30,9 @@
             "appEntries" : [
                 {
                     "appTitle": "Situación actual - cifras",
-                    "appSubtitle": "Organización Mundial de la Saludo (OMS)",
+                    "appSubtitle": "WHO",
                     "isExternalLink": true,
-                    "appLink": "https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd",
+                    "appLink": "https://who.sprinklr.com/",
                     "appLinkAndroid": "",
                     "appCategory": ""
                 },
@@ -203,6 +203,14 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Componentes del equipo de protección individual recomendados p",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://coem.org.es/media/news/pdf/EPIs_Ministerio_trabajo.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/6897e0aa573ba60666b6171de721d7ee84c2943c8c00b0b491575dc263156effd149d0983c99c5f4421db3b1a2c159c34c679c7ab45dc6d3d70f086307bd43fa",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Higiene de las manos",
                     "appSubtitle": "Colegio Oficial de Enfermería de Granada (CODEGRA)",
                     "isExternalLink": true,
@@ -307,7 +315,7 @@
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Protocolo_Personal_sanitario_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/99cf8014bd5bcf43b96cbecd4391e0896f61bbd5ea7c6e3b708582e4e3d6df476dddf2460e99e3df06364ea1b4dbe8d86b73605357098f7878463be684dccf35",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/254da4eeaedb0f50bc967f97cdfb832b09e33c69265cdb5a5843866458835e995e24a475aeb6af2bd978f30266bbadacf6cfd6e3d9177d82064ade35a3cef52a",
                     "appCategory": ""
                 },
                 {
@@ -315,7 +323,7 @@
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Procedimiento_COVID_19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/086dfa1051f6e06cbcea6fa5d32bb918e4ebd67b085a19e69050770f1c183a6f4f3b8feebe0a6dab7b6d6ccae353bc36b485b2539cf66cc1b2fb9e7d49360566",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2d1d937facac2d8c50589490d111ad054a39d0da95e256a436071974d2799c94635aa56e0f71c8eabcb05dde4616674c7b446c2136de0e5c82a0f8a0ed653246",
                     "appCategory": ""
                 },
                 {
@@ -388,6 +396,14 @@
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_cadaveres_COVID-19.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0260028b236efedcb33acdd074e573a9bb8308a165ea4dab53000f8f014147f522dfc3d944fc5d61b34ee53cfab66e1df7b8e09bc8ce9d6dc82151f03cf0e81b",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "GUÍA PARA LA UTILIZACIÓN DE TESTS RÁPIDOS DE ANTICUERPOS PARA COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Guia_test_diagnosticos_serologicos_20200407.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/21836d8f4243bc9b30f7f92212daf3e2155718f5b34ae13002466b7c84a7dce48cdf500eff018d2a6f02a0683fa63a1a4071c6e967f089de41e49a9dd50deda2",
                     "appCategory": ""
                 },
                 {
