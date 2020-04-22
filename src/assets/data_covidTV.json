@@ -312,6 +312,34 @@
             "isExternalLink": true,
             "appLink": "https://youtu.be/N0XWIVixMmg",
             "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Medicina Intensiva y COVID-19",
+            "appSubtitle": "SEMICYUC 15/04/2020",
+            "isExternalLink": true,
+            "appLink": "https://semicyuc.org/covid-19-sesiones-virtuales/",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Inmunología en el COVID-19",
+            "appSubtitle": "SEI 6/04/2020",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=3AhHibEPge4&feature=youtu.be",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Webinar 'Salud del niño y el adolescente en tiempos de la COVID-19'",
+            "appSubtitle": "AEP 1/04/2020",
+            "isExternalLink": true,
+            "appLink": "https://www.youtube.com/watch?v=qpcvS70AC1E&amp;feature=youtu.be",
+            "appCategory": "Palabra de experto"
+        },
+        {
+            "appTitle": "Especial CovidWarriors & ITA",
+            "appSubtitle": "Epidemixs, 04/04/2020",
+            "isExternalLink": true,
+            "appLink": "https://digimevo.mediaspace.kaltura.com/media/EPIDEMIXS+-Especial+CovidWarriors+&+ITA+-+Episodio+05/1_9lsz13ty",
+            "appCategory": "Palabra de experto"
         }
     ]
 }
