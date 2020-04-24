@@ -67,6 +67,14 @@
                     "appLink": "https://www.srlf.org/wp-content/uploads/2020/03/2020-03-11_Protocole_Covid19_SurvCG.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a37233f3bb9728c326468e69f5897060b97f2a393f2a8177d41c3363921b023cbf285dd90db3ff8193ef83d2954ff51c9e8ccbab3b3d7e1bb6ac106c768cb923",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Prise en charge des personnes en situation d’obésité",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/fiche-obesite-covid-19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/880660eeb66a9ea7c7d0344293555c45d62675aaf395a108273157d9196b779dfa20ed4ee53bd5ac513fb2bc67032836be33b05e9d9f4804c3aaa4d0f1bea993",
+                    "appCategory": ""
                 }
             ]
         },
@@ -102,6 +110,24 @@
                     "isExternalLink": true,
                     "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/prise-en-charge-had-covid-19.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/06796956636e7059a70af67d576caa0f99657e94c9aa8ec73949556c9e091e3689af2a8073f895eeeb61623f3de42a969d73cdfcb9fd988ed49d019be0dfee57",
+                    "appCategory": ""
+
+                },
+                {
+                    "appTitle": "Prise en charge des personnes âgées à domicile hors EHPAD",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/fiche-strategie-pa-a-domicile.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/817963da40e84a23e191385a22d6cef8ac00f2fdfc4f992bcfc5b06e1f30fa9f96132c60d810451a8c5c9f533c5d020ccdfcf0cba4c80115e036591ec146d14e",
+                    "appCategory": ""
+
+                },
+                {
+                    "appTitle": "Prise en charge des patients post-COVID-19 à domicile",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.has-sante.fr/upload/docs/application/pdf/2020-04/388_reponse_rapide_covid19__mpr_srr_mel.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e06d0972eccf347804b564fefe7957e490e035b7de52ade94e2c5f480eeef7f4decd825ce4297cea3bbbb76624aa0a75ba594f49dc039a0ec928195959a5e64f",
                     "appCategory": ""
 
                 },
@@ -257,8 +283,8 @@
                             "appTitle": "Priorisation des traitements de réanimation pour les patients en état critique",
                             "appSubtitle": "",
                             "isExternalLink": true,
-                            "appLink": "https://360medics.com/assets/media/covid19/refonte/priorisation-des-traitements-de-reanimation-pour-les-patients-en-etat-critique.pdf",
-                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e1b93cf216a37f569f2599a31ed724df6cbf3fdc047288ebabf9623953c3a689d8b5d49e9baddd601e43ca6879db6c1b4f4f9f15e85b3474328a33d203829dbc",
+                            "appLink": "https://360medics.com/assets/media/covid19/refonte/Priorisation-traitements-rea-pour-les-patients-en-etat-critique.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/607fea6925d2f487eb954fe60776d8f23a6d3c3d791cb7c4c0d5f37cdda9cdf400294084391abe1cac5001e7fcf2d388e1767c349be193d0566db026e6d2f265",
                             "appCategory": ""
                         },
                         {
