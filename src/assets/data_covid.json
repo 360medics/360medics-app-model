@@ -71,7 +71,7 @@
             "isHome": true,
             "appEntries" : [
                 {
-                    "appTitle": "Lista de verificación de alistamiento",
+                    "appTitle": "Lista de verificación de alistamiento - servicios de emergencias médicas prehospitalarias",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
                     "appLink": "https://360medics.com/assets/media/covid19-es/LISTA-DE-VERIFICACIÓN-DE-ALISTAMIENTO.pdf",
@@ -87,23 +87,23 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Lista de verificación de alistamiento",
+                    "appTitle": "Lista de verificación de alistamiento en hospitales",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
                     "appLink": "https://360medics.com/assets/media/covid19-es/LISTA-DE-VERIFICACIÓN-DE-ALISTAMIENTO-HOSPITALES.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/cf6990b6d98e9d2185b8cf4310922141100b2ff59b3db0e816de1be4f531d2fbc4549d7a394e2df1125a48f206c9db0f107a06144e0719d96e46e11e04fed9df",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/92460263b9454265f49013693bad60a5f13badbdf28f3352777b34e61a71a10c9461bed63f4cdb0244304a0102d34b758642c857a89e513c396d028c0acfb22b",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Formulario - Lista de verificación de alistamiento",
+                    "appTitle": "Formulario - Lista de verificación de alistamiento en hospitales",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
                     "appLink": "https://360medics.com/assets/media/covid19-es/FORMULARIO-LISTA-DE-VERIFICACIÓN-DE-ALISTAMIENTO.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/8ebc084c1fe155f571e630b64fcc61742c3a6a415e9821ccf6aac97ac28d5c23f9e58fd9d54fffb23e8e547e2b55089dc118a98fa4e513194091a79d860f7b64",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/5abeef711579a684e488d726a5946eea2043a60f8446c43fef55b7599688bf5208dea8eac5e9e13d514459b9ae23c3a5f64521c1e723d88fe2d518c10b2a6e80",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Instructivo de la lista de verificación de alistamiento ",
+                    "appTitle": "Instructivo de la lista de verificación de alistamiento - servicios de emergencias médicas prehospitalarias",
                     "appSubtitle": "Pan American Health Organization (PAHO)",
                     "isExternalLink": true,
                     "appLink": "https://www.paho.org/es/documentos/instructivo-lista-verificacion-alistamiento-para-respuesta-al-covid-19-sem",
@@ -121,19 +121,11 @@
             "isHome": true,
             "appEntries" : [
                 {
-                    "appTitle": "Manejo clínico del COVID-19: tratamiento médico",
-                    "appSubtitle": "MSCBS",
-                    "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Protocolo_manejo_clinico_tto_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c0533fc5638da5c58a6d575f958e70d765f938e7faaa4d1723588a607ae061b43b2d7beaa1ce1927863a6f6aeee7d45c8ec8a3fa71537d06753e4e3ffc216807",
-                    "appCategory": ""
-                },
-                {
                     "appTitle": "Productos virucidas autorizados en España",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Listado_virucidas.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e730c32034b2443e41bd690a3eddd577f4cf6500733b63ca007c938c8b2c10d635e8feb26ca93f2e54d53f5aeee63640ac5959dda66522002dd30ecbf6658e6d",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/04fddcfb510933e42364c8499d51b829ca5b40bf91546242b3347f24af300d4b2f9c0b3ff0ce894c7bc409577dba2e443cd120c1d90c05440a742738fc60b28d",
                     "appCategory": ""
                 },
                 {
@@ -141,7 +133,7 @@
                     "appSubtitle": "Hospital La Fe",
                     "isExternalLink": true,
                     "appLink": "https://1a7dc97d-1841-4385-a0ea-a6824f645418.usrfiles.com/ugd/1a7dc9_96b42d1f577a457699819c3009851999.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c3849b42ae6d52072bc69c9ffcc42b07537cd48094236dbfbd1b161fcb75b8b1493bc045d94b7e9505fb9a7a57be7cf6bc2050637753ca6c1d80c58cd05f8083",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2196eb8857a781eed96f8cbb8681b2f9b3cb8640aefa95e75d7bda61af55224c4cfe8c5a807c479ae534dadf5915f67a8a29172dd147dc68a236e66c9462b459",
                     "appCategory": ""
                 },
                 {
@@ -191,7 +183,7 @@
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Documento_Control_Infeccion.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/17ed12f31f17dc2c6c1ca9cd3730f0037ea6e15014d59ee3a83ca37e0bbea6276bdcc2af319e77fef219ca1d72c84a11ede9fe5c8231a642fde7d7c6c264ba00",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2e95228e81591c1ff2860407b9e97dcdeb3596c5455c4a08601b02382ef3f0cd6a273bf41243a008d5645a24bb565e81df7241ab21c4fe37c95e19913aa81e98",
                     "appCategory": ""
                 },
                 {
@@ -203,11 +195,19 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Componentes del equipo de protección individual recomendados p",
+                    "appTitle": "Componentes del equipo de protección individual recomendados",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://coem.org.es/media/news/pdf/EPIs_Ministerio_trabajo.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/6897e0aa573ba60666b6171de721d7ee84c2943c8c00b0b491575dc263156effd149d0983c99c5f4421db3b1a2c159c34c679c7ab45dc6d3d70f086307bd43fa",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "RECOMENDACIONES SOBRE EL USO DE MASCARILLAS EN LA COMUNIDAD EN EL CONTEXTO DE COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Recomendaciones_uso_mascarillas_ambito_comunitario.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d6cc1208c5b5faf9b7662b9e3bacb8b0adfa7518c05d71d58e4e7c91ed8bbf621673d31b40303a1e5a3037b4e89fabd8030e6b8a32ef9f706627d72629bdc726",
                     "appCategory": ""
                 },
                 {
@@ -231,7 +231,7 @@
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Medidas_higienicas_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ebf126fa28a590f4227583f05492b1e07a9fc29bac2d7f0ef56ea0d1b3918a9c8f3d93fdeca7d66e56f1d95fbcc302df2116c9cf2f6e9bcf0d7d77981e698240",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/635697a266f7894ddc359c4ba75c81ac9fd41a9d1bf7062ca7ea9f50b44bf630580ba929c7cb361e0d043a60364a4f5593bb95c437e37f8f0f92eb3f4f6d636f",
                     "appCategory": ""
                 },
                 {
@@ -239,7 +239,7 @@
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Procedimiento_limpieza_viaria_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/89ec8e703185967ef4f1bb0fddb740762a19f047d482385a185897a6fd9339ded60f4f37c753a01c2c22fcbe6b0ec1564cf4d30fcd1b74a55d78c1a55a1f1faf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/dc1b922580fda92a8b35bb2abb5486535be8ff42602390ce7e61c5287d95a7b81adc6757272b2c969bc70f4b9de3ad1be60d571a0b428bbce1051926ae1396be",
                     "appCategory": ""
                 },
                 {
@@ -378,8 +378,8 @@
                     "appTitle": "INFORMACIÓN CIENTÍFICA-TÉCNICA - Enfermedad por coronavirus, COVID-19",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200404_ITCoronavirus.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/089e66e4f3f2c80c07121d10d3a1abe66ca3a5f4874cd6320ed27693fd1cd6045e3cf257308aa26c60116d23317173f0efa58133bae984f0b6aefd03f8c95c64",
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200417_ITCoronavirus.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/6d7d8ba94bce1e395fe88a07f5eb8e4ed7cf2a4018a1fa7fd81411eb91e5c4250d98a0bb9eebc01aaf39c9a986f7427dc2c8a07a174c2641e831a7727eb664c1",
                     "appCategory": ""
                 },
                 {
@@ -395,7 +395,7 @@
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_cadaveres_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0260028b236efedcb33acdd074e573a9bb8308a165ea4dab53000f8f014147f522dfc3d944fc5d61b34ee53cfab66e1df7b8e09bc8ce9d6dc82151f03cf0e81b",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9d96f42b6b342c7fd7435e00b99c5252c53a17b10000fd4ae9ff33fbf5dad826a40b22a78c8cc6f15d2233219b876470bf9b7927bf38bee25de2b05cd194346c",
                     "appCategory": ""
                 },
                 {
@@ -438,6 +438,14 @@
                     "isExternalLink": true,
                     "appLink": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/sites/default/files/sincfiles/wsas-media-mediafile_sasdocumento/2020/Recomendaciones_Residencias_Centros_Sociosanitarios_22032020.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/1e9dec6dc6b5c6624fc1a416a8e29efe01781fbffd86fe2dec9b89588b20c6293651a7df813090f0fdc4f0db454815e05e2f6f6a2ee43c849a1ab840ddffb4bd",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Coronavirus en el paciente mayor: una emergencia geriátrica.",
+                    "appSubtitle": "SEGG",
+                    "isExternalLink": true,
+                    "appLink": "https://www.segg.es/media/descargas/Documento_Cardiologia_Geriatrica.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/81c8d2b925f94590c67b2477de20f8a222cbe3c43d3c2993049a0a87514ef0d95f580fb3bd96c868f612961655ecbc4ac8aecb356e7cebd8206764cb9f10d68f",
                     "appCategory": ""
                 },
                 {
@@ -531,19 +539,27 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Manejo pediátrico en atención primaria del COVID-19",
-                    "appSubtitle": "MSCBS",
-                    "isExternalLink": true,
-                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_pediatria_ap.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/df8c5fc8863c63c15573f34a6bcd910bd5d8e158bb35ad72e99ea2ee40232788f1f551ef54dcc2a313a0ba48366940dbc73b24c38d696dbceca3b6556ca28415",
-                    "appCategory": ""
-                },
-                {
                     "appTitle": "Manejo domiciliario del COVID-19",
                     "appSubtitle": "MSCBS",
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_domiciliario_de_COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e6da353a29a69a8ebbff1e0297d349be0d9d9468d0992c96e9e72c3bc44a96beb03366f2af872e3e01f0353411ab66ad99e7b70739c7ea2e0e877709eb30a750",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/6a728927c6efcc68567ef07f9b92789a7ab596d6f367a0ec71da182fe24b7906b6d6d47a83b05eb2dd0139dc38f37e98c7338d56a0b815abca2f310806751b6b",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Diagnóstico y pautas de seguimiento telefónico en Atención Primaria de personas con síntomas respiratorios",
+                    "appSubtitle": "SEMERGEN",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/04/Seguimiento-sintomas-respiratorios-Final-semergen.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/203c67fa263fe0e5e6d18aeee928a34b8a418057ef7818f20dbef63821040098990d86d6a98a258013fd8e43c4bebdd4d6d9800105cc9568c507ae4d616e3e76",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Dudas razonables y certezas",
+                    "appSubtitle": "SEMFYC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.semfyc.es/wp-content/uploads/2020/04/COVID19-semFYC-14_04_2020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/0bfeb60d875ba1e86560affd28f1d01985b90754527712a837ee1a290975599d87d9f38cfb42010e8b8fb7d91cad3d05d5ad34691babe43e32dca64bca92b7d3",
                     "appCategory": ""
                 },
                 {
@@ -626,6 +642,22 @@
                     "isExternalLink": true,
                     "appLink": "https://www.sedar.es/images/site/BIBLIOGRAFIA_COVID-19/UCI/PRTC_HU12O_Guia%20actuaci%C3%B3n%20UCI.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/65c52288e13432024e8e3661149f8a0f04ba7f58f05c0ec00ee8b5bb95f470a608fce4f6140287358fd58b4e060dc0488764d36824c9d6b8005f93116e8a3d18",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "ALGORITMO DEL TRATAMIENTO NUTRICIONAL EN PACIENTES CON COVID-19 ",
+                    "appSubtitle": "SEMICYUC",
+                    "isExternalLink": true,
+                    "appLink": "https://semicyuc.org/wp-content/uploads/2020/04/SEMICYUC-GTMYN-ALGORITMO-TRATAMIENTO-NUTRICIONAL-COVID19.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/95845c67b52bade49f6ed2eff1f7886d5d86d14b788c6296210bf28cde9408a6b473283740bc2633513af4617fa3de817b19f6bcb0e5b1ac72c65a4337bb7691",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones de “hacer” y “no hacer” en el tratamiento de los pacientes críticos",
+                    "appSubtitle": "SEMICYUC",
+                    "isExternalLink": true,
+                    "appLink": "https://semicyuc.org/wp-content/uploads/2020/04/hacer-nohacer-aceptado-web.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d5f522a7c8ce57265230be8da4324a28e46e5726f0aa6fef3eea7ac9099abccea912ec3bb039c1cd4782d38e66f0a29f56890039c307a2723ccc20d4b3811ec0",
                     "appCategory": ""
                 },
                 {
@@ -754,6 +786,136 @@
                     "isExternalLink": true,
                     "appLink": "https://www.consejo-fisioterapia.org/adjuntos/adjunto_96.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e23e3f98ab0a927eb9849a895e92ac73216a232c31b66b13652d07da912ea0997bf7ec26894131b156797e40557067f3c0e5461e6de626b2937fedad269e5d1f",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "COVID-19 en Neurología",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Manual COVID-19 para el neurólogo general",
+                    "appSubtitle": "SEN",
+                    "isExternalLink": true,
+                    "appLink": "http://www.sen.es/attachments/article/2677/Manual_neuroCOVID-19_SEN.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/391f4e9cebc36dbe9bc2cbc4c950c4c16700b4c74526bb4ab89515d62e07b002f0480f8fe2923bf097de030e4ae19e2862ced8df9cbf950586b98f3e23cde557",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "COVID-19 en Pediatría",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "RECOMENDACIONES DE TRATAMIENTO ESPECÍFICO EN CASO DE INFECCIÓN RESPIRATORIA POR SARS-CoV2 EN PACIENTES PEDIÁTRICOS",
+                    "appSubtitle": "AEPED",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aeped.es/sites/default/files/protocolo_seip_aep_secip_trata_miento_especifico_21.03.20.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f75d581385676bac4a125dfecb2c300e09da954b7e059c41678e739a443efe823c1c44f42418b66870d3d5f6f0a2eab16beff90482c2ca1da48ee9a54ce4d096",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para niños y niñas con trastorno del espectro autista",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/img/COVID19_Cartel_TEA_20200410.jpg",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Webinar 'Salud del niño y el adolescente en tiempos de la COVID-19'",
+                    "appSubtitle": "AEP",
+                    "isExternalLink": true,
+                    "appLink": "https://www.youtube.com/watch?v=qpcvS70AC1E&feature=youtu.be",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo pediátrico en atención primaria del COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_pediatria_ap.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/819bb9d8ebe5d37b4531251c34d8ffc0b39217d6feddfbc234fead5645c4ca0f4944bb55fbad8a20e3189038f726c101bb0123ff8a01cb4bdbe2196e714456bb",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "COVID-19 en radiología",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "RX DE TORAX",
+                    "appSubtitle": "SERAM",
+                    "isExternalLink": true,
+                    "appLink": "https://seram.es/images/site/TUTORIAL_CSI_RX_TORAX_COVID-19_vs_4.0.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c34149807d79dc269bf71c9491212f316e6acfeafe9c97da1541366a20c82dd7cc3ce5537f7fcddac05cfe3c7524eba3b8e7cbb93e929e398b211b2669c967dd",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Para entender cómo y cuándo pedir las pruebas de imagen en la infección COVID-19",
+                    "appSubtitle": "SERAM",
+                    "isExternalLink": true,
+                    "appLink": "https://seram.es/images/site/Comprender_el_diagno%CC%81stico_de_COVID-19-V2.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/47fd2a52b818876bf7ad73bb4c710dbc71beb826b70545fc1801d2b2c003ba7e30cc69040f0795cde6b0fde03b37462fc136bbcd2fe659fdba2156a40b1d4594",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "COVID-19 y transplante",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "RECOMENDACIONES PARA LA OBTENCIÓN DE PLASMA DE DONANTES CONVALECIENTES DE COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/COVID-19_RecPlasma_donantes.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/83f91855cf7614a61e9228ffbc8b475fa5196c8e4c301439e55f277ddd9e4e57ce1fc21f20c004916558b61381811526da7d2057a56d56dc9f9a29372dd4cc8d",
+                    "appCategory": ""
+                }
+            ]
+        },
+        {
+            "appTitle": "COVID-19 en cirurgía",
+            "appSubtitle": "",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "isHome": true,
+            "appEntries" : [
+                {
+                    "appTitle": "Manejo quirúrgico de pacientes con infección por COVID-19",
+                    "appSubtitle": "AEC",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/covid19-es/Manejo-quirurgico-de-pacientes.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/5d740b2d64fdb0b75b9926ddd766c463ac4a0cae7574bd738c7f9ec8276ad1c14e778c5ccafcf98c0302387e3b731b506966cc5c4c279da9fae35ae016bca8f7",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "CASOS DE PATOLOGÍA ONCOLÓGICA EN EL CONTEXTO DE LA PANDEMIA POR COVID-19",
+                    "appSubtitle": "AEC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aecirujanos.es/files/noticias/152/documentos/Pacientes_oncologicos_y_covid19_v2.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/1ce39722ad695ae37ed2fc64183912f707271813fdd70f24a2aea1a02ad28464c9f297011dae63ed4196188875db2cea80e244ca6d0737ac3bf8999593f8e6c4",
                     "appCategory": ""
                 }
             ]
