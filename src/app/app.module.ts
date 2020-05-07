@@ -17,6 +17,7 @@ import { IframeGeneratorService } from './services/iframe.generator.service';
 import {HttpClientModule} from '@angular/common/http';
 import {DataService} from './services/data.service';
 import { Title }     from '@angular/platform-browser';
+import {MatGridListModule} from '@angular/material';
 
 @NgModule({
   declarations: [
@@ -28,13 +29,14 @@ import { Title }     from '@angular/platform-browser';
     AppEntryComponent,
     AppListComponent
   ],
-  imports: [
-    BrowserModule,
-    HttpClientModule,
-    FormsModule,
-    ReactiveFormsModule,
-    DeviceDetectorModule.forRoot()
-  ],
+    imports: [
+        BrowserModule,
+        HttpClientModule,
+        FormsModule,
+        ReactiveFormsModule,
+        DeviceDetectorModule.forRoot(),
+        MatGridListModule
+    ],
   providers: [ReadJsonFileService, Broadcaster, IframeGeneratorService, DataService, Title],
   bootstrap: [AppComponent]
 })

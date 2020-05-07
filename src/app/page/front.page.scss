@@ -1,3 +1,10 @@
+:host {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    flex: 100%;
+}
+
 .content {
     margin-top: 120px !important;
 
@@ -10,7 +17,7 @@
     }
 
     &.no-searchBar {
-        margin-top: 75px !important;
+        margin-top: 80px !important;
     }
 
     .header {
@@ -34,6 +41,10 @@
     }
 
     .list {
+        display: flex;
+        flex-direction: column;
+        flex: 100%;
+
         #search {
             color: #a0a0a0;
 

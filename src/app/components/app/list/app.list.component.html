@@ -1,16 +1,60 @@
-<div *ngIf="apps.length === 0" class="no-results">
-    <h3>Aucun résultat</h3>
-</div>
+<div>
+    <div *ngIf="apps.length === 0" class="no-results">
+        <h3>Aucun résultat</h3>
+    </div>
 
-<ul class="appsList">
-    <app-entry [app]="app" [lastEntry]="i === apps.length-1" *ngFor="let app of apps, index as i" [activatedCategory]="activatedCategory"></app-entry>
-    <li [ngClass]="{'contact': true}">
-        <p class="copyright" *ngIf="this.data.appData.appCopyright.copyrightShow">
-            {{ this.data.appData.appCopyright.copyrightEntreprise }}&copy;{{ this.data.appData.appCopyright.copyrightYear }}
-            <br>
-            {{ this.data.appData.appCopyright.copyrightDescription }}
-            <br>
-            <a href="#" target="_blank" (click)="contactUs()">Demander d'autres scores</a>
-        </p>
-    </li>
-</ul>
+    <ul class="appsList">
+        <app-entry [app]="app" [lastEntry]="i === apps.length-1" *ngFor="let app of apps, index as i" [activatedCategory]="activatedCategory"></app-entry>
+        <li [ngClass]="{'contact': true}">
+            <p class="copyright" *ngIf="this.data.appData.appCopyright.copyrightShow">
+                {{ this.data.appData.appCopyright.copyrightEntreprise }}&copy;{{ this.data.appData.appCopyright.copyrightYear }}
+                <br>
+                {{ this.data.appData.appCopyright.copyrightDescription }}
+                <br>
+                <a href="#" target="_blank" (click)="contactUs()">Demander d'autres scores</a>
+            </p>
+        </li>
+    </ul>
+    <mat-grid-list class="grp-btn" cols="3" gutterSize="0.5em" rowHeight="3.5em">
+        <mat-grid-tile class="btn blue" colspan="1"
+                       (click)="openPDF('https://360medics.com/assets/clients/boehringer/pradaxa/pradaxa_bon_usage.pdf',
+                       'https://360medics.com/driveViewDocument/document/005dac82da4eaf9e37ac16fa776e48bda3684b5bcbc1dba17dda8b9146039cbb43be35fdc9e7a329e24f5f3ab4bc25b0865a898adaa4a7c6b04969c5d935c04c')">
+            Bon usage
+            <br>Pradaxa
+        </mat-grid-tile>
+        <mat-grid-tile class="btn blue" colspan="1"
+                       (click)="openPDF('https://360medics.com/assets/clients/boehringer/pradaxa/praxbind_bon_usage.pdf',
+                       'https://360medics.com/driveViewDocument/document/70280537a87e878881e117257a32b8454a9dfd6b2bf41aaba0683b6adce569901fa589558b1a31f166d3b75a0c0387cc4d10b393ee02ca1d217048c5877e13f8')">
+            Bon usage
+            <br>Praxbind
+        </mat-grid-tile>
+        <mat-grid-tile class="btn blue" colspan="1"
+                       (click)="openPDF('https://360medics.com/assets/clients/boehringer/pradaxa/actilyse_bon_usage.pdf',
+                       'https://360medics.com/driveViewDocument/document/6e35626c306ae93285091b7c0d48817a27b5601da0c8fce4c614d65d6a9b51e6fba47a22c61e0393b071ec8ee488a19a35296da33cddd94aa2ab1779a4557772')">
+            Bon usage
+            <br>Actilyse
+        </mat-grid-tile>
+        <mat-grid-tile class="btn gray" colspan="1"
+                       (click)="openDocDeepLink('https://app.360medics.com/document/9902',
+                       'medics://document-open?m_id=9902')">
+            RCP
+            <br>Pradaxa
+        </mat-grid-tile>
+        <mat-grid-tile class="btn gray" colspan="1"
+                       (click)="openDocDeepLink('https://app.360medics.com/document/14148',
+                       'medics://document-open?m_id=14148')">
+            RCP
+            <br>Praxbind
+        </mat-grid-tile>
+        <mat-grid-tile class="btn gray" colspan="1"
+                       (click)="openDocDeepLink('https://app.360medics.com/document/225',
+                       'medics://document-open?m_id=225')">
+            RCP
+            <br>Actilyse
+        </mat-grid-tile>
+    </mat-grid-list>
+</div>
+<p class="info-entreprise">
+    20-0056 – 01/2020 - 20/01/65570603/PM/011
+    <br>Boehringer Ingelheim France S.A.S.
+</p>

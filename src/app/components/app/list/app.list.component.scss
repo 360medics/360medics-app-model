@@ -1,4 +1,11 @@
 @import '../../../../scss/theme.scss';
+:host {
+  display: flex;
+  flex-direction: column;
+  flex: 100%;
+  justify-content: space-between;
+}
+
 .no-results {
   color: #444444;
   padding: 0 2em 0 2em;
@@ -14,8 +21,13 @@
   color: $appsListColor;
 }
 
+.info-entreprise {
+  color: black;
+  text-align: center;
+}
+
 li.contact {
-  margin-bottom: 80px !important;
+  margin-bottom: 50px !important;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -34,3 +46,22 @@ li.contact {
     }
   }
 }
+
+.grp-btn {
+  margin: 0 0.5em;
+
+  .btn {
+    text-align: center;
+    border-radius: 0.5em;
+    cursor: pointer;
+
+    &.blue {
+      background-color: #5B9BD5;
+    }
+
+    &.gray {
+      background-color: #BFBFBF;
+    }
+  }
+}
+
