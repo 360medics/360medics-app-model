@@ -10,7 +10,7 @@
         "headerData": {
             "headerLogo": "./assets/logo/logo_AOD_life.png",
             "headerSponso": "",
-            "headerTitle": "Podcast AOD Life: Témoignages d’experts sur des vrais cas patients",
+            "headerTitle": "Podcast AOD Life: Témoignages d’experts sur des cas patients",
             "headerColor": "#00B050"
         }
     },
@@ -37,7 +37,7 @@
             "appCategory": ""
         },
         {
-            "appTitle": "Episode 4: Hémorragie gastro-intestinale",
+            "appTitle": "Episode 4: Hémorragie gastro-intestinale majeure",
             "appSubtitle": "",
             "isExternalLink": true,
             "appLink": "https://www.00437.360medics-pro.com/episode4",
