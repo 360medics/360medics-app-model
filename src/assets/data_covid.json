@@ -29,19 +29,19 @@
             "isHome": true,
             "appEntries" : [
                 {
-                    "appTitle": "Prise en charge cas suspect",
+                    "appTitle": "DÉFINITION DES CAS",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/refonte/patient-suspect.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/56935812677e103dc5a46b3496291fc3df3af60969d010fb6dd16f628ed144e14f58808c7dd83d1218dc7061b7049c1294b2417a543ee893c8b4eecdecee8a7e",
+                    "appLink": "https://360medics.com/assets/media/covid19/refonte/COVID-19_definition_cas.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/54e8fe61724942582bef9d1ae03b90bf891e648baf3cef3f6efd56b27c6301aac5426a463ebd7f5fb563961ad65ac19219976afab07f70becc947a2ec647578e",
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Prise en charge d’un cas probable ou confirmé",
+                    "appTitle": "Prise en charge cas suspect",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/refonte/PEC-du-corps-d'un-patient-cas-probable-ou-confirme-COVID-19.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/daa73f449a8c5e7614790d0fbef315159206b636bb001eb57f41383a5938fb2efed70f11f47ba5455ac64208b1fb6522dbf6aaface7f15841ad274d73da7c75e",
+                    "appLink": "https://360medics.com/assets/media/covid19/refonte/pec-cas-suspect.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d33c46e825659c8422c19a757c9dbb5623f2a9415b11fec914018272b68eb3d8bed29748a590739ef51b0d4aa4273d4f7138d86127147232b41e65b9d80a7983",
                     "appCategory": ""
                 },
                 {
