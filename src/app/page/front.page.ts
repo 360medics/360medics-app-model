@@ -72,7 +72,6 @@ export class FrontPageComponent implements OnInit {
     getAppsList() {
         this.data = this.jsonData.appEntries;
         this.appsList = this.data;
-        //this.sortApps();
     }
 
     filterAppsList(e: any) {
@@ -84,7 +83,7 @@ export class FrontPageComponent implements OnInit {
             this.appsList = this.allDocs
                 .filter((app: AppEntry) => this.match(app, e.needle));
         } else {
-            if (this.appListBeforeFilter.length !== 0 && this.allDocs.length !== 0){
+            if (this.appListBeforeFilter.length !== 0 && this.allDocs.length !== 0) {
                 this.appsList = this.appListBeforeFilter;
                 this.appListBeforeFilter = [];
                 this.allDocs = [];

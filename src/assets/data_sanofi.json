@@ -16,40 +16,99 @@
     },
     "appEntries": [
         {
-            "appTitle": "L’INFLAMMATION DE TYPE 2 DANS L’ASTHME SEVERE",
-            "appSubtitle": "Physiopathologie : retour sur le rôle des cytokines IL4, IL5 et IL13",
-            "isExternalLink": true,
-            "appLink": "https://www.001606.360medics-pro.com/",
-            "appCategory": ""
+            "appTitle": "Asthme sévère & Inflammation de type 2",
+            "appSubtitle": "Physiopathologie, phénotypes et biomarqueurs",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "appEntries": [
+                {
+                    "appTitle": "L’INFLAMMATION DE TYPE 2 DANS L’ASTHME SEVERE",
+                    "appSubtitle": "Physiopathologie : retour sur le rôle des cytokines IL4, IL5 et IL13",
+                    "isExternalLink": true,
+                    "appLink": "https://www.001606.360medics-pro.com/",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "PHENOTYPES & BIOMARQUEURS DE L’INFLAMMATION DE TYPE 2",
+                    "appSubtitle": "Eosinophiles, IgE, FeNO : quels phénotypes et biomarqueurs utiliser pour reconnaître l’inflammation de type 2 dans l’asthme",
+                    "isExternalLink": true,
+                    "appLink": "https://www.001006.360medics-pro.com/phenotype",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Fraction exhalée de monoxyde d'azote ET INFLAMMATION DE TYPE 2 : POURQUOI ET COMMENT ?",
+                    "appSubtitle": "Son origine, son intérêt et son action",
+                    "isExternalLink": true,
+                    "appLink": "https://www.001006.360medics-pro.com/fraction",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "ASTHME SEVERE ET FONCTION RESPIRATOIRE",
+                    "appSubtitle": "Dans l'asthme sévère, le maintien/l'amélioration de la fonction respiratoire est important pour limiter les risques futurs",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/sanofi/fonction_respiratoire.html",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "TOUT SAVOIR SUR L’INFLAMMATION DE TYPE 2 EN 3MIN",
+                    "appSubtitle": "Film sur le mode d’action des cytokines IL4, IL5 et IL13",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/sanofi/Film_mode_of_action_fr_final2.mp4",
+                    "appCategory": ""
+                }
+            ]
         },
         {
-            "appTitle": "PHENOTYPES & BIOMARQUEURS DE L’INFLAMMATION DE TYPE 2",
-            "appSubtitle": "Eosinophiles, IgE, FeNO : quels phénotypes et biomarqueurs utiliser pour reconnaître l’inflammation de type 2 dans l’asthme",
-            "isExternalLink": true,
-            "appLink": "https://www.001006.360medics-pro.com/phenotype",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "Fraction exhalée de monoxyde d'azote ET INFLAMMATION DE TYPE 2 : POURQUOI ET COMMENT ?",
-            "appSubtitle": "Son origine, son intérêt et son action",
-            "isExternalLink": true,
-            "appLink": "https://www.001006.360medics-pro.com/fraction",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "ASTHME SEVERE ET FONCTION RESPIRATOIRE",
-            "appSubtitle": "Dans l'asthme sévère, le maintien/l'amélioration de la fonction respiratoire est important pour limiter les risques futurs",
-            "isExternalLink": true,
-            "appLink": "https://360medics.com/assets/media/sanofi/fonction_respiratoire.html",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "TOUT SAVOIR SUR L’INFLAMMATION DE TYPE 2 EN 3MIN",
-            "appSubtitle": "Film sur le mode d’action des cytokines IL4, IL5 et IL13",
-            "isExternalLink": true,
-            "appLink": "https://360medics.com/assets/media/sanofi/Film_mode_of_action_fr_final2.mp4",
-            "appCategory": ""
+            "appTitle": "Formez-vous à l’inflammation de type 2 en vidéo",
+            "appSubtitle": "Tout savoir sur l’inflammation de type 2 en 5 minutes ",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "",
+            "appEntries": [
+                {
+                    "appTitle": "Asthme : Les facteurs déclenchants",
+                    "appSubtitle": "Episode 1/6",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/sanofi/Facteurs_Declenchants_sous_titre.mp4",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Cytokines et lymphocytes TH2",
+                    "appSubtitle": "Episode 2/6",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/sanofi/lymphocyte_Th2_sous_titre.mp4",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "IgE & inflammation de type 2",
+                    "appSubtitle": "Episode 3/6",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/sanofi/Ige_sous_titre.mp4",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Eosinophiles & inflammation de type 2",
+                    "appSubtitle": "Episode 4/6",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/sanofi/Eosinophile_sous_titre.mp4",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Le rôle de l’IL13 sur les bronches",
+                    "appSubtitle": "Episode 5/6",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/sanofi/IL13_sous_titre.mp4",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "L’inflammation de type 2 : récapitulatif",
+                    "appSubtitle": "Episode 6/6",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/assets/media/sanofi/Inflammation_sous_titre.mp4",
+                    "appCategory": ""
+                }
+            ]
         }
-
     ]
 }
