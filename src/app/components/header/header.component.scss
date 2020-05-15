@@ -14,6 +14,9 @@
     @media (max-width: 400px) {
       font-size: 1.2em;
     }
+    @media (max-width: 420px) {
+      font-size: 1.3em;
+    }
   }
 
   #logo {
@@ -35,14 +38,15 @@
   i {
       font-size: 44px;
       padding: 0 12px;
+      cursor: pointer;
   }
 
   &.small {
-    height: 60px;
+    height: 75px;
     padding-right: 12px;
 
     h2 {
-      margin-right: 42px;
+      margin-right: 41px;
     }
 
     strong {
