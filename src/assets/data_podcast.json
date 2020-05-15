@@ -10,34 +10,34 @@
         "headerData": {
             "headerLogo": "./assets/logo/logo_AOD_life.png",
             "headerSponso": "",
-            "headerTitle": "Podcast AOD Life: Témoignages d’experts sur des cas patients",
+            "headerTitle": "Podcast AOD Life : Témoignages d’experts sur des cas patients",
             "headerColor": "#00B050"
         }
     },
     "appEntries": [
         {
-            "appTitle": "Episode 1: AVC ischémique",
+            "appTitle": "Episode 1 : AVC ischémique",
             "appSubtitle": "",
             "isExternalLink": true,
             "appLink": "https://www.00437.360medics-pro.com/",
             "appCategory": ""
         },
         {
-            "appTitle": "Episode 2: Fracture du tibia",
+            "appTitle": "Episode 2 : Fracture du tibia",
             "appSubtitle": "",
             "isExternalLink": true,
             "appLink": "https://www.00437.360medics-pro.com/episode2",
             "appCategory": ""
         },
         {
-            "appTitle": "Episode 3: Hématome sous-dural",
+            "appTitle": "Episode 3 : Hématome sous-dural",
             "appSubtitle": "",
             "isExternalLink": true,
             "appLink": "https://www.00437.360medics-pro.com/episode3",
             "appCategory": ""
         },
         {
-            "appTitle": "Episode 4: Hémorragie gastro-intestinale majeure",
+            "appTitle": "Episode 4 : Hémorragie gastro-intestinale majeure",
             "appSubtitle": "",
             "isExternalLink": true,
             "appLink": "https://www.00437.360medics-pro.com/episode4",
