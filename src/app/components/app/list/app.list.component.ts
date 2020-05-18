@@ -41,13 +41,19 @@ export class AppListComponent {
         window.open(finalLink, target);
     }
 
-    openDocDeepLink(link: string, deepLink: string) {
+    openDocLink(link: string) {
         let finalLink = link;
         let target = '_blank';
         if (!this._deviceDetectorService.isDesktop()) {
-            finalLink = deepLink;
+            finalLink = 'medics://viewer?m_source=' + link;
             target = '_self';
         }
+        window.open(finalLink, target);
+    }
+
+    openLink(link: string) {
+        const finalLink = link;
+        const target = '_blank';
         window.open(finalLink, target);
     }
 }
