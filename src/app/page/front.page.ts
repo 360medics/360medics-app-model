@@ -17,14 +17,15 @@ export class FrontPageComponent implements OnInit {
 
     data: AppEntry[] = [];
     appsList: AppEntry[] = [];
+    appsListParent: Array<AppEntry[]> = new Array<AppEntry[]>();
+    allDocs: AppEntry[] = [];
+    appListBeforeFilter: AppEntry[] = [];
     @Input() jsonData: Data;
     @Input() searchResults: SearchBarData;
     activatedCategory: string;
     openIn: boolean;
-    iframeUrl: string;
 
     constructor (private title: Title, private reader: ReadJsonFileService, private _broadcaster: Broadcaster, private _r2: Renderer2, private _elem: ElementRef, private _iframeGenerator: IframeGeneratorService) {
-
     }
 
     ngOnInit() {
@@ -39,18 +40,32 @@ export class FrontPageComponent implements OnInit {
 
         this._broadcaster.on('open.app.in.iframe', (data) => {
             this.openIn = true;
+            this.appsListParent.push(this.appsList);
             this._iframeGenerator.setUrl(data.url).setRenderer2(this._r2).createWithRenderer2();
         });
 
         this._broadcaster.on('close.app.iframe', (data) => {
             this.openIn = false;
-            this.appsList = this.data;
+            this.appsList = this.appsListParent.pop();
             document.querySelector('iframe').remove();
         });
 
         this._broadcaster.on('click.category', (event) => {
             this.activatedCategory = event;
         });
+
+        this._broadcaster.on('open.list', (data) => {
+            this.openIn = false;
+            this.appsListParent.push(this.appsList);
+            this.appsList = data.appEntries;
+        });
+
+        this._broadcaster.on('go.back', (data) => {
+            this.appsList = this.appsListParent.pop();
+            this.appListBeforeFilter = [];
+            this.allDocs = [];
+        });
+
         this.getAppsList();
     }
 
@@ -61,10 +76,18 @@ export class FrontPageComponent implements OnInit {
 
     filterAppsList(e: any) {
         if (e.needle !== null && e.needle.length > 0) {
-            this.appsList = this.data
+            if (this.allDocs.length === 0 && this.appListBeforeFilter.length === 0) {
+                this.findAllDocs(this.appsList, this.allDocs);
+                this.appListBeforeFilter = this.appsList;
+            }
+            this.appsList = this.allDocs
                 .filter((app: AppEntry) => this.match(app, e.needle));
         } else {
-            this.appsList = this.data;
+            if (this.appListBeforeFilter.length !== 0 && this.allDocs.length !== 0){
+                this.appsList = this.appListBeforeFilter;
+                this.appListBeforeFilter = [];
+                this.allDocs = [];
+            }
         }
     }
 
@@ -79,6 +102,16 @@ export class FrontPageComponent implements OnInit {
                 return false;
             });
         }
+    }
+
+    findAllDocs(entry: Array<AppEntry>, exit: Array<AppEntry>) {
+        entry.forEach((app: AppEntry) => {
+            if (app.appEntries === undefined || app.appEntries.length === 0) {
+                exit.push(app);
+            } else {
+                this.findAllDocs(app.appEntries, exit);
+            }
+        });
     }
 
     private match(app: AppEntry, term: string) {
