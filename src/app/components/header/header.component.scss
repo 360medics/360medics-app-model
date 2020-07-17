@@ -15,6 +15,9 @@
     @media (max-width: 400px) {
       font-size: 1.2em;
     }
+    @media (max-width: 420px) {
+      font-size: 1.3em;
+    }
   }
 
   #logo {
@@ -28,15 +31,15 @@
     margin-right: 16px;
 
     i {
-        font-size: 32px;
-        padding: 0 12px;
+      font-size: 32px;
+      padding: 0 12px;
     }
   }
 
   i {
-      font-size: 44px;
-      padding: 0 12px;
-      cursor: pointer;
+    font-size: 44px;
+    padding: 0 12px;
+    cursor: pointer;
   }
 
   &.small {

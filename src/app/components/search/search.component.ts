@@ -22,6 +22,9 @@ export class SearchComponent implements OnInit {
 
     ngOnInit() {
         this._broadcaster.emit('search.input', {});
+        this._broadcaster.on('go.back', (data) => {
+            this.searchInput = '';
+        });
     }
 
     filterAppsList(event) {

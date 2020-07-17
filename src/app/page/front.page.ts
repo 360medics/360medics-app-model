@@ -1,11 +1,11 @@
 import {Component, Renderer2, ElementRef, Input} from '@angular/core';
-import { OnInit } from '@angular/core';
-import { Title } from '@angular/platform-browser';
+import {OnInit} from '@angular/core';
+import {Title} from '@angular/platform-browser';
 
 import {AppEntry, SearchBarData, Data} from '../interface';
-import { ReadJsonFileService } from '../services';
-import { Broadcaster } from '../services/broadcaster.service';
-import { IframeGeneratorService } from '../services/iframe.generator.service';
+import {ReadJsonFileService} from '../services';
+import {Broadcaster} from '../services/broadcaster.service';
+import {IframeGeneratorService} from '../services/iframe.generator.service';
 
 @Component({
     selector: 'app-front-page',
@@ -24,14 +24,12 @@ export class FrontPageComponent implements OnInit {
     @Input() searchResults: SearchBarData;
     activatedCategory: string;
     openIn: boolean;
-    iframeUrl: string;
 
-    constructor (private title: Title, private reader: ReadJsonFileService, private _broadcaster: Broadcaster, private _r2: Renderer2, private _elem: ElementRef, private _iframeGenerator: IframeGeneratorService) {
-
+    constructor(private title: Title, private reader: ReadJsonFileService, private _broadcaster: Broadcaster, private _r2: Renderer2, private _elem: ElementRef, private _iframeGenerator: IframeGeneratorService) {
     }
 
     ngOnInit() {
-        if ( typeof this.jsonData.appData.footerData !== 'undefined') {
+        if (typeof this.jsonData.appData.footerData !== 'undefined') {
             this.activatedCategory = this.jsonData.appData.footerData[0].footerCategory;
         } else {
             this.activatedCategory = 'Tout';
@@ -64,6 +62,8 @@ export class FrontPageComponent implements OnInit {
 
         this._broadcaster.on('go.back', (data) => {
             this.appsList = this.appsListParent.pop();
+            this.appListBeforeFilter = [];
+            this.allDocs = [];
         });
         this.getAppsList();
     }
@@ -75,14 +75,14 @@ export class FrontPageComponent implements OnInit {
 
     filterAppsList(e: any) {
         if (e.needle !== null && e.needle.length > 0) {
-            if (this.allDocs.length === 0 && this.appListBeforeFilter) {
+            if (this.allDocs.length === 0 && this.appListBeforeFilter.length === 0) {
                 this.findAllDocs(this.appsList, this.allDocs);
                 this.appListBeforeFilter = this.appsList;
             }
             this.appsList = this.allDocs
                 .filter((app: AppEntry) => this.match(app, e.needle));
         } else {
-            if (this.appListBeforeFilter.length !== 0 && this.allDocs.length !== 0){
+            if (this.appListBeforeFilter.length !== 0 && this.allDocs.length !== 0) {
                 this.appsList = this.appListBeforeFilter;
                 this.appListBeforeFilter = [];
                 this.allDocs = [];

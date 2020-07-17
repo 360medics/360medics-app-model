@@ -1,9 +1,9 @@
-import { Component, OnInit, Input } from '@angular/core';
+import {Component, OnInit, Input} from '@angular/core';
 import {AppEntry, Data} from '../../../interface';
-import { DeviceDetectorService } from 'ngx-device-detector';
-import { Broadcaster } from '../../../services/broadcaster.service';
+import {DeviceDetectorService} from 'ngx-device-detector';
+import {Broadcaster} from '../../../services/broadcaster.service';
 import {ReadJsonFileService} from '../../../services';
-import { environment } from '../../../../environments/environment';
+import {environment} from '../../../../environments/environment';
 
 @Component({
     selector: 'app-entry',
@@ -24,7 +24,7 @@ export class AppEntryComponent implements OnInit {
 
     ngOnInit() {
         if (this.app.isExternalLink) {
-            if ( this.app.appLinkAndroid !== undefined && this._deviceDetectorService.os === 'Android') {
+            if (this.app.appLinkAndroid !== undefined && this.app.appLinkAndroid !== '' && this._deviceDetectorService.os === 'Android') {
                 this.appLink = this.app.appLinkAndroid;
             } else {
                 this.appLink = this.app.appLink;
@@ -44,8 +44,8 @@ export class AppEntryComponent implements OnInit {
     }
 
     open() {
-        if (this.app.appEntries !== undefined) {
-            this._broadcaster.emit('open.list', { appEntries: this.app.appEntries, title: this.app.appTitle, isHome: this.app.isHome });
+        if (this.app.appEntries !== undefined && this.app.appEntries.length !== 0) {
+            this._broadcaster.emit('open.list', {appEntries: this.app.appEntries, title: this.app.appTitle, isHome: this.app.isHome});
         } else {
             let finalLink = this.appLink;
             let target = '_blank';
@@ -63,6 +63,6 @@ export class AppEntryComponent implements OnInit {
     }
 
     openAppInIframe() {
-        this._broadcaster.emit('open.app.in.iframe', { url: this.appLink, title: this.app.appTitle });
+        this._broadcaster.emit('open.app.in.iframe', {url: this.appLink, title: this.app.appTitle, isHome: this.app.isHome});
     }
 }
