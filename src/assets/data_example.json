@@ -62,6 +62,23 @@
             "isExternalLink": true,
             "appLink": "https://github.com",
             "appCategory": "Catégorie1"
+        },
+        {
+            "appTitle": "Example4",
+            "appSubtitle": "Description Example",
+            "isExternalLink": false,
+            "appLink": "",
+            "appCategory": "Catégorie1",
+            "isHome": true,
+            "appEntries": [
+                {
+                    "appTitle": "Example5",
+                    "appSubtitle": "Description Example",
+                    "isExternalLink": true,
+                    "appLink": "https://github.com",
+                    "appCategory": "Catégorie1"
+                }
+            ]
         }
     ]
 }
