@@ -33,7 +33,10 @@ export interface AppEntry {
     appSubtitle: string;
     isExternalLink: string;
     appLink: string;
+    appLinkAndroid: string; // pdf link on android
     appCategory: string;
+    isHome: boolean; // indicates that this is the data displayed on the homepage
+    appEntries: AppEntry[];
 }
 
 export interface Data {

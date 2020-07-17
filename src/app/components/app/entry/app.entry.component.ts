@@ -24,7 +24,12 @@ export class AppEntryComponent implements OnInit {
 
     ngOnInit() {
         if (this.app.isExternalLink) {
-            this.appLink = this.app.appLink;
+            if ( this.app.appLinkAndroid !== undefined && this.app.appLinkAndroid !== '' && this._deviceDetectorService.os === 'Android') {
+                this.appLink = this.app.appLinkAndroid;
+            } else {
+                this.appLink = this.app.appLink;
+            }
+
         } else {
             this.appLink = environment.toolPath + this.app.appLink;
         }
@@ -40,17 +45,21 @@ export class AppEntryComponent implements OnInit {
     }
 
     open() {
-        let finalLink = this.appLink;
-        let target = '_blank';
+        if (this.app.appEntries !== undefined && this.app.appEntries.length !== 0) {
+            this._broadcaster.emit('open.list', { appEntries: this.app.appEntries, title: this.app.appTitle, isHome: this.app.isHome });
+        } else {
+            let finalLink = this.appLink;
+            let target = '_blank';
 
-        if (!this._deviceDetectorService.isDesktop()) {
-            finalLink = 'medics://viewer?m_source=' + this.appLink;
-            target = '_self';
+            if (!this._deviceDetectorService.isDesktop()) {
+                finalLink = 'medics://viewer?m_source=' + this.appLink;
+                target = '_self';
+            }
+            !this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
         }
-        !this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
     }
 
     openAppInIframe() {
-        this._broadcaster.emit('open.app.in.iframe', { url: this.appLink, title: this.app.appTitle });
+        this._broadcaster.emit('open.app.in.iframe', { url: this.appLink, title: this.app.appTitle, isHome: this.app.isHome });
     }
 }

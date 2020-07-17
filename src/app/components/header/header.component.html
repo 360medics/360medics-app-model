@@ -1,5 +1,5 @@
 <div class="header" [ngStyle]="{'background-color': data.appData.appColor}" flex flex-row flex-space-between *ngIf="inApp">
-    <img id="logo" src="{{ data.appData.headerData.headerLogo }}" alt="logo" style="height:60px;">
+    <img *ngIf="data.appData.headerData.headerLogo" id="logo" src="{{ data.appData.headerData.headerLogo }}" alt="logo" style="height:60px;">
     <h2 [ngStyle]="{'color': data.appData.headerData.headerColor}">{{ data.appData.headerData.headerTitle }}</h2>
     <img *ngIf="data.appData.headerData.headerSponso" src="{{ data.appData.headerData.headerSponso }}" alt="logo" style="max-height:60px;max-width:60px;">
     <div *ngIf="isDesktopDevice()" style="width: 48px;"></div>
