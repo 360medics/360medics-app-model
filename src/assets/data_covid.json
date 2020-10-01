@@ -40,32 +40,32 @@
                     "appTitle": "Prise en charge cas suspect",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/refonte/pec-cas-suspect.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d33c46e825659c8422c19a757c9dbb5623f2a9415b11fec914018272b68eb3d8bed29748a590739ef51b0d4aa4273d4f7138d86127147232b41e65b9d80a7983",
+                    "appLink": "https://www.has-sante.fr/upload/docs/application/pdf/2020-06/reco399_rr_covid_premier_recours_mel.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/20e7fa2ecda5d0d91c42ef92c36029bf6028436c09674a05c179786bf013edcf309e50225bb2647923a7c69da1735c4b9ec08f673c2ed9e45f5a332bc851181e",
                     "appCategory": ""
                 },
                 {
                     "appTitle": "Repérer et prendre en charge un patient atteint d’infection respiratoire aiguë",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/fiche-radar-covid19-med-de-ville-23-mars-maj-vf.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/533eada87dc1079566ba23092ab8046f59cf6adfb8dccb0535da9cdcb022533ff8c029adf4e9be25cf8f57a8b988b64440bd305d5bc73e732180724c52357c7e",
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/20200826-fichecoreb-covid-1er-soignant.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/81d00f8c345dd11b1e39b65b8b767c81c00620601bb262e6645e7237e03e09938a8a8796174fbcd645ca819952b6920bfaec1b0738ea0f86c6487346404d7672",
                     "appCategory": ""
                 },
                 {
                     "appTitle": "Prise en charge des patients à risque de forme sévère de COVID-19",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/new_hcsp-sars-cov-2_patients_fragiles_v3-2.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f69220fa4d74285193d10f08d83920ea0d24b4f171f636662d06ecb5b5eede4df63941bdbf45e074bdb5e8a83f3b481e6f7214ad887a811ff4609178052f8947",
+                    "appLink": "https://onco-nouvelle-aquitaine.fr/wp-content/ACTUALITES/2020/covid-19/hcspa20200723_corsarcovperrisdeforsvr.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/09f0bb680871f0a83676d329f7bebaf9de595c32a86f2fc427c2b2a5e4ffd56277d8e601d8e423b8a7836fe638bd2613e8f21e2f9a50f57172068dea50f0ff1e",
                     "appCategory": ""
                 },
                 {
                     "appTitle": "Protocole de la surveillance active des cas graves",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.srlf.org/wp-content/uploads/2020/03/2020-03-11_Protocole_Covid19_SurvCG.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a37233f3bb9728c326468e69f5897060b97f2a393f2a8177d41c3363921b023cbf285dd90db3ff8193ef83d2954ff51c9e8ccbab3b3d7e1bb6ac106c768cb923",
+                    "appLink": "https://360medics.com/driveViewDocument/document/f456a31862c7e6770d0c65fccc3fe85557d408d18b77a6a2e1a707f1829d31c307f1d3b214918bde1df6c29f8570e649b65930b8bda7de5c315db78625212b79",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f456a31862c7e6770d0c65fccc3fe85557d408d18b77a6a2e1a707f1829d31c307f1d3b214918bde1df6c29f8570e649b65930b8bda7de5c315db78625212b79",
                     "appCategory": ""
                 },
                 {
@@ -152,7 +152,7 @@
                     "appTitle": "Arrêt de travail",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://www.mgfrance.org/actualites/2499-arrets-de-travail-dans-le-cadre-de-l-epidemie-covid-19",
+                    "appLink": "https://www.ameli.fr/assure/covid-19/situations-relevant-dun-arret-de-travail/situations-relevant-dun-arret-de-travail#:~:text=d'urgence%20sanitaire.-,Les%20personnes%20pr%C3%A9sentant%20des%20signes%20%C3%A9vocateurs%20du%20Covid%2D19,n'est%20pas%20possible).",
                     "appLinkAndroid": "",
                     "appCategory": ""
 
@@ -179,8 +179,8 @@
                             "appTitle": "Recommandations d’experts sur la prise en charge en réanimation",
                             "appSubtitle": "",
                             "isExternalLink": true,
-                            "appLink": "https://360medics.com/assets/media/covid19/refonte/Recommandations-PEC-en-rea.pdf",
-                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/9d89b7c04361436b967d5ec405629727044d8d38fb7978912a1701cf4a100a6d8272eadc5d6e66191fc9dc5a23cdbf6f1576fdf3d21b43f9e42fd317d52642f4",
+                            "appLink": "http://aphp.aphp.fr/wp-content/blogs.dir/268/files/2020/04/SRLF-SFAR-SFMU-GFRUP-SPILF-SPLF_recommandations_-PEC-reanimation_20200407.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/52e3ae32fb83c729bd372e01f7e3d6382853f07b8cc62c7f6c7add6ef8a9007d195747c82d0f4d126986af5323015601c07441f0a2f192140bd09daccad3eb54",
                             "appCategory": ""
                         },
                         {
@@ -195,8 +195,8 @@
                             "appTitle": "Critères d’admission et modalités de prise en charge en réanimation en contexte pandémique",
                             "appSubtitle": "",
                             "isExternalLink": true,
-                            "appLink": "https://www.srlf.org/wp-content/uploads/2020/03/Critères-dadmission-COVID-19-CE-SRLF.pdf",
-                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/7a18fe25b619e1f0031adacaf445684e2d4710eadd12336aafb1b4753bcde57f45304c7ba932b8d764e5b937967b3fe2865e8ce3d08fd690baea284d8cb2e23f",
+                            "appLink": "https://www.srlf.org/wp-content/uploads/2020/04/20200410-Reco-Ethique-SRLF.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f5381e2931b273ed0db02ca2f648a3d1477c20a23f942aadd5d85c92ea1d6eb2de5323645b7185c1f39e3176765cd5984d2faceb79221699bf3e8bf9951e656b",
                             "appCategory": ""
                         },
                         {
@@ -309,8 +309,8 @@
                             "appTitle": "Prise en charge des patients atteints de maladie d’arythmie héréditaire",
                             "appSubtitle": "",
                             "isExternalLink": true,
-                            "appLink": "https://360medics.com/assets/media/covid19/refonte/PEC-maladie-rythmique-hereditaire.pdf",
-                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/85a91a0c3a9d5760306ca1ee0d3b3a4314231f4329e41ab2b48f3b5dd5ffec19a3b3e58ed66fbc636ad75b09bf12ec49f9a33ffb900f3a5fdf6a9c22724e093b",
+                            "appLink": "https://www.sfcardio.fr/sites/default/files/inline-files/COVID%20et%20maladie%20rythmique%20he%CC%81re%CC%81ditaire%20francais.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/c0dcad9736569b018fe652df7e456632ed48e6271ec225250c3de0d41188d38764e654899c81358693619c390dbe031d2187e41c5fb632f8649d109d1027c83d",
                             "appCategory": ""
                         }
                     ]
@@ -511,8 +511,8 @@
                             "appTitle": "Recommandations thérapeutiques",
                             "appSubtitle": "",
                             "isExternalLink": true,
-                            "appLink": "https://360medics.com/assets/media/covid19/refonte/recommandations-therapeutiques.pdf",
-                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/1c30de1f02b4fe5ab3de9a098f641de4c0ccac48604d32f54e4ee63464f7c50224f8d0fc4a7d6b5129a415a42cc881b0ca79e4d4263e4eb366a3de79c9a43aff",
+                            "appLink": "https://360medics.com/driveViewDocument/document/f30d64b758c03f5eccd86ebfa7404515c42fa861ebb0935f06f9ba197c8d7cdb71f83e8133deb6bbbabcd2ca7847201abb2873734cb476d73dbba4f130bb3a1f",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f30d64b758c03f5eccd86ebfa7404515c42fa861ebb0935f06f9ba197c8d7cdb71f83e8133deb6bbbabcd2ca7847201abb2873734cb476d73dbba4f130bb3a1f",
                             "appCategory": ""
                         },
                         {
@@ -535,8 +535,8 @@
                             "appTitle": "Décret chloroquine",
                             "appSubtitle": "",
                             "isExternalLink": true,
-                            "appLink": "http://splf.fr/centre-de-documentation-covid-19/decret-chloroquine-2/",
-                            "appLinkAndroid": "",
+                            "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/200527-_cp_hydroxychloroquine.pdf",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/7e8f24704e017c8fe471c4e57b5c6c6a8ed8f06f863c531592418b83922532c9554692c9eef03095516910549f54ceca5fa51f1f7b69838d674fd3e2c155bedb",
                             "appCategory": ""
                         }
                     ]
@@ -563,7 +563,7 @@
                     "appTitle": "Evolution COVID-19 en France",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/827bdf56850d4e3cbeb487cab677ca84",
+                    "appLink": "https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19/coronavirus-chiffres-cles-et-evolution-de-la-covid-19-en-france-et-dans-le-monde",
                     "appLinkAndroid": "",
                     "appCategory": ""
                 },
@@ -579,7 +579,7 @@
                     "appTitle": "Veille documentaire",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://supportcommercial.wixsite.com/website-33",
+                    "appLink": "https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19/covid-19-etat-des-connaissances-et-veille-documentaire",
                     "appLinkAndroid": "",
                     "appCategory": ""
                 },
