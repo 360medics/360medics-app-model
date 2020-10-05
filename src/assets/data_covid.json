@@ -45,13 +45,22 @@
                     "appCategory": ""
                 },
                 {
-                    "appTitle": "Repérer et prendre en charge un patient atteint d’infection respiratoire aiguë",
+                    "appTitle": "REPÉRER ET PRENDRE EN CHARGE UN PATIENT ATTEINT D’INFECTION RESPIRATOIRE AIGUË",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/20200512-fichecovid-medecin1ereligne-12-mai.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/2818f206a8a532b2c3e4aaa4a32846063159502b52af06edced6777c48a382e4b47ab73079dab56942c68503768913021f05a148c2572759c0627f72a3df5e9d",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Repérer et prendre en charge un patient en contexte épidémique – 1ère consultation médicale",
                     "appSubtitle": "",
                     "isExternalLink": true,
                     "appLink": "https://www.coreb.infectiologie.com/UserFiles/File/procedures/20200826-fichecoreb-covid-1er-soignant.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/81d00f8c345dd11b1e39b65b8b767c81c00620601bb262e6645e7237e03e09938a8a8796174fbcd645ca819952b6920bfaec1b0738ea0f86c6487346404d7672",
                     "appCategory": ""
                 },
+
                 {
                     "appTitle": "Prise en charge des patients à risque de forme sévère de COVID-19",
                     "appSubtitle": "",
@@ -64,8 +73,8 @@
                     "appTitle": "Protocole de la surveillance active des cas graves",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/driveViewDocument/document/f456a31862c7e6770d0c65fccc3fe85557d408d18b77a6a2e1a707f1829d31c307f1d3b214918bde1df6c29f8570e649b65930b8bda7de5c315db78625212b79",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/f456a31862c7e6770d0c65fccc3fe85557d408d18b77a6a2e1a707f1829d31c307f1d3b214918bde1df6c29f8570e649b65930b8bda7de5c315db78625212b79",
+                    "appLink": "https://360medics.com/driveViewDocument/document/48539b3f5cbfe3abadcac7c19e506e04e85b180372c3ef3cce79845d139b1b27b159c961622aadce59ea8a92312a59ebe3b04edcf23c6eeabfe4403bf1e0cb41",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/48539b3f5cbfe3abadcac7c19e506e04e85b180372c3ef3cce79845d139b1b27b159c961622aadce59ea8a92312a59ebe3b04edcf23c6eeabfe4403bf1e0cb41",
                     "appCategory": ""
                 },
                 {
@@ -94,15 +103,6 @@
                     "appLinkAndroid": "",
                     "appCategory": "",
                     "isInApp": true
-                },
-                {
-                    "appTitle": "Prise en charge pneumopathie aiguë communautaire",
-                    "appSubtitle": "",
-                    "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/refonte/Prise-en-charge-pneumopathie-aigue-communautaire.png",
-                    "appLinkAndroid": "",
-                    "appCategory": ""
-
                 },
                 {
                     "appTitle": "Prise en charge en hospitalisation à domicile",
@@ -179,8 +179,8 @@
                             "appTitle": "Recommandations d’experts sur la prise en charge en réanimation",
                             "appSubtitle": "",
                             "isExternalLink": true,
-                            "appLink": "http://aphp.aphp.fr/wp-content/blogs.dir/268/files/2020/04/SRLF-SFAR-SFMU-GFRUP-SPILF-SPLF_recommandations_-PEC-reanimation_20200407.pdf",
-                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/52e3ae32fb83c729bd372e01f7e3d6382853f07b8cc62c7f6c7add6ef8a9007d195747c82d0f4d126986af5323015601c07441f0a2f192140bd09daccad3eb54",
+                            "appLink": "https://sfar.org/download/recommandations-dexperts-portant-sur-la-prise-en-charge-en-reanimation-des-patients-en-periode-depidemie-a-sars-cov2/?wpdmdl=25387&refresh=5f77543a046441601655866",
+                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/24fbf44b320ab86d5dd5649786c214c910169bdcbb6e91d7b9ffc540f713b11f2782de1643b05d83e406672c6d1b0abf38127f9df3581eb426fdb4fb59ccf483",
                             "appCategory": ""
                         },
                         {
