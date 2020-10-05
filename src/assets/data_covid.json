@@ -65,8 +65,8 @@
                     "appTitle": "Prise en charge des patients à risque de forme sévère de COVID-19",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://onco-nouvelle-aquitaine.fr/wp-content/ACTUALITES/2020/covid-19/hcspa20200723_corsarcovperrisdeforsvr.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/09f0bb680871f0a83676d329f7bebaf9de595c32a86f2fc427c2b2a5e4ffd56277d8e601d8e423b8a7836fe638bd2613e8f21e2f9a50f57172068dea50f0ff1e",
+                    "appLink": "https://solidarites-sante.gouv.fr/IMG/pdf/new_hcsp-sars-cov-2_patients_fragiles_v3-2.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ccf3f6e87354f2adcbae0dd177b7b92ac210657dff5d331ee13f068f59dbe07436758af655c7108ced8e1b06c9d38361faa2ecc45fa31a1395c309b863c4fa18",
                     "appCategory": ""
                 },
                 {
@@ -221,14 +221,6 @@
                             "isExternalLink": true,
                             "appLink": "https://360medics.com/assets/media/covid19/refonte/Utilisation-appareils-ventilation.pdf",
                             "appLinkAndroid": "https://360medics.com/driveViewDocument/document/aa435f4dba460b8755406a18ab3b841259b3245bc11253511511b1834a5047358823f15add4930a24307e923daa8265ad0abab2f70d612ca01ffb0e02e3034c5",
-                            "appCategory": ""
-                        },
-                        {
-                            "appTitle": "Utilisation des appareils de ventilation",
-                            "appSubtitle": "",
-                            "isExternalLink": true,
-                            "appLink": "https://360medics.com/assets/media/covid19/refonte/Utilisation-appareils-ventilation-2.pdf",
-                            "appLinkAndroid": "https://360medics.com/driveViewDocument/document/e91834e4508b66916e9c4775ce47a22e59e009ec3f51219e0027715e5ed8966295c93b91c3d05ef60747516049d3c38bca366e7f8a6140f2eaaab14bd8690e07",
                             "appCategory": ""
                         },
                         {
