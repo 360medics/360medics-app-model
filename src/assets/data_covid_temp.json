@@ -159,6 +159,46 @@
                     "appLink": "https://www.aemps.gob.es/la-aemps/ultima-informacion-de-la-aemps-acerca-del-covid%E2%80%9119/tratamientos-disponibles-para-el-manejo-de-la-infeccion-respiratoria-por-sars-cov-2/",
                     "appLinkAndroid": "",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Especificaciones técnicas de dispositivos médicos para la gestión de casos de COVID-19 en los servicios de salud",
+                    "appSubtitle": "OMS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.paho.org/hq/index.php?option=com_docman&view=download&category_slug=materiales-cientificos-tecnicos-7992&alias=51835-especificaciones-tecnicas-de-dispositivos-medicos-para-la-gestion-de-casos-de-covid-19-en-los-servicios-de-salud&Itemid=270&lang=es",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Protocolo pulsos de corticoides en el SDRA por infección por SARS-COV-2",
+                    "appSubtitle": "Hospital Universitario Gregorio Marañón de Madrid",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/04/PROTOCOLO-PULSOS-DE-CORTICOIDES-EN-SDRA-POR-INF.-POR-SARS-MEDICINA-INTERNA.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Interacciones importantes con Lopinavir/ritonavir e Hidroxicloroquina",
+                    "appSubtitle": "Hospital Clinic Barcelona",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/05/Interacciones-importantes-con-Kaletra-e-Hidroxicloroquina_5_mayo-2020_COVID_19.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Seguimiento al alta de Urgencias y Hospitalización",
+                    "appSubtitle": "Consejería de Sanidad de Madrid",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/04/SEGUIMIENTO-AL-ALTA-URGENCIAS-Y-HOSPITALIZACION-V02_2-20042020.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para la obtención de plasma de donantes convalecientes de COVID-19",
+                    "appSubtitle": "CCST",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/COVID-19_RecPlasma_donantes.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
                 }
             ]
         },
@@ -170,6 +210,38 @@
             "appCategory": "",
             "isHome": true,
             "appEntries" : [
+                {
+                    "appTitle": "Nota sobre la utilización de desinfectantes de uso profesional por las empresas de limpieza",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Procedimiento de actuación para los servicios de prevención de riesgos laborales frente a la exposición al SARS-CoV-2",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/20200619Proteccion_Trabajadores_SARS-CoV-2.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones de uso de test de detección antigénica de SARS-CoV-2 en la Comunidad de Madrid. Algoritmos.",
+                    "appSubtitle": "SaludMadrid",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/09/Algoritmos-test-antigenicos_vs-2.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Antigen-detection in the diagnosis of SARS-CoV-2 infection using rapid immunoassays ",
+                    "appSubtitle": "OMS",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/09/WHO-2019-nCoV-Antigen_Detection-2020.1-eng.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
                 {
                     "appTitle": "MEDIDAS DE PROTECCIÓN RECOMENDADAS PARA LOS TRABAJADORES EN FUNCIÓN DE LA ACTIVIDAD LABORAL",
                     "appSubtitle": "Salud Madrid",
@@ -319,6 +391,14 @@
             "isHome": true,
             "appEntries" : [
                 {
+                    "appTitle": "Protocolos de atención de pacientes en salas de cateterismo cardiaco durante el brote de COVID-19",
+                    "appSubtitle": "Pan American Health Organization (PAHO)",
+                    "isExternalLink": true,
+                    "appLink": "http://www.archivoscardiologia.com/frame_esp.php?id=190",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Protocolos de manejo de casos en la Comunidad de Madrid",
                     "appSubtitle": "Comunidad Madrid",
                     "isExternalLink": true,
@@ -348,6 +428,14 @@
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200417_ITCoronavirus.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/6d7d8ba94bce1e395fe88a07f5eb8e4ed7cf2a4018a1fa7fd81411eb91e5c4250d98a0bb9eebc01aaf39c9a986f7427dc2c8a07a174c2641e831a7727eb664c1",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Procedimiento de actuación frente a casos de infección por el SARS-CoV-2",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/04/Procedimiento_COVID_19-11-de-abril.pdf",
+                    "appLinkAndroid": "",
                     "appCategory": ""
                 },
                 {
@@ -475,11 +563,27 @@
                     "appCategory": ""
                 },
                 {
+                    "appTitle": "Vacunación durante las fases de transición de la pandemia de COVID-19 ",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/COVID19_recomendaciones_vacunas.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "INSTRUCCIÓN PROGRAMA VACUNACIONES ESTADO DE ALARMA COVID-19",
                     "appSubtitle": "Conserjería de Salud Andalucía",
                     "isExternalLink": true,
                     "appLink": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/sites/default/files/sincfiles/wsas-media-mediafile_sasdocumento/2020/Estado%20de%20alarma%20INSTRUCCIONES%20PROGRAMA%20VACUNACIONES%20ESTADO%20DE%20ALARMA%20COVID_19%28F%29.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/122a45636c2f37ea239bacd59941c0e6275ff40ecc8c4363624caccbecfdf9be623cde824d725a44ec08c3c84342c35402dfd714f36e240237c464a6421b23e5",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para la atención fisioterapia a pacientes afectados por infección COVID-19 desde Atención Primaria y Comunitaria",
+                    "appSubtitle": "AEFI",
+                    "isExternalLink": true,
+                    "appLink": "http://www.aefi.net/Portals/1/coronavirus/Recomendaciones%20Fisioterapia%20APySC%20pacientes%20afectados%20COVID19.pdf",
+                    "appLinkAndroid": "",
                     "appCategory": ""
                 },
                 {
@@ -496,6 +600,38 @@
                     "isExternalLink": true,
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Manejo_primaria.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/4d03211c75f2c729c39c5faa29008838ae9085298ee7f295b3a9f2a824d4d3d9e1a27aa6a39998df14c46659e1ec47cce528cec476ed5b747c4c4cbdbb57b600",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Resumen manejo atención primaria y domiciliaria",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/COVID19_Manejo_Atencion_Primaria_180620.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo pediátrico en atención primaria del COVID-19 ",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Manejo_pediatria_ap.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Resumen visual manejo pediátrico atención primaria",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/COVID19_Manejo_pediatrico.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Protocolo odontológico ante el SARS-CoV2 (COVID-19) en Atención Primaria ",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www3.gobiernodecanarias.org/sanidad/scs/content/f4b815e6-c503-11ea-9319-63240985d1a5/Protocolo_USO_COVID19.pdf",
+                    "appLinkAndroid": "",
                     "appCategory": ""
                 },
                 {
@@ -536,6 +672,22 @@
                     "isExternalLink": true,
                     "appLink": "https://www.semergen.es/files/docs/COVID-19/Documentos/covid%20y%20ap-ferrer.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d6f391fdf4ed08640771b0695569f741b4b97cca961f70fb0432f6d99044f321a8693d36fe5da759cf7cc0111dfc796c17b0ef231b604a3d5ccd0b3bc9768295",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Algoritmo de estrategia de detección precoz, vigilancia y control de Covid19 adaptado a la Comunidad de Madrid.",
+                    "appSubtitle": "SERMAS",
+                    "isExternalLink": true,
+                    "appLink": "https://fundacionio.com/wp-content/uploads/2020/07/protocolo-covid-esquema-26-junio-2020.pdf",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/26376ab5fc918cfcf1265a2b5739b31fea45721e3469caf0d7d984d5d8f1aad23cac10e143b80eb0be272d318ee90b78ad89da37084aa7d541cc7d5f97ef3f1c",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Procedimiento de atención y seguimiento domiciliario de casos de COVID-19 en Asturias ",
+                    "appSubtitle": "Servicio de Salud del Principado de Asturias",
+                    "isExternalLink": true,
+                    "appLink": "https://www.astursalud.es/documents/31867/1002704/Procedimiento+de+atención+y+seguimiento+domiciliario+de+casos+confirmado+COVID19.pdf/57a088d2-e672-39fd-0537-5185d1b752ff",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/83b1f5f7d9c6178a0066c28e943f953d2ea9576427a25052e0f1c738ddda6617b2b40dc374ec46c602d1ba61b9970b7e0959fbb9f60448595d4083bfcead62ed",
                     "appCategory": ""
                 }
             ]
@@ -635,6 +787,62 @@
                     "appLink": "https://www.sedar.es/images/site/Intraoperatorio_y_coronavirus.docx_003_1.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/a8a99685537816c203bfd3a8fc4803748ee6551b41fb8fc3f8a0ff81af6b2fa1f508c01ecae160e484a5cba6300ad7ae4db5f30215cd55a110ed71d0555dd0d8",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo clínico de pacientes con enfermedad por el nuevo coronavirus (COVID-19)",
+                    "appSubtitle": "SEDAR",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sedar.es/images/site/NOTICIAS/coronavirus/Protocolo-manejo-clinico-COVID-19.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Anestesia pediátrica: recomendaciones para cirugías y procedimientos programados en el período de transición de la pandemia",
+                    "appSubtitle": "SEDAR",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sedar.es/images/site/NOTICIAS/coronavirus/DOC__ANES_PEDIATRICA_TRANSICIÓN_COVID_FINAL.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para la programación de cirugía en condiciones de seguridad durante el período de transición de la pandemia COVID-19",
+                    "appSubtitle": "SEDAR",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sedar.es/images/site/NOTICIAS/coronavirus/200516-DOCUMENTO_CIRUGIA-FINAL.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones de ONT para la gestión de los programas de donación transplante en relación con la pandemia de COVID-19",
+                    "appSubtitle": "SEDAR",
+                    "isExternalLink": true,
+                    "appLink": "http://www.ont.es/infesp/RecomendacionesParaProfesionales/Recomendaciones%20Donación%20y%20Trasplante%20frente%20al%20COVID-19%20ONT.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones ante una parada cardiaca durante la pandemia de COVID-19",
+                    "appSubtitle": "SEMERGEN, SEDAR",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sedar.es/images/site/NOTICIAS/coronavirus/Recomendaciones_ante_una_parada_cardiaca_durante_la_pandemia_de_COVID-19_Sociedades.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para el manejo anestésico del paciente COVID-19 sometido a cirugía torácica",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sedar.es/images/site/NOTICIAS/coronavirus/CTO-COVID_v.2REVDEF2_1.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo clínico del COVID-19: unidades de cuidados intensivos ",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Protocolo_manejo_clinico_uci_COVID-19.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
                 }
             ]
         },
@@ -693,6 +901,22 @@
                     "appLink": "https://www.portalfarma.com/Profesionales/campanaspf/Asesoramiento-salud-publica/infeccion-coronavirus-2019-nCoV/Documents/formulacion-cosmetica-farmacia-gel-higienizante-manos.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/d6ce26fa80d922721a1e4cffe2653e39a4d791814b848e2b51f43bb925bb1cdca90a4a905d862ae6d3bd155f2bd20fa2672203f5aaf664faf1e4a7598badaa24",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Manual e-receta privada contingencia COVID-19 ",
+                    "appSubtitle": "Consejo General de Colegios Farmacéuticos",
+                    "isExternalLink": true,
+                    "appLink": "manual-usuario-e-receta-privada-contingencia-covid-19.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Cómo preparar soluciones para la desinfección de superficies para uso por el público en general ",
+                    "appSubtitle": "Consejo General de Colegios Farmacéuticos",
+                    "isExternalLink": true,
+                    "appLink": "https://www.portalfarma.com/Profesionales/campanaspf/Asesoramiento-salud-publica/infeccion-coronavirus-2019-nCoV/Documents/como-preparar-soluciones-para-desinfectar-superficies-covid-19.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
                 }
             ]
         },
@@ -711,6 +935,30 @@
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/COVID19-hemodialisis.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/349f0114d316038f82fab9f2d9ae932dd830ff6931635962e80080aec7a25fff9a317eaf94a7ee5212d0450a97618b7b5c9669ca6975606ff53de05a6e3be25f",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo de la epidemia por coronavirus SARS-CoV-2 (Covid 19) en unidades de hemodiálisis ",
+                    "appSubtitle": "Revistanefrologia.com",
+                    "isExternalLink": true,
+                    "appLink": "https://www.revistanefrologia.com/contenidos/pdf/710.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Protocolo de actuación ante la pandemia de enfermedad por coronavirus en los pacientes de diálisis y transplantados renales",
+                    "appSubtitle": "SEN",
+                    "isExternalLink": true,
+                    "appLink": "https://www.senefro.org/contents/webstructure/CORONAVIRUS/Protocolo_SEN_Actuacion_Coronavi%20-%20Copy%201.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Folleto informativo sobre los síntomas de la infección por coronavirus - Información para pacientes",
+                    "appSubtitle": "SEN",
+                    "isExternalLink": true,
+                    "appLink": "https://senefro.org/modules.php?name=webstructure&idwebstructure=158",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
                 }
             ]
         },
@@ -723,12 +971,48 @@
             "isHome": true,
             "appEntries" : [
                 {
+                    "appTitle": "Recomendaciones para el manejo, prevención y control de COVID-19 en los servicios de oncología radioterápica",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": 
+                    "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/COVID19_oncort.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones SEOM sobre el cribado serológico previo al inicio de una quimioterapia inmunosupresora durante la pandemia COVID19. Pacientes asintomáticos sin infección COVID19 conocida.",
+                    "appSubtitle": "SEOM",
+                    "isExternalLink": true,
+                    "appLink": 
+                    "https://seom.org/images/Posicionamiento_TESTS_COVID_QUIMIO.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
                     "appTitle": "Podcast SEOM con recomendaciones a profesionales ante el COVID-19",
                     "appSubtitle": "SEOM",
                     "isExternalLink": true,
                     "appLink": 
                     "https://anchor.fm/seom/episodes/QA-SEOM-para-Onclogos-Mdicos-frente-al-COVID-19-ecip5j/a-a1t0hsr",
                     "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones éticas en la toma de decisiones con pacientes oncológicos durante la epidemia de COVID-19",
+                    "appSubtitle": "SEOM",
+                    "isExternalLink": true,
+                    "appLink": 
+                    "https://seom.org/images/RECOMENDACIONES_ETICAS_SECCION_DE_BIOETICA_DE__SEOM_COVID_19.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones SEOM sobre COVID-19 para profesionales sanitarios implicados en el tratamiento de pacientes oncológicos (actualización)",
+                    "appSubtitle": "SEOM",
+                    "isExternalLink": true,
+                    "appLink": 
+                    "",
+                    "appLinkAndroid": "https://seom.org/images/Recomendaciones_SEOM_COVID19_1903.pdf",
                     "appCategory": ""
                 }
             ]
@@ -767,6 +1051,22 @@
             "appCategory": "",
             "isHome": true,
             "appEntries" : [
+                {
+                    "appTitle": "Recomendaciones del GEECV para los pacientes con ictus en el contexto de la pandemia por COVID-19",
+                    "appSubtitle": "SEN",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sen.es/attachments/article/2662/Recomendaciones%20GEECV%20para%20pacientes%20con%20ictus%20COVID-19.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para el manejo de la miastenia gravis y el síndrome Lambert-Eaton durante la pandemia de COVID-19 - Grupo de trabajo internacional MG-COVID",
+                    "appSubtitle": "SEN",
+                    "isExternalLink": true,
+                    "appLink": "https://www.sen.es/attachments/article/2657/Recomendaciones%20manejo%20EM%20COVID-19-2.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
                 {
                     "appTitle": "Manual COVID-19 para el neurólogo general",
                     "appSubtitle": "SEN",
@@ -816,6 +1116,71 @@
                     "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Manejo_pediatria_ap.pdf",
                     "appLinkAndroid": "https://360medics.com/driveViewDocument/document/819bb9d8ebe5d37b4531251c34d8ffc0b39217d6feddfbc234fead5645c4ca0f4944bb55fbad8a20e3189038f726c101bb0123ff8a01cb4bdbe2196e714456bb",
                     "appCategory": ""
+                },
+                {
+                    "appTitle": "Plataforma clínica mundial sobre la COVID-19",
+                    "appSubtitle": "OMS",
+                    "isExternalLink": true,
+                    "appLink": "https://apps.who.int/iris/bitstream/handle/10665/333777/WHO-2019-nCoV-Pregnancy_CRF-2020.5-spa.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Propuesta de abordaje y organización de las consultas de pediatría de atención primaria en la pandemia por SARS-COV-2 (Otoño-invierno 2020-21)",
+                    "appSubtitle": "AEPap",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aepap.org/sites/default/files/noticia/archivos-adjuntos/consenso_aepap_sepeap-_propuesta_de_abordaje_y_organizacion_consultas.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo de la mujer embarazada y el recién nacido con COVID-19",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Documento_manejo_embarazo_recien_nacido.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Corronavirus (COVID-19) y embarazo",
+                    "appSubtitle": "Hospital Clínic | Hospital Sant Joan de Déu | Universitat de Barcelona",
+                    "isExternalLink": true,
+                    "appLink": "https://medicinafetalbarcelona.org/protocolos/es/patologia-materna-obstetrica/covid19-embarazo.html",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Los pediatras de AP plantean medidas de higiene, distanciamiento y refuerzo de los centros de salud como claves para una vuelta al cole segura",
+                    "appSubtitle": "AEPap",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aepap.org/sites/default/files/noticia/archivos-adjuntos/npvuelta_al_colegio_recomendaciones_covid-19.pdf"
+                    ,
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Documento de manejo clínico del paciente pediátrico en infección por SARS-CoV-2",
+                    "appSubtitle": "AEPap",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aeped.es/sites/default/files/21_8-_aep-seip-secip-seup._documento_de_ma_nejo_clinico_del_paciente_pediaitrico.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para el manejo del recién nacido en relación con la infección por SARS-CoV-2 ",
+                    "appSubtitle": "seNeo",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aeped.es/sites/default/files/recomendaciones_seneo_sars-cov-2_version_6.2_27052020_.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Propuesta de actuación ante la detección de un síntoma sospechoso de Covid-19 en un centro escolar",
+                    "appSubtitle": "AEPap",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aepap.org/sites/default/files/noticia/archivos-adjuntos/propuesta_de_actuacion_ante_la_deteccion_de_un_sintoma_sospechoso_de_covid-19_en_un_centro_escolar_.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
                 }
             ]
         },
@@ -827,6 +1192,38 @@
             "appCategory": "",
             "isHome": true,
             "appEntries" : [
+                {
+                    "appTitle": "Infección COVID-19. Lo que el técnico debe saber",
+                    "appSubtitle": "SERAM",
+                    "isExternalLink": true,
+                    "appLink": "https://seram.es/images/site/Infección_COVID_19_TER.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Manejo en el área de Radiodiagnóstico ante una sospecha de infección COVID-19",
+                    "appSubtitle": "SERAM",
+                    "isExternalLink": true,
+                    "appLink": "https://seram.es/images/site/coronavirus_seram.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "La radiología desde la aparición de la infección COVID-19 Análisis y recomendaciones",
+                    "appSubtitle": "SERAM",
+                    "isExternalLink": true,
+                    "appLink": "https://www.seram.es/images/site/Futuro_Radiologia_COVID_SERAM_2.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Guía básica de indicaciones de pruebas de imagen en la infección COVID-19 ",
+                    "appSubtitle": "SERAM",
+                    "isExternalLink": true,
+                    "appLink": "https://www.seram.es/images/site/Recomendaciones_imagen_SERAM_COVID_19.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
                 {
                     "appTitle": "RX DE TORAX",
                     "appSubtitle": "SERAM",
@@ -857,7 +1254,7 @@
                     "appTitle": "Recomendaciones en el manejo de la pandemia por coronavirus SARS-CoV-2 (Covid-19) en pacientes con trasplante renal",
                     "appSubtitle": "PMC",
                     "isExternalLink": true,
-                    "appLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7129342/",
+                    "appLink": "",
                     "appLinkAndroid": "",
                     "appCategory": ""
                 },
@@ -879,6 +1276,62 @@
             "appCategory": "",
             "isHome": true,
             "appEntries" : [
+                {
+                    "appTitle": "Recomendaciones generales en Cirugía de Urgencias - Covid-19",
+                    "appSubtitle": "AEC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aecirujanos.es/files/portalcontenidos//508/documentos/Recomendaciones_AEC_en_CIRUGIA_DE_URGENCIASv2(1).pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones generales Cirugía Oncológica Hepatobiliopanceática - Covid-19",
+                    "appSubtitle": "AEC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aecirujanos.es/files/portalcontenidos//508/documentos/RECOMENDACIONES_DE_ACTUACION_EN_CIRUGIA_ONCOLOGICA_DEL_AREA__HEPATOBILIOPANCREATICA(1).pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones generales CIRUGÍA oncológica ESOFAGO-GÁSTRICA - Covid-19",
+                    "appSubtitle": "AEC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aecirujanos.es/files/portalcontenidos//508/documentos/Recomendaciones_en_Cirugia_oncologica_E-G_en_COVID-19_V3(1).pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones de actuación en cirugía torácica electiva y urgente - Covid-19-2",
+                    "appSubtitle": "CETC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aecirujanos.es/files/portalcontenidos//508/documentos/Documento_de_consenso_Cirugia_Toracica_Pandemia_COVID.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones generales CIRUGÍA de la MAMA",
+                    "appSubtitle": "AEC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aecirujanos.es/files/portalcontenidos//508/documentos/Patologia_Mamaria(3).pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones para el reinicio de la Cirugía Bariátrica tras el pico de la pandemia SARS-COV-2",
+                    "appSubtitle": "AEC",
+                    "isExternalLink": true,
+                    "appLink": "https://www.aecirujanos.es/files/portalcontenidos/508/documentos/2020-06-01_GuiaCOVID_DEF.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
+                {
+                    "appTitle": "Recomendaciones de seguridad del paciente y profesionales en procedimientos intervencionistas en la fase de transición de la pandemia COVID-19 ",
+                    "appSubtitle": "MSCBS",
+                    "isExternalLink": true,
+                    "appLink": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/COVID19_Procedimientos_intervencionistas.pdf",
+                    "appLinkAndroid": "",
+                    "appCategory": ""
+                },
                 {
                     "appTitle": "Manejo quirúrgico de pacientes con infección por COVID-19",
                     "appSubtitle": "AEC",
