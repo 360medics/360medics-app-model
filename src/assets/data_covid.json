@@ -105,6 +105,15 @@
                     "isInApp": true
                 },
                 {
+                    "appTitle": "Préparation des épidémies de virus hivernaux en période de circulation du Covid-19",
+                    "appSubtitle": "",
+                    "isExternalLink": true,
+                    "appLink": "https://360medics.com/driveViewDocument/document/ebfb1a4b0348d3bc4a9ff57ff5708e88fe84472b4859ed411b29334ed1791059d7d77d08837ebbd2cfc2223ab26dc03db16949b9883f0467fe5c39fac12f854c",
+                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/ebfb1a4b0348d3bc4a9ff57ff5708e88fe84472b4859ed411b29334ed1791059d7d77d08837ebbd2cfc2223ab26dc03db16949b9883f0467fe5c39fac12f854c",
+                    "appCategory": "",
+                    "isInApp": true                   
+                },
+                {
                     "appTitle": "Prise en charge en hospitalisation à domicile",
                     "appSubtitle": "",
                     "isExternalLink": true,
