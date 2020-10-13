@@ -553,12 +553,12 @@
             "isHome": true,
             "appEntries" : [
                 {
-                    "appTitle": "Zones d’exposition à risque",
+                    "appTitle": "Veille épidémiologique du 03/10 en anesthésie / reanimation",
                     "appSubtitle": "",
                     "isExternalLink": true,
-                    "appLink": "https://360medics.com/assets/media/covid19/refonte/zones_exposition_risque.pdf",
-                    "appLinkAndroid": "https://360medics.com/driveViewDocument/document/aa0e6895fa0851489be105473cc1964a7fe3e8996c8b57cb5c651c9e2a1b3b68961d9d1eb52b82ba56b57a77306dfbb80d913996ea5bcc12bd4724c6471c4983",
-                    "appCategory": ""
+                    "appLink": "https://sfar.org/download/le-masque-et-la-plume-03-10/?wpdmdl=28797&refresh=5f841c426cb651602493506",
+                    "appLinkAndroid": "https://med-cdn.ams3.digitaloceanspaces.com/assets/docs/dir66000-66299/66232/assets",
+                    "appCategory": ""                   
                 },
                 {
                     "appTitle": "Evolution COVID-19 en France",
