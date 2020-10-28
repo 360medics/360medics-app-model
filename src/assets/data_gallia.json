@@ -1,35 +1,34 @@
 {
-    "appData": {
-        "appColor": "#26348B",
-        "appCopyright": {
-            "copyrightShow": false,
-            "copyrightEntreprise": "La Dysbiose",
-            "copyrightYear": "2020",
-            "copyrightDescription": ""
-        },
-        "headerData": {
-            "headerLogo": "./assets/logo/gallia.png",
-            "headerSponso": "",
-            "headerTitle": "La Dysbiose",
-            "headerColor": "#fff"
-        }
-
+  "appData": {
+    "appColor": "#26348B",
+    "appCopyright": {
+      "copyrightShow": false,
+      "copyrightEntreprise": "La Dysbiose",
+      "copyrightYear": "2020",
+      "copyrightDescription": ""
     },
-    "appEntries": [
-        {
-            "appTitle": "Les 1000 premiers jours",
-            "appSubtitle": "Une fenêtre d'opportunité pour moduler le microbiote intestinal",
-            "isExternalLink": true,
-            "appLink": "https://360medics.com/assets/media/gallia/index.html",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "Fiche posologique Prosyneo",
-            "appSubtitle": "Une formule exclusive pour prendre en charge la dysbiose",
-            "isExternalLink": true,
-            "appLink": "https://360medics.com/assets/media/gallia/ficheposo.html",
-            "appCategory": ""
-        }
-    ]
+    "headerData": {
+      "headerLogo": "./assets/logo/gallia.png",
+      "headerSponso": "",
+      "headerTitle": "Troubles digestifs",
+      "headerTitle1": "du nourisson",
+      "headerColor": "#fff"
+    }
+  },
+  "appEntries": [
+    {
+      "appTitle": "ÉTUDE CLINIQUE LÉOPARD",
+      "appSubtitle": "GALLIA BÉBÉ EXPERT AR : des bénéfices cliniquement prouvés",
+      "isExternalLink": true,
+      "appLink": "http://360medics.com/q/964f607f",
+      "appCategory": ""
+    },
+    {
+      "appTitle": "OUTIL PÉDAGOGIQUE DIGESTIF",
+      "appSubtitle": "Mieux prendre en charge les troubles digestifs chez le nourrisson",
+      "isExternalLink": true,
+      "appLink": "http://360medics.com/q/e9dc8b68",
+      "appCategory": ""
+    }
+  ]
 }
-
