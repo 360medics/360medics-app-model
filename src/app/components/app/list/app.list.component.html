@@ -1,16 +1,39 @@
 <div *ngIf="apps.length === 0" class="no-results">
-    <h3>Aucun résultat</h3>
+  <h3>Aucun résultat</h3>
 </div>
 
 <ul class="appsList">
-    <app-entry [app]="app" [lastEntry]="i === apps.length-1" *ngFor="let app of apps, index as i" [activatedCategory]="activatedCategory"></app-entry>
-    <li [ngClass]="{'contact': true}">
-        <p class="copyright" *ngIf="this.data.appData.appCopyright.copyrightShow">
-            {{ this.data.appData.appCopyright.copyrightEntreprise }}&copy;{{ this.data.appData.appCopyright.copyrightYear }}
-            <br>
-            {{ this.data.appData.appCopyright.copyrightDescription }}
-            <br>
-            <a href="#" target="_blank" (click)="contactUs()">Demander d'autres scores</a>
-        </p>
-    </li>
+  <app-entry
+    [app]="app"
+    *ngFor="let app of apps; index as i"
+    [activatedCategory]="activatedCategory"
+  ></app-entry>
+  <div class="textContent">
+    <p class="text">
+      <span class="textTitle">Avis Important</span> : Le lait maternel constitue
+      la meilleure alimentation du bébé.<br />
+      Nutramigen 1, 2 et 3 LGG sont des Denrées Alimentaires Spéciales, et à ce
+      titre, elles doivent être utilisées sous strict contrôle médical. La
+      formule ne doit pas être changée sans avis médical. Nutramigen* 1 LGG®,
+      Nutramigen* 2 LGG®, Nutramigen* 3 LGG® sont pris en charge dans le cadre
+      de l’allergie aux protéines du lait de vache. CODE LPPR 6146348 Tarif
+      12,96€ - PLV 20,46€ - (Arrêté du 23 février 2010 ; Avis tarif du 21
+      octobre 2016).<br />
+      Nutramigen* PURAMINO* est pris en charge chez l’enfant de moins de 10 ans
+      dans le cadre de l’APLV sévère et des pollyallergies alimentaires : CODE
+      LPPR 1173636 Tarif 46,47€ - PLV 55,18€ - (Arrêté du 18 avril 2017, Avis
+      tarif du 20 avril 2017).<br />
+      *Marques déposées de Mead Johnson Nutrition. © 2020 Reckitt Benckiser
+      France. LGG® et le logo LGG® sont des marques de Chr. Hansen A/S
+    </p>
+  </div>
+  <li [ngClass]="{ contact: true }">
+    <p class="copyright" *ngIf="this.data.appData.appCopyright.copyrightShow">
+      {{ this.data.appData.appCopyright.copyrightEntreprise
+      }}{{ this.data.appData.appCopyright.copyrightYear }}
+      <br />
+      {{ this.data.appData.appCopyright.copyrightDescription }}
+      <br />
+    </p>
+  </li>
 </ul>
