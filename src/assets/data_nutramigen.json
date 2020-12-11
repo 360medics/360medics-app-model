@@ -8,7 +8,7 @@
         "copyrightDescription": ""
       },
       "headerData": {
-        "headerLogo": "./assets/logo/nutramigen.jpg",
+        "headerLogo": "./assets/logo/nutramigen.png",
         "headerSponso": "",
         "headerTitle": "Réintroduction des protéines de",
         "headerTitle1": "vache chez l’enfant APLV",
@@ -21,35 +21,32 @@
         "appSubtitle": "",
         "isExternalLink": true,
         "appLink": "http://360medics.com/q/28f7b600",
-        "appCategory": ""
+        "appCategory": "",
+        "mailTo":""
       },
       {
         "appTitle": "Utilisation du Guide de réintroduction des protéines de lait de vache chez l’enfant APLV non IgE médiée",
         "appSubtitle": "",
         "isExternalLink": true,
         "appLink": "http://360medics.com/q/933f39a8",
-        "appCategory": ""
+        "appCategory": "",
+        "mailTo":""
       },
       {
         "appTitle": "Ordonnance de réintroduction des protéines de lait de vache chez l’enfant de 9 à 18 mois",
         "appSubtitle": "",
         "isExternalLink": true,
         "appLink": "http://360medics.com/q/75843557",
-        "appCategory": ""
+        "appCategory": "",
+        "mailTo":""
       },
       {
         "appTitle": "Ordonnance de réintroduction des protéines de lait de vache chez l’enfant de plus de 18 mois",
         "appSubtitle": "",
         "isExternalLink": true,
         "appLink": "http://360medics.com/q/cfd62c6d",
-        "appCategory": ""
-      },
-      {
-        "appTitle": "Demander mon guide de réintroduction des protéines du lait de vache papier",
-        "appSubtitle": "",
-        "isExternalLink": true,
-        "appLink":"https://www.360medics.com",
-        "appCategory":""
+        "appCategory": "",
+        "mailTo":""
       }
     ]
   }

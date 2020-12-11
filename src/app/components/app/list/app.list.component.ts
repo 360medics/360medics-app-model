@@ -14,10 +14,9 @@ export class AppListComponent {
 
 
     contactUs() {
-        const recipient = 'support@360medics.fr';
-        const subject = 'Demande de nouveau score';
-        const body = `Cher ` + this.data.appData.appCopyright.copyrightEntreprise + `, merci d'ajouter le score très utile à ma pratique clinique :`;
-        const mailto = `mailto:${recipient}?subject=${subject}&body=${body}`;
+        const recipient = 'meadjohnson.fr@rb.com';
+        const subject = 'Demande de guide';
+        const mailto = `mailto:${recipient}?subject=${subject}`;
 
         window.location.href = mailto;
     }

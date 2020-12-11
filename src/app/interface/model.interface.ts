@@ -31,6 +31,7 @@ export interface FooterData {
 export interface AppEntry {
     appTitle: string;
     appSubtitle: string;
+    mailTo: string,
     isExternalLink: string;
     appLink: string;
     appLinkAndroid: string; // pdf link on android

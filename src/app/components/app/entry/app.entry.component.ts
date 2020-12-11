@@ -1,65 +1,81 @@
-import { Component, OnInit, Input } from '@angular/core';
-import {AppEntry, Data} from '../../../interface';
-import { DeviceDetectorService } from 'ngx-device-detector';
-import { Broadcaster } from '../../../services/broadcaster.service';
-import {ReadJsonFileService} from '../../../services';
-import { environment } from '../../../../environments/environment';
+import { Component, OnInit, Input } from "@angular/core";
+import { AppEntry, Data } from "../../../interface";
+import { DeviceDetectorService } from "ngx-device-detector";
+import { Broadcaster } from "../../../services/broadcaster.service";
+import { ReadJsonFileService } from "../../../services";
+import { environment } from "../../../../environments/environment";
 
 @Component({
-    selector: 'app-entry',
-    templateUrl: 'app.entry.component.html',
-    styleUrls: ['app.entry.component.scss']
+  selector: "app-entry",
+  templateUrl: "app.entry.component.html",
+  styleUrls: ["app.entry.component.scss"],
 })
-
 export class AppEntryComponent implements OnInit {
-    @Input() app: AppEntry;
-    @Input() lastEntry: boolean;
-    appColor: string;
-    @Input() activatedCategory: string;
-    currentCategory: string;
-    appLink: string;
+  @Input() app: AppEntry;
+  @Input() lastEntry: boolean;
+  appColor: string;
+  @Input() activatedCategory: string;
+  currentCategory: string;
+  appLink: string;
+  mailTo: string;
 
-    constructor(private _broadcaster: Broadcaster, private _deviceDetectorService: DeviceDetectorService, private _jsonDataReader: ReadJsonFileService) {
+  constructor(
+    private _broadcaster: Broadcaster,
+    private _deviceDetectorService: DeviceDetectorService,
+    private _jsonDataReader: ReadJsonFileService
+  ) {}
+
+  ngOnInit() {
+    if (this.app.isExternalLink) {
+      if (
+        this.app.appLinkAndroid !== undefined &&
+        this.app.appLinkAndroid !== "" &&
+        this._deviceDetectorService.os === "Android"
+      ) {
+        this.appLink = this.app.appLinkAndroid;
+      } else {
+        this.appLink = this.app.appLink;
+      }
+    } else {
+      this.appLink = environment.toolPath + this.app.appLink;
     }
-
-    ngOnInit() {
-        if (this.app.isExternalLink) {
-            if ( this.app.appLinkAndroid !== undefined && this.app.appLinkAndroid !== '' && this._deviceDetectorService.os === 'Android') {
-                this.appLink = this.app.appLinkAndroid;
-            } else {
-                this.appLink = this.app.appLink;
-            }
-
-        } else {
-            this.appLink = environment.toolPath + this.app.appLink;
-        }
-        if (typeof this.activatedCategory !== 'undefined') {
-            this.currentCategory = this.activatedCategory;
-        } else {
-            this.currentCategory = 'Tout';
-        }
-        this._broadcaster.on('click.category', (event) => {
-            this.currentCategory = event;
-        });
-
+    if (typeof this.activatedCategory !== "undefined") {
+      this.currentCategory = this.activatedCategory;
+    } else {
+      this.currentCategory = "Tout";
     }
+    this._broadcaster.on("click.category", (event) => {
+      this.currentCategory = event;
+    });
+  }
 
-    open() {
-        if (this.app.appEntries !== undefined && this.app.appEntries.length !== 0) {
-            this._broadcaster.emit('open.list', { appEntries: this.app.appEntries, title: this.app.appTitle, isHome: this.app.isHome });
-        } else {
-            let finalLink = this.appLink;
-            let target = '_blank';
+  open() {
+    if (this.app.appEntries !== undefined && this.app.appEntries.length !== 0) {
+      this._broadcaster.emit("open.list", {
+        appEntries: this.app.appEntries,
+        title: this.app.appTitle,
+        isHome: this.app.isHome,
+        mailTo: this.app.mailTo,
+      });
+    } else {
+      let finalLink = this.appLink;
+      let target = "_blank";
 
-            if (!this._deviceDetectorService.isDesktop()) {
-                finalLink = 'medics://viewer?m_source=' + this.appLink;
-                target = '_self';
-            }
-            !this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
-        }
+      if (!this._deviceDetectorService.isDesktop()) {
+          finalLink = "medics://viewer?m_source=" + this.appLink;
+          target = "_self";
+      }
+      !this.app.isExternalLink
+        ? this.openAppInIframe()
+        : window.open(finalLink, target);
     }
+  }
 
-    openAppInIframe() {
-        this._broadcaster.emit('open.app.in.iframe', { url: this.appLink, title: this.app.appTitle, isHome: this.app.isHome });
-    }
+  openAppInIframe() {
+    this._broadcaster.emit("open.app.in.iframe", {
+      url: this.appLink,
+      title: this.app.appTitle,
+      isHome: this.app.isHome,
+    });
+  }
 }

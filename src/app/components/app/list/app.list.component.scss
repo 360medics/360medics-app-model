@@ -34,7 +34,24 @@ li.contact {
     }
   }
 }
-
+.otherLi {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: $appEntryBackgroundColor;
+  list-style-type: none;
+  border-bottom: solid 1px #ececec;
+  padding: 16px;
+  white-space: normal;
+  cursor: pointer;
+}
+a {
+  color: $gray;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -moz-tap-highlight-color: rgba(0, 0, 0, 0);
+  -o-tap-highlight-color: rgba(0, 0, 0, 0);
+}
 .textContent {
   width: 90%;
   margin-left: 5%;
