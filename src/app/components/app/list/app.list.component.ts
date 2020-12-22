@@ -14,10 +14,10 @@ export class AppListComponent {
 
 
     contactUs() {
-        const recipient = 'meadjohnson.fr@rb.com';
+        const recipient = 'meadjohnson.france@rb.com';
         const subject = 'Demande de guide';
         const mailto = `mailto:${recipient}?subject=${subject}`;
-
+        console.log('started')
         window.location.href = mailto;
     }
 }
