@@ -9,7 +9,6 @@
         },
         "headerData": {
             "headerLogo": "./assets/logo/hemato.png",
-            "headerSponso": "./assets/logo/takeda.png",
             "headerTitle": "Hemato Scores",
             "headerColor": "#EE3343"
         },
