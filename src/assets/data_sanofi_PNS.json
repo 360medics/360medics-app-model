@@ -1,55 +1,62 @@
 {
-    "appData": {
-        "appColor": "#f2f4f8",
-        "appCopyright": {
-            "copyrightShow": false,
-            "copyrightEntreprise": "Sanofi",
-            "copyrightYear": "2020",
-            "copyrightDescription": "Polypose Naso-Sinusienne"
-        },
-        "headerData": {
-            "headerLogo": "./assets/logo/sanofi.png",
-            "headerSponso": "",
-            "_comment": "",
-            "headerTitle": "Polypose Naso-Sinusienne",
-            "headerColor": "#444492"
-        }
+  "appData": {
+    "appColor": "#f2f4f8",
+    "appCopyright": {
+      "copyrightShow": false,
+      "copyrightEntreprise": "Sanofi",
+      "copyrightYear": "2020",
+      "copyrightDescription": "Polypose Naso-Sinusienne"
     },
-    "appEntries": [
-        {
-            "appTitle": "L’INFLAMMATION DE TYPE 2 DANS LA POLYPOSE NASO-SINUSIENNE",
-            "appSubtitle": "Physiopathologie : retour sur le rôle des cytokines IL-4, IL-13 et IL-5",
-            "isExternalLink": true,
-            "appLink": "https://360medics.com/q/504628ae",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "IMPACTS DE LA POLYPOSE NASO-SINUSIENNE",
-            "appSubtitle": "Symptômes nasaux, symptômes auriculaires et faciaux, dégradation de la qualité de vie liée à la santé, symptômes psychologiques",
-            "isExternalLink": true,
-            "appLink": "https://360medics.com/q/6c518c5d",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "QUESTIONNAIRE SUR LA QUALITÉ DE VIE DE VOS PATIENTS",
-            "appSubtitle": "SNOT-22 : le questionnaire d'évaluation de l'impact des symptômes naso-sinusiens sur la qualité de vie des patient",
-            "isExternalLink": true,
-            "appLink": "https://360medics.com/q/a9768244",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "OUTILS D'ÉVALUATION DE LA POLYPOSE NASO-SINUSIENNE",
-            "appSubtitle": "De nombreux examens cliniques, paracliniques et outils d’auto-évaluation par les patients pour déterminer le degré de sévérité de la polypose naso-sinusienne",
-            "isExternalLink": true,
-            "appLink": "https://med-cdn.ams3.digitaloceanspaces.com/assets/media/sanofi/severite_pns.pdf",
-            "appCategory": ""
-        },
-        {
-            "appTitle": "VOTRE AVIS COMPTE",
-            "appSubtitle": "3 questions pour améliorer la prise en charge des patients atteints de polypose naso-sinusienne (durée : 1 minute)",
-            "isExternalLink": true,
-            "appLink": "http://360medics.com/q/cb7d69f2",
-            "appCategory": ""
-        }
-    ]
+    "headerData": {
+      "headerLogo": "./assets/logo/sanofi.png",
+      "headerSponso": "",
+      "_comment": "",
+      "headerTitle": "Polypose Naso-Sinusienne",
+      "headerColor": "#444492"
+    }
+  },
+  "appEntries": [
+    {
+      "appTitle": "L’INFLAMMATION DE TYPE 2 DANS LA POLYPOSE NASO-SINUSIENNE",
+      "appSubtitle": "Physiopathologie : retour sur le rôle des cytokines IL-4, IL-13 et IL-5",
+      "isExternalLink": true,
+      "appLink": "https://360medics.com/q/504628ae",
+      "appCategory": ""
+    },
+    {
+      "appTitle": "IMPACTS DE LA POLYPOSE NASO-SINUSIENNE",
+      "appSubtitle": "Symptômes nasaux, symptômes auriculaires et faciaux, dégradation de la qualité de vie liée à la santé, symptômes psychologiques",
+      "isExternalLink": true,
+      "appLink": "https://360medics.com/q/6c518c5d",
+      "appCategory": ""
+    },
+    {
+      "appTitle": "QUESTIONNAIRE SUR LA QUALITÉ DE VIE DE VOS PATIENTS",
+      "appSubtitle": "SNOT-22 : le questionnaire d'évaluation de l'impact des symptômes naso-sinusiens sur la qualité de vie des patient",
+      "isExternalLink": true,
+      "appLink": "https://360medics.com/q/a9768244",
+      "appCategory": ""
+    },
+    {
+      "appTitle": "OUTILS D'ÉVALUATION DE LA POLYPOSE NASO-SINUSIENNE",
+      "appSubtitle": "De nombreux examens cliniques, paracliniques et outils d’auto-évaluation par les patients pour déterminer le degré de sévérité de la polypose naso-sinusienne",
+      "isExternalLink": true,
+      "appLink": "https://med-cdn.ams3.digitaloceanspaces.com/assets/media/sanofi/severite_pns.pdf",
+      "appCategory": ""
+    },
+    {
+      "appTitle": "MÉDICAMENT D’EXCEPTION ET PRESCRIPTION INITIALE HOSPITALIÈRE",
+      "appSubtitle": "Définitions, conditions de renouvellement et renouvellement",
+      "isExternalLink": true,
+      "appLink": "https://med-cdn.ams3.digitaloceanspaces.com/assets/clients/sanofi/dupixent/orl/remis_ordonnance.pdf",
+      "appCategory": ""
+    },
+    {
+      "appTitle": "VOTRE AVIS COMPTE",
+      "appSubtitle": "3 questions pour améliorer la prise en charge des patients atteints de polypose naso-sinusienne (durée : 1 minute)",
+      "isExternalLink": true,
+      "appLink": "http://360medics.com/q/cb7d69f2",
+      "appCategory": ""
+    }
+  ]
 }
