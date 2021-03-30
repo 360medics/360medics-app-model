@@ -45,17 +45,18 @@ export class AppEntryComponent implements OnInit {
     }
 
     open() {
-        if (this.app.appEntries !== undefined && this.app.appEntries.length !== 0) {
-            this._broadcaster.emit('open.list', { appEntries: this.app.appEntries, title: this.app.appTitle, isHome: this.app.isHome });
-        } else {
-            let finalLink = this.appLink;
-            let target = '_blank';
-
-            if (!this._deviceDetectorService.isDesktop()) {
-                finalLink = 'medics://viewer?m_source=' + this.appLink;
-                target = '_self';
+        if (this.app.toOpen) {
+            if (this.app.appEntries !== undefined && this.app.appEntries.length !== 0) {
+                this._broadcaster.emit('open.list', { appEntries: this.app.appEntries, title: this.app.appTitle, isHome: this.app.isHome });
+            } else {
+                let finalLink = this.appLink;
+                let target = '_blank';
+                if (!this._deviceDetectorService.isDesktop()) {
+                    finalLink = 'medics://viewer?m_source=' + this.appLink;
+                    target = '_self';
+                }
+                !this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
             }
-            !this.app.isExternalLink ? this.openAppInIframe() : window.open(finalLink, target);
         }
     }
 

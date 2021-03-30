@@ -36,6 +36,7 @@ export interface AppEntry {
     appLinkAndroid: string; // pdf link on android
     appCategory: string;
     isHome: boolean; // indicates that this is the data displayed on the homepage
+    toOpen: boolean;
     appEntries: AppEntry[];
 }
 

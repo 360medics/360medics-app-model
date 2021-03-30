@@ -16,32 +16,36 @@
     },
     "appEntries": [
         {
-            "appTitle": "Episode 1 : AVC ischémique",
+            "appTitle": "EPISODE 1 : AVC ISCHÉMIQUE",
             "appSubtitle": "",
             "isExternalLink": true,
-            "appLink": "https://360medics.com/q/14fb83d4",
-            "appCategory": ""
+            "appLink": "http://360medics.com/q/19b2c169",
+            "appCategory": "",
+            "toOpen": true
         },
         {
-            "appTitle": "Episode 2 : Fracture du tibia",
+            "appTitle": "EPISODE 2 : FRACTURE DU TIBIA (à venir)",
             "appSubtitle": "",
             "isExternalLink": true,
-            "appLink": "https://360medics.com/q/ea0a5d81",
-            "appCategory": ""
+            "appLink": "",
+            "appCategory": "",
+            "toOpen": false
         },
         {
-            "appTitle": "Episode 3 : Hématome sous-dural",
+            "appTitle": "EPISODE 3 : HÉMATOME SOUS-DURAL (à venir)",
             "appSubtitle": "",
             "isExternalLink": true,
-            "appLink": "https://360medics.com/q/58a9c9d6",
-            "appCategory": ""
+            "appLink": "",
+            "appCategory": "",
+            "toOpen": false
         },
         {
-            "appTitle": "Episode 4 : Hémorragie gastro-intestinale majeure",
+            "appTitle": "EPISODE 4 : HÉMORRAGIE GASTRO-INTESTINALE MAJEURE",
             "appSubtitle": "",
             "isExternalLink": true,
             "appLink": "https://360medics.com/q/ea7522ea",
-            "appCategory": ""
+            "appCategory": "",
+            "toOpen": true
         }
     ]
 }
