@@ -31,7 +31,7 @@ export class AppEntryComponent implements OnInit {
         if (typeof this.activatedCategory !== 'undefined') {
             this.currentCategory = this.activatedCategory;
         } else {
-            this.currentCategory = 'Tout';
+            this.currentCategory = 'All';
         }
         this._broadcaster.on('click.category', (event) => {
             this.currentCategory = event;
