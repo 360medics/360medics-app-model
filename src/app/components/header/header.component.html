@@ -1,22 +1,63 @@
-<div class="header" [ngStyle]="{'background-color': data.appData.appColor}" flex flex-row flex-space-between *ngIf="inApp">
-    <img id="logo" src="{{ data.appData.headerData.headerLogo }}" alt="logo" style="height:60px;">
-    <h2 [ngStyle]="{'color': data.appData.headerData.headerColor}">{{ data.appData.headerData.headerTitle }}</h2>
-    <img *ngIf="data.appData.headerData.headerSponso" src="{{ data.appData.headerData.headerSponso }}" alt="logo" style="max-height:60px;max-width:60px;">
-    <div *ngIf="isDesktopDevice()" style="width: 48px;"></div>
-    <a href="cmd://webview-close" *ngIf="!isDesktopDevice()" class="close" [ngStyle]="{'color': data.appData.headerData.headerColor}">
-        <!--<img src="assets/icons/close.png" alt="" class="close">-->
-        <i class="fal fa-times"></i>
-    </a>
-    <!--<div *ngIf="isDesktopDevice()"></div>-->
+<div
+  class="header"
+  [ngStyle]="{ 'background-color': data.appData.appColor }"
+  flex
+  flex-row
+  flex-space-between
+  *ngIf="inApp"
+>
+  <img
+    id="logo"
+    src="{{ data.appData.headerData.headerLogo }}"
+    alt="logo"
+    style="height: 60px"
+  />
+  <h2 [ngStyle]="{ color: data.appData.headerData.headerColor }">
+    {{ data.appData.headerData.headerTitle }}
+  </h2>
+  <img
+    *ngIf="data.appData.headerData.headerSponso"
+    src="{{ data.appData.headerData.headerSponso }}"
+    alt="logo"
+    style="max-height: 60px; max-width: 60px"
+  />
+  <div *ngIf="isDesktopDevice()" style="width: 48px"></div>
+  <a
+    href="cmd://webview-close"
+    *ngIf="!isDesktopDevice()"
+    class="close"
+    [ngStyle]="{ color: data.appData.headerData.headerColor }"
+  >
+    <!--<img src="assets/icons/close.png" alt="" class="close">-->
+    <i class="fal fa-times"></i>
+  </a>
+  <!--<div *ngIf="isDesktopDevice()"></div>-->
 </div>
 
-<div class="header small" [ngStyle]="{'background-color': data.appData.appColor}" flex flex-row flex-space-between *ngIf="!inApp">
-    <div (click)="closeViewer()" [ngStyle]="{'color': data.appData.headerData.headerColor}">
-        <i class="fal fa-angle-left"></i>
-    </div>
-    <h2 [ngStyle]="{'color': data.appData.headerData.headerColor}">{{ appTitle }}</h2>
-    <a href="cmd://webview-close" *ngIf="!isDesktopDevice()">
-        <!--<img src="assets/icons/close.png" alt="" class="close">-->
-    </a>
-    <div *ngIf="isDesktopDevice()"></div>
+<div
+  class="header small"
+  [ngStyle]="{ 'background-color': data.appData.appColor }"
+  flex
+  flex-row
+  flex-space-between
+  *ngIf="!inApp"
+>
+  <div
+    (click)="closeViewer()"
+    [ngStyle]="{ color: data.appData.headerData.headerColor }"
+  >
+    <i class="fal fa-angle-left"></i>
+  </div>
+  <h2 [ngStyle]="{ color: data.appData.headerData.headerColor }">
+    {{ appTitle }}
+  </h2>
+  <a
+    href="cmd://webview-close"
+    *ngIf="!isDesktopDevice()"
+    class="close"
+    [ngStyle]="{ color: data.appData.headerData.headerColor }"
+  >
+    <!--<img src="assets/icons/close.png" alt="" class="close">-->
+    <i class="fal fa-times"></i>
+  </a>
 </div>
