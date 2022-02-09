@@ -19,19 +19,19 @@
     },
     "footerData": [
       {
-        "footerCategory": "All",
+        "footerCategory": "Todo",
         "footerIconType": "fontawesome",
         "footerIconPath": "<i class=\"fal fa-list\"></i>",
         "footerColor": "#EE3343"
       },
       {
-        "footerCategory": "Myeloid",
+        "footerCategory": "Mieloide",
         "footerIconType": "fontawesome",
         "footerIconPath": "<i class=\"far fa-tint\"></i>",
         "footerColor": "#EE3343"
       },
       {
-        "footerCategory": "Lymphoid",
+        "footerCategory": "Linfoide",
         "footerIconType": "fontawesome",
         "footerIconPath": "<i class=\"far fa-tint\"></i>",
         "footerColor": "#EE3343"
@@ -41,73 +41,73 @@
   "appEntries": [
     {
       "appTitle": "IPSS-R",
-      "appSubtitle": "Myelodysplastic syndromes",
+      "appSubtitle": "Síndromes mielodisplásicos",
       "isExternalLink": false,
       "appLink": "ipss_r.html",
-      "appCategory": "Myeloid"
+      "appCategory": "Mieloide"
     },
     {
-      "appTitle": "Salmon and Durie",
-      "appSubtitle": "Multiple myeloma",
+      "appTitle": "SALMÓN Y DURIE",
+      "appSubtitle": "Mieloma múltiple",
       "isExternalLink": false,
       "appLink": "salmon_durie.html",
-      "appCategory": "Lymphoid"
+      "appCategory": "Linfoide"
     },
     {
       "appTitle": "R-ISS",
-      "appSubtitle": "Multiple myeloma",
+      "appSubtitle": "Mieloma múltiple",
       "isExternalLink": false,
       "appLink": "r_iss.html",
-      "appCategory": "Lymphoid"
+      "appCategory": "Linfoide"
     },
     {
       "appTitle": "Binet",
-      "appSubtitle": "Chronic lymphoid leukemia",
+      "appSubtitle": "Leucemia linfática crónica",
       "isExternalLink": false,
       "appLink": "binet.html",
-      "appCategory": "Lymphoid"
+      "appCategory": "Linfoide"
     },
     {
       "appTitle": "Matutes/RMH",
-      "appSubtitle": "Chronic lymphoid leukemia",
+      "appSubtitle": "Leucemia linfática crónica",
       "isExternalLink": false,
       "appLink": "matutes_rmh.html",
-      "appCategory": "Lymphoid"
+      "appCategory": "Linfoide"
     },
     {
       "appTitle": "FLIPI",
-      "appSubtitle": "Follicular lymphoma",
+      "appSubtitle": "Linfoma folicular",
       "isExternalLink": false,
       "appLink": "flipi.html",
-      "appCategory": "Lymphoid"
+      "appCategory": "Linfoide"
     },
     {
       "appTitle": "GELF Criteria",
-      "appSubtitle": "Follicular lymphoma",
+      "appSubtitle": "Linfoma folicular",
       "isExternalLink": false,
       "appLink": "gelf.html",
-      "appCategory": "Lymphoid"
+      "appCategory": "Linfoide"
     },
     {
       "appTitle": "R-IPI",
-      "appSubtitle": "Diffuse large cell B lymphoma",
+      "appSubtitle": "Linfoma difuso de células grandes B",
       "isExternalLink": false,
       "appLink": "r_ipi.html",
-      "appCategory": "Lymphoid"
+      "appCategory": "Linfoide"
     },
     {
       "appTitle": "MIPI",
-      "appSubtitle": "Mantle cell lymphoma",
+      "appSubtitle": "Linfoma de células del manto",
       "isExternalLink": false,
       "appLink": "mipi.html",
-      "appCategory": "Lymphoid"
+      "appCategory": "Linfoide"
     },
     {
-      "appTitle": "Sokal Index",
-      "appSubtitle": "Chronic myeloid leukemia",
+      "appTitle": "ÍNDICE SOKAL",
+      "appSubtitle": "Leucemia mieloide crónica",
       "isExternalLink": false,
       "appLink": "sokal.html",
-      "appCategory": "Myeloid"
+      "appCategory": "Mieloide"
     }
   ]
 }
